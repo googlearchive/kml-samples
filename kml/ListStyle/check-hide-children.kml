@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Style id="chc">
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Folder>
+      <name>Children are hidden</name>
+      <styleUrl>#chc</styleUrl>
+      <Placemark/>
+      <Placemark/>
+    </Folder>
+    <Folder>
+      <name>Children are not hidden</name>
+      <Placemark/>
+      <Placemark/>
+    </Folder>
+  </Document>
+</kml>
