@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  
+  How to make a polygon "selectable"?
+  You don't.  You associate a Point (icon) with
+  the Polygon and use StyleMap to give the Polygon
+  rollover behavior.  User rolls over the icon
+  and the Polygon and its border change color/transparency.
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+
+    <Style id="normal">
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <!-- This hides all lines in non-highlight -->
+      <LineStyle>
+        <color>00000000</color>
+        <!-- a==00: fully transparent Polygon outline -->
+      </LineStyle>
+      <PolyStyle>
+        <color>7fff8080</color>
+      </PolyStyle>
+    </Style>
+
+    <Style id="highlight">
+      <LineStyle>
+        <color>ff3f00ff</color>
+        <!-- solid black Polygon outline -->
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f808080</color>
+      </PolyStyle>
+    </Style>
+
+    <StyleMap id="rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <styleUrl>#rollover</styleUrl>
+      <MultiGeometry>
+        <Point>
+          <coordinates>138.600000,-34.910000</coordinates>
+        </Point>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> 
+                138.64,-34.93 138.64,-34.94 138.63,-34.94 138.62,-34.94
+                138.62,-34.95 138.62,-34.96 138.63,-34.96 138.62,-34.96
+                138.61,-34.97 138.60,-34.97 138.59,-34.97 138.58,-34.97
+                138.57,-34.97 138.57,-34.96 138.57,-34.95 138.57,-34.95
+                138.57,-34.94 138.57,-34.93 138.57,-34.92 138.57,-34.92
+                138.57,-34.91 138.56,-34.91 138.56,-34.90 138.57,-34.90
+                138.57,-34.90 138.57,-34.89 138.57,-34.89 138.57,-34.89
+                138.56,-34.88 138.56,-34.88 138.56,-34.88 138.56,-34.88
+                138.57,-34.88 138.58,-34.87 138.58,-34.87 138.58,-34.86
+                138.58,-34.85 138.58,-34.85 138.60,-34.85 138.61,-34.85
+                138.63,-34.85 138.63,-34.85 138.64,-34.86 138.64,-34.87
+                138.64,-34.87 138.63,-34.87 138.63,-34.88 138.62,-34.88
+                138.62,-34.88 138.62,-34.89 138.62,-34.89 138.62,-34.89
+                138.63,-34.89 138.63,-34.90 138.64,-34.90 138.64,-34.90
+                138.64,-34.91 138.64,-34.91 138.64,-34.92 138.64,-34.92
+                138.64,-34.93 138.64,-34.93
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+
+  </Document>
+</kml>
