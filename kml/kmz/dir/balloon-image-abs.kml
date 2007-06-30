@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Balloon with image</name>
+    <description>img src is http</description>
+
+    <Placemark>
+      <name>Image in balloon</name>
+      <description>
+        <![CDATA[
+        Here is an image:
+        <img src="http://kml-samples.googlecode.com/svn/trunk/kml/kmz/dir/images/googleearth.gif"/>
+        ]]>
+      </description>
+    </Placemark>
+
+  </Document>
+</kml>
