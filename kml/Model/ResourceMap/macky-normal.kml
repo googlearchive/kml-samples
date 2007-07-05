@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+KML 2.2 introduced ResourceMap (textures.txt is deprecated)
+  
+The .dae file texture file names are "../files/foo.jpg"
+each of which is stored in textures/foo.jpg in the file system.
+  
+The .dae is in the geometry directory and targetHref references
+are relative to the .dae (not this .kml) hence the ../textures/foo.jpg.
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Placemark>
+    <name>SketchUp Model of Macky Auditorium</name>
+    <description>University of Colorado, Boulder; model created by Noël Nemcik.</description>
+    <LookAt>
+      <longitude>-105.2727379358738</longitude>
+      <latitude>40.01000594412381</latitude>
+      <altitude>0</altitude>
+      <range>127.2393107680517</range>
+      <tilt>65.74454495876547</tilt>
+      <heading>-27.70337734057933</heading>
+    </LookAt>
+    <Model id="model_4">
+      <altitudeMode>relativeToGround</altitudeMode>
+      <Location>
+        <longitude>-105.272774533734</longitude>
+        <latitude>40.009993372683</latitude>
+        <altitude>0</altitude>
+      </Location>
+      <Orientation>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <roll>0</roll>
+      </Orientation>
+      <Scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Scale>
+      <Link>
+        <href>geometry/CU-Macky.dae</href>
+      </Link>
+      <ResourceMap>
+        <Alias>
+          <targetHref>../textures/CU-Macky---Center-StairsnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky---Center-StairsnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-4sideturretnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-4sideturretnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-Back-NorthnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-Back-NorthnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-BrickwallnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-BrickwallnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-East-WingnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-East-WingnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-EastdetaildoornoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-EastdetaildoornoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-EastnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-EastnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-EntrancenoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-EntrancenoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-Front--TurretnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-Front--TurretnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-FrontbrickwallnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-FrontbrickwallnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-FrontnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-FrontnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-FrontofTowernoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-FrontofTowernoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-NortheastUnivnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-NortheastUnivnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-NorthnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-NorthnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-RoofnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-RoofnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-Tower-SidenoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-Tower-SidenoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-TowerBasenoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-TowerBasenoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-TowernoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-TowernoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/CU-Macky-_Side_BrickwallnoCulling.jpg</targetHref>
+          <sourceHref>../files/CU-Macky-_Side_BrickwallnoCulling.jpg</sourceHref>
+        </Alias>
+        <Alias>
+          <targetHref>../textures/roofnoCulling.jpg</targetHref>
+          <sourceHref>../files/roofnoCulling.jpg</sourceHref>
+        </Alias>
+      </ResourceMap>
+
+    </Model>
+  </Placemark>
+</kml>
