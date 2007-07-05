@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>Balloon with image</name>
+    <description>Image is an absolute URL</description>
+
+    <Placemark>
+      <name>Image in balloon</name>
+      <description>
+        <![CDATA[
+        Here is an image:
+        <img src="http://kml-samples.googlecode.com/svn/trunk/kml/kmz/balloon/images/googleearth.gif"/>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-121.22,37.44</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
