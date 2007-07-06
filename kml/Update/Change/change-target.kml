@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLinkControl>
+  <Update>
+    <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/target.kml</targetHref>
+    <Change>
+      <Placemark targetId="targetPlacemark">
+        <name>changed name</name>
+        <Snippet>changed snippet</Snippet>
+        <description>changed description</description>
+        <visible>0</visible>
+        <Point>
+          <coordinates>-122.001,37.001</coordinates>
+        </Point>
+      </Placemark>
+    </Change>
+  </Update>
+</NetworkLinkControl>
+</kml>
+
