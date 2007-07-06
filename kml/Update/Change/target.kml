@@ -19,20 +19,24 @@
       <coordinates>-122.000,37.000</coordinates>
     </Point>
   </Placemark>
-  <NetworkLink>
-    <name>change-target</name>
-    <visibility>0</visibility>
-    <Link>
-      <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/change-target.kml</href>
-    </Link>
-  </NetworkLink>
-  <NetworkLink>
-    <name>revert-target</name>
-    <visibility>0</visibility>
-    <Link>
-      <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/revert-target.kml</href>
-    </Link>
-  </NetworkLink>
+  <Folder>
+    <open>1</open>
+    <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml#radioFolder</styleUrl>
+    <NetworkLink>
+      <name>change-target</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/change-target.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>revert-target</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/revert-target.kml</href>
+      </Link>
+    </NetworkLink>
+  </Folder>
 </Document>
 </kml>
 
