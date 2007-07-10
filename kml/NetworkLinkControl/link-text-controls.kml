@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NetworkLinkControl can change the name, description and snippet of the
+calling NetworkLink -->
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLinkControl>
+  <linkName>new link name</linkName>
+  <linkDescription>new link description</linkDescription>
+  <linkSnippet>new link snippet</linkSnippet>
+</NetworkLinkControl>
+<Placemark>
+  <name>link text controls</name>
+  <Point>
+    <coordinates>-120,35</coordinates>
+  </Point>
+</Placemark>
+</kml>
+

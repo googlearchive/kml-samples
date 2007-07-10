@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Even if you set the NetworkLink that points here to refresh every second,
+it shouldn't be possible to refresh more than once every ten seconds -->
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLinkControl>
+  <minRefreshPeriod>10</minRefreshPeriod>
+</NetworkLinkControl>
+<Placemark>
+  <name>minRefreshPeriod = 10</name>
+  <Point>
+    <coordinates>-121,36</coordinates>
+  </Point>
+</Placemark>
+</kml>
+
