@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Eat at Google</name>
+
+    <Placemark id="pintxo">
+      <name>Pintxo</name>
+      <description>Pintxo is very good</description>
+      <LookAt>
+        <longitude>-122.080997310238</longitude>
+        <latitude>37.41924758345683</latitude>
+        <range>46.77868444427536</range>
+        <tilt>65.00146082207077</tilt>
+        <heading>-147.0765758373652</heading>
+      </LookAt>
+      <Point>
+        <coordinates>-122.080997310238,37.41924758345683</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark id="plymouth-rocks">
+      <name>Plymouth rocks</name>
+      <description>Plymouth does indeed rock</description>
+      <LookAt>
+        <longitude>-122.0816403727131</longitude>
+        <latitude>37.41735872617323</latitude>
+        <range>29.5411916384099</range>
+        <tilt>65.00135093889109</tilt>
+        <heading>-37.79346617158308</heading>
+      </LookAt>
+      <Point>
+        <coordinates>-122.0817810888978,37.41741461397622</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
