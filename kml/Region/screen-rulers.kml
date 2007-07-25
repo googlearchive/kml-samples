@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!--
+Radio-folders of screen overlays measuring a certain number of screen pixels
+in vertical and horizontal dimensions. (Note how icon-less overlays draw
+polygons.)
+-->
+<Document>
+  <name>Rulers</name>
+  <open>1</open>
+  <Style id="rf">
+    <ListStyle>
+      <listItemType>radioFolder</listItemType>
+    </ListStyle>
+  </Style>
+  <Folder>
+    <name>Horizontal</name>
+    <open>1</open>
+    <styleUrl>#rf</styleUrl>
+    <Placemark>
+      <name>off</name>
+    </Placemark>
+    <ScreenOverlay>
+      <name>64 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="64" y="8" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+    <ScreenOverlay>
+      <name>128 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="128" y="8" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+    <ScreenOverlay>
+      <name>256 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="256" y="8" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+    <ScreenOverlay>
+      <name>512 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="512" y="8" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+  </Folder>
+  <Folder>
+    <name>Vertical</name>
+    <open>1</open>
+    <styleUrl>#rf</styleUrl>
+    <Placemark>
+      <name>off</name>
+    </Placemark>
+    <ScreenOverlay>
+      <name>64 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="8" y="64" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+    <ScreenOverlay>
+      <name>128 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="8" y="128" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+    <ScreenOverlay>
+      <name>256 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="8" y="256" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+    <ScreenOverlay>
+      <name>512 px</name>
+      <color>aaaaffaa</color>
+      <Icon>
+        <href/>
+      </Icon>
+      <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+      <size x="8" y="512" xunits="pixels" yunits="pixels"/>
+    </ScreenOverlay>
+  </Folder>
+</Document>
+</kml>
