@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  
+A simple Document with an XML id.
+Pointing a NetworkLink at this file should show the top-level Document in the
+listview.
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document id="hasId">
+  <name>Document with XML id</name>
+  <open>1</open>
+  <Folder>
+    <name>Folder 1</name>
+  </Folder>
+  <Folder>
+    <name>Folder 2</name>
+  </Folder>
+  <Folder>
+    <name>Folder 3</name>
+  </Folder>
+</Document>
+</kml>
