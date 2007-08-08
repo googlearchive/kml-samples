@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="downArrowIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Floating placemark</name>
+      <visibility>0</visibility>
+      <description>Floats a defined distance above the ground.</description>
+      <LookAt>
+        <longitude>-122.0839597145766</longitude>
+        <latitude>37.42222904525232</latitude>
+        <altitude>0</altitude>
+        <range>500.6566641072245</range>
+        <tilt>40.5575073395506</tilt>
+        <heading>-148.4122922628044</heading>
+      </LookAt>
+      <styleUrl>#downArrowIcon</styleUrl>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-122.084075,37.4220033612141,50</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
