@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Placemark>
+    <name>Tessellated paths</name>
+    <visibility>0</visibility>
+    <description><![CDATA[If the <tessellate> tag has a value of 1, the line will contour to the underlying terrain]]></description>
+    <LookAt>
+      <longitude>-112.0822680013139</longitude>
+      <latitude>36.09825589333556</latitude>
+      <altitude>0</altitude>
+      <range>2889.145007690472</range>
+      <tilt>62.04855796276328</tilt>
+      <heading>103.8120432044965</heading>
+    </LookAt>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates> -112.0814237830345,36.10677870477137,0
+            -112.0870267752693,36.0905099328766,0 </coordinates>
+    </LineString>
+  </Placemark>
+</kml>

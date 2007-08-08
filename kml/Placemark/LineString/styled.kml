@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="transPurpleLineGreenPoly">
+      <LineStyle>
+        <color>7fff00ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Absolute</name>
+      <visibility>0</visibility>
+      <description>Transparent purple line</description>
+      <LookAt>
+        <longitude>-112.2719329043177</longitude>
+        <latitude>36.08890633450894</latitude>
+        <altitude>0</altitude>
+        <range>2569.386744398339</range>
+        <tilt>44.60763714063257</tilt>
+        <heading>-106.8161545998597</heading>
+      </LookAt>
+      <styleUrl>#transPurpleLineGreenPoly</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+            -112.265654928602,36.09447672602546,2357
+            -112.2660384528238,36.09342608838671,2357
+            -112.2668139013453,36.09251058776881,2357
+            -112.2677826834445,36.09189827357996,2357
+            -112.2688557510952,36.0913137941187,2357
+            -112.2694810717219,36.0903677207521,2357
+            -112.2695268555611,36.08932171487285,2357
+            -112.2690144567276,36.08850916060472,2357
+            -112.2681528815339,36.08753813597956,2357
+            -112.2670588176031,36.08682685262568,2357
+            -112.2657374587321,36.08646312301303,2357
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

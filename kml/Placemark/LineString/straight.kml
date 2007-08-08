@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Placemark>
+    <name>Untessellated Path</name>
+    <visibility>0</visibility>
+    <description><![CDATA[If the <tessellate> tag has a value of 0, the line follow a simple straight-line path from point to point]]></description>
+    <LookAt>
+      <longitude>-112.0822680013139</longitude>
+      <latitude>36.09825589333556</latitude>
+      <altitude>0</altitude>
+      <range>2889.145007690472</range>
+      <tilt>62.04855796276328</tilt>
+      <heading>103.8120432044965</heading>
+    </LookAt>
+    <LineString>
+      <tessellate>0</tessellate>
+      <coordinates>
+        -112.080622229595,36.10673460007995,0
+        -112.085242575315,36.09049598612422,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+</kml>
