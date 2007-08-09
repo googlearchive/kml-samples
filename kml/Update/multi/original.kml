@@ -11,28 +11,29 @@
     <name>Original Folder 1</name>
     <GroundOverlay>
       <Icon>
-        <href>ontheground.jpg</href>
+        <href/>
       </Icon>
     </GroundOverlay>
     <ScreenOverlay>
       <Icon>
-        <href>onscreen.jpg</href>
+        <href/>
       </Icon>
     </ScreenOverlay>
     <NetworkLink>
       <Link>
-        <href>more.kml</href>
+        <href/>
       </Link>
     </NetworkLink>
-  </Folder id="original-folder-1">
+  </Folder>
+  <Folder id="original-folder-2"/>
   <Placemark id="original-placemark-2">
     <name>Original Placemark 2</name>
   </Placemark>
   <Placemark id="original-placemark-3">
     <name>Original Placemark 3</name>
   </Placemark>
-  <Folder id="original-folder-2">
-    <name>Original Folder 1</name>
-  </Folder id="original-folder-2">
+  <Folder id="original-folder-3">
+    <name>Original Folder 3</name>
+  </Folder>
 </Document>
 </kml>
