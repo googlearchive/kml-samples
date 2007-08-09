@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+KML 2.2 is beta. YMMV.
+
+<Metadata> is the city dump for your crazy, XML-valid individuality...
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+<!-- You can supply your own payload of additional data in your own namespace
+like so. -->
+<Placemark>
+  <name>Namespaced Metadata</name>
+  <description><![CDATA[
+    Remember folks, 15 minutes could save you 15% or more...
+  ]]></description>
+  <Metadata xmlns:foo="http://foo/bar">
+    <foo:tom>some</foo:tom>
+    <foo:dick>cool</foo:dick>
+    <foo:harry>data</foo:harry>
+  </Metadata>
+  <Point>
+    <coordinates>-122.002,37.001</coordinates>
+  </Point>
+</Placemark>
+
+</kml>
