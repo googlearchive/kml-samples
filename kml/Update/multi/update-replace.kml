@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <NetworkLinkControl>
+    <Update>
+      <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/multi/original.kml</targetHref>
+      <Replace>
+        <Folder targetId="original-placemark-1">
+          <name>Placemark to Folder</name>
+          <description>Original Placemark replaced with Folder</description>
+        </Folder>
+        <ScreenOverlay targetId="original-placemark-3">
+          <name>Placemark to ScreenOverlay</name>
+          <description>Original Placemark replaced with ScreenOverlay</description>
+        </ScreenOverlay>
+        <Placemark targetId="original-folder-1">
+          <name>Folder to Placemark</name>
+          <description>Original Folder replaced with Placemark</description>
+        </Placemark>
+      </Replace>
+    </Update>
+  </NetworkLinkControl>
+</kml>

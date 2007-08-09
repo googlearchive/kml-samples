@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <NetworkLinkControl>
+    <Update>
+      <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/multi/original.kml</targetHref>
+      <Create>
+        <Document targetId="original-document">
+          <Folder id="created-folder">
+            <name>Created Folder</name>
+          </Folder>
+        </Document>
+      </Create>
+    </Update>
+  </NetworkLinkControl>
+</kml>
