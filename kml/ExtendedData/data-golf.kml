@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  Use Data to add untyped name-value pairs to any Feature (such as Placemark)
+  for use in a balloon template.
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Data+BalloonStyle</name>
+    
+    <Style id="golf-balloon-style">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          This is $[name]
+          This is hole $[holeNumber]
+          The par for this hole is $[holePar]
+          The yardaage is $[holeYardage]
+            ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+    <!-- Shared style sample
+         Two Placemarks use the same balloon template
+      -->
+    <Placemark>
+      <name>Club house</name>
+      <styleUrl>#golf-balloon-style</styleUrl>
+      <ExtendedData>
+        <Data name="holeNumber">
+          <value>1</value>
+        </Data>
+        <Data name="holeYardage">
+          <value>234</value>
+        </Data>
+        <Data name="holePar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+
+    <Placemark>
+      <name>By the lake</name>
+      <styleUrl>#golf-balloon-style</styleUrl>
+      <ExtendedData>
+        <Data name="holeNumber">
+          <value>5</value>
+        </Data>
+        <Data name="holeYardage">
+          <value>523</value>
+        </Data>
+        <Data name="holePar">
+          <value>5</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    
+  </Document>
+</kml>
