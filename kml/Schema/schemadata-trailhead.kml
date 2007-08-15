@@ -26,7 +26,7 @@ The following shows how Feature is extended
       <text><![CDATA[
         <h2>My favorite trails!</h2>
         <br/><br/>
-        The $[TrailHeadType/TrailHeadName:displayName] is <i>$[TrailHeadType/TrailHeadName]</i>.
+        The $[TrailHeadType/TrailHeadName/displayName] is <i>$[TrailHeadType/TrailHeadName]</i>.
         The trail is $[TrailHeadType/TrailLength] miles.
         <br/>
         The climb is $[TrailHeadType/ElevationGain] meters.
