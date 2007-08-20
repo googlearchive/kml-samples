@@ -8,51 +8,79 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
   <Document>
     <name>Data+BalloonStyle</name>
-    
-    <Style id="golf-balloon-style">
+    <open>1</open>
+
+    <Style id="name-value">
       <BalloonStyle>
         <text>
           <![CDATA[
           This is $[name]
           This is hole $[holeNumber]
           The par for this hole is $[holePar]
-          The yardaage is $[holeYardage]
+          The yardage is $[holeYardage]
             ]]>
         </text>
       </BalloonStyle>
     </Style>
 
-    <!-- Shared style sample
-         Two Placemarks use the same balloon template
-      -->
+    <Style id="displayName-value">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          This is $[name]<br/>
+          $[holeNumber/displayName] $[holeNumber]<br/>
+          $[holePar/displayName] $[holePar]<br/>
+          $[holeYardage/displayName] $[holeYardage]
+            ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+    <!-- This placemark uses the text defined in the BalloonStyle to describe
+         the data
+    -->
+    
     <Placemark>
       <name>Club house</name>
-      <styleUrl>#golf-balloon-style</styleUrl>
+      <styleUrl>#name-value</styleUrl>
       <ExtendedData>
         <Data name="holeNumber">
           <value>1</value>
         </Data>
-        <Data name="holeYardage">
-          <value>234</value>
-        </Data>
         <Data name="holePar">
           <value>4</value>
+        </Data>
+        <Data name="holeYardage">
+          <value>234</value>
         </Data>
       </ExtendedData>
     </Placemark>
 
+    <!-- This placemark's BalloonStyle uses the value of <displayName> to
+         describe the data
+    -->
+    
     <Placemark>
       <name>By the lake</name>
-      <styleUrl>#golf-balloon-style</styleUrl>
+      <styleUrl>#displayName-value</styleUrl>
       <ExtendedData>
         <Data name="holeNumber">
+          <displayName><![CDATA[
+            <b>This is hole </b>
+          ]]></displayName>
+          <value>5</value>
+        </Data>
+        <Data name="holePar">
+          <displayName><![CDATA[
+            <i>The par for this hole is </i>
+          ]]></displayName>
           <value>5</value>
         </Data>
         <Data name="holeYardage">
+          <displayName><![CDATA[
+            <b><i>The yardage is </i></b>
+          ]]></displayName>
           <value>523</value>
-        </Data>
-        <Data name="holePar">
-          <value>5</value>
         </Data>
       </ExtendedData>
     </Placemark>
