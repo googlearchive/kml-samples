@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Life of a Link - basic</name>
+    <open>1</open>
+    
+    <Placemark>
+      <name>Model Link</name>
+      <Model>
+        <Location>
+          <latitude>37</latitude>
+          <longitude>-120</longitude>
+        </Location>
+        <Link>
+          <href>http://kml-samples.googlecode.com/svn/trunk/kml/Model/ResourceMap/shared-textures/geometry/bldg.dae</href>
+          <viewRefreshMode>never</viewRefreshMode>
+          <viewFormat/>
+        </Link>
+      </Model>
+    </Placemark>
+    
+    <NetworkLink>
+      <name>NetworkLink Url</name>
+      <Url>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/feature-anchor/eat-at-google.kml</href>
+        <viewRefreshMode>never</viewRefreshMode>
+        <viewFormat/>
+      </Url>
+    </NetworkLink>
+    
+    <GroundOverlay>
+      <name>GroundOverlay Icon</name>
+      <Icon>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/Model/ResourceMap/photos/bh-flowers.jpg</href>
+        <viewRefreshMode>never</viewRefreshMode>
+      </Icon>
+      <LatLonBox>
+        <north>37</north>
+        <south>36</south>
+        <east>-110</east>
+        <west>-120</west>
+      </LatLonBox>
+    </GroundOverlay>
+    
+  </Document>
+</kml>
