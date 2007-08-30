@@ -1,0 +1,33 @@
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+
+    <NetworkLink>
+      <description>
+        This fetches a.kml as a "child" of this NetworkLink.
+      </description>
+      <Link>
+        <href>a.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <Placemark>
+      <name>feature anchor</name>
+      <description>
+        <![CDATA[
+          A feature anchor reference hits the NetworkLink-loaded file:
+          <a href="a.kml#p">a.kml#p</a>
+        ]]>
+      </description>
+    </Placemark>
+
+    <Placemark>
+      <name>non feature anchor</name>
+      <description>
+        <![CDATA[
+          A vanilla reference fetches a.kml into temporary places:
+          <a href="a.kml">a.kml</a>
+        ]]>
+      </description>
+    </Placemark>
+  </Document>
+</kml>

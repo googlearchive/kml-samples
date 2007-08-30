@@ -1,0 +1,20 @@
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <description>
+      Two NetworkLinks to the same KML parses one
+      unique instance per NetworkLink.
+    </description>
+    <NetworkLink>
+      <name>once</name>
+      <Link>
+        <href>a.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>again</name>
+      <Link>
+        <href>a.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
