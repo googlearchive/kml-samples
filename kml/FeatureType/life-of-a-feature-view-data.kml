@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  Demonstration of elements and behaviors common to all Features:
+
+  -name, visibility, Snippet, description
+  -style
+    -balloon style and template
+    -list item bgcolor and icon
+  -viewpoint (LookAt)
+  -custom data (ExtendedData)
+
+  None of the Features here have any elements particular to their
+  specialization.  The Placemark has no Geometry, the Overlays have no Icon,
+  the Containers have no Features, the NetworkLink has no Link.
+
+  However, each Feature has a styled balloon with templated content,
+  a list view entry with visibility check box, icon, name and snippet,
+  an AbstractView (LookAt) and custom data (used in the balloon template).
+
+  Single click on the underlined name in the list view to see the balloon.
+  Double click on the list view entry to fly to the Feature's viewpoint.
+  Tour the Document containing the Features to visit each Feature's viewpoint.
+
+  As such there is quite a bit of content and behavior in this otherwise
+  content-free KML.
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Life of a Feature</name>
+    <open>1</open>
+
+    <Style id="shared-style">
+      <BalloonStyle>
+        <bgColor>ff82fff3</bgColor>
+        <text><![CDATA[
+          <b>$[name]</b><br/>
+          $[description]<br/>
+          Longitude=$[lon], Latitude=$[lat]<br/>
+          <i>$[id]</i>
+          ]]>
+        </text>
+      </BalloonStyle>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+        <bgColor>ffffb20b</bgColor>
+        <ItemIcon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </ItemIcon>
+      </ListStyle>
+    </Style>
+
+    <Placemark id="pm0">
+      <name>Australia</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] includes the Austrialian mainland, New Guinea, and Tasmania.</Snippet>
+      <description>$[name] includes the Austrialian mainland, New Guinea, and Tasmania.</description>
+      <LookAt>
+        <longitude>134.600000</longitude>
+        <latitude>-20.470000</latitude>
+        <tilt>17.800000</tilt>
+        <heading>179.000000</heading>
+        <range>3473786.000000</range>
+      </LookAt>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>134.6</value>
+        </Data>
+        <Data name="lat">
+          <value>-20.47</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+
+    <NetworkLink id="nl0">
+      <name>Antarctica</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] is the Earth's southernmost continent and covers the South Pole.</Snippet>
+      <description>$[name] is the Earth's southernmost continent and covers the South Pole.</description>
+      <LookAt>
+        <longitude>138.300000</longitude>
+        <latitude>-86.370000</latitude>
+        <heading>-140.800000</heading>
+        <range>4715247.000000</range>
+      </LookAt>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>138.3</value>
+        </Data>
+        <Data name="lat">
+          <value>-86.37</value>
+        </Data>
+      </ExtendedData>
+    </NetworkLink>
+    
+    <Folder id="f0">
+      <name>Europe</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] is south of the Arctic, north of the Mediterranean east of the Atlantic and west of the Caucasas Mountains</Snippet>
+      <description>$[name] is south of the Arctic, north of the Mediterranean east of the Atlantic and west of the Caucasas Mountains</description>
+      <LookAt>
+        <longitude>18.370000</longitude>
+        <latitude>49.180000</latitude>
+        <tilt>19.800000</tilt>
+        <heading>-51.720000</heading>
+        <range>3430622.000000</range>
+      </LookAt>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>18.37</value>
+        </Data>
+        <Data name="lat">
+          <value>49.18</value>
+        </Data>
+      </ExtendedData>
+    </Folder>
+
+    <Document id="d0">
+      <name>Africa</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] is the world's second largest continent and is the second most populous continent</Snippet>
+      <description>$[name] is the world's second largest continent and is the second most populous continent</description>
+      <LookAt>
+        <longitude>13.150000</longitude>
+        <latitude>-1.010000</latitude>
+        <tilt>10.900000</tilt>
+        <heading>27.130000</heading>
+        <range>5641142.000000</range>
+      </LookAt>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>13.15</value>
+        </Data>
+        <Data name="lat">
+          <value>-1.01</value>
+        </Data>
+      </ExtendedData>
+    </Document>
+ 
+    <GroundOverlay id="go0">
+      <name>South America</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] is east of the Pacific and west of the Atlantic</Snippet>
+      <description>$[name] is east of the Pacific and west of the Atlantic</description>
+      <LookAt>
+        <longitude>-67.090000</longitude>
+        <latitude>-22.480000</latitude>
+        <tilt>15.100000</tilt>
+        <heading>41.210000</heading>
+        <range>5641142.000000</range>
+      </LookAt>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>-67.09</value>
+        </Data>
+        <Data name="lat">
+          <value>-22.48</value>
+        </Data>
+      </ExtendedData>
+    </GroundOverlay>
+
+    <ScreenOverlay id="so0">
+      <name>Asia</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] is the world's largest continent in both land area and population.</Snippet>
+      <description>$[name] is the world's largest continent in both land area and population.</description>
+      <LookAt>
+        <longitude>102.000000</longitude>
+        <latitude>33.700000</latitude>
+        <heading>9.870000</heading>
+        <range>4715247.000000</range>
+      </LookAt>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>102</value>
+        </Data>
+        <Data name="lat">
+          <value>33.7</value>
+        </Data>
+      </ExtendedData>
+    </ScreenOverlay>
+ 
+    <PhotoOverlay id="po0">
+      <name>North America</name>
+      <visibility>0</visibility>
+      <Snippet>$[name] is south of the Artic and north of the Carribean</Snippet>
+      <description>$[name] is south of the Artic and north of the Carribean</description>
+      <styleUrl>#shared-style</styleUrl>
+      <ExtendedData>
+        <Data name="lon">
+          <value>-100.7</value>
+        </Data>
+        <Data name="lat">
+          <value>31.7</value>
+        </Data>
+      </ExtendedData>
+    </PhotoOverlay>
+
+  </Document>
+</kml>
