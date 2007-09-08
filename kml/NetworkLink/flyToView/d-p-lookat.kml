@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+A client fetching this file with a NetworkLink with flyToView=1
+will fly to the bounding box of the Document (and _not_
+the LookAt of the Placemark).
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+  <Document id="save-me">
+    <name>No LookAt</name>
+
+    <Placemark id="pm-with-lookat">
+      <name>LookAt no Point</name>
+      <LookAt>
+        <longitude>-122.0823227708102</longitude>
+        <latitude>37.41981264720697</latitude>
+        <range>64.64227236953768</range>
+        <tilt>56.22475192945952</tilt>
+        <heading>54.41882502222628</heading>
+      </LookAt>
+    </Placemark>
+
+    <Placemark id="pm-with-point">
+      <name>Point no LookAt</name>
+      <Point>
+        <coordinates>-122.0821082671078,37.4199157641095</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+
+</kml>

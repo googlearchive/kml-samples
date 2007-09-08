@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+Each NetworkLink uses flyToView.
+
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+  <Document>
+    <name>LookAt - NNW</name>
+    <description>Above the Google campus looking just west of north</description>
+    <LookAt>
+      <longitude>-122.0812899123532</longitude>
+      <latitude>37.41920575985029</latitude>
+      <range>195.3553030739448</range>
+      <tilt>65.38634343707753</tilt>
+      <heading>-31.25604111104101</heading>
+    </LookAt>
+    
+    <NetworkLink>
+      <visibility>0</visibility>
+      <flyToView>1</flyToView>
+      <Link>
+        <href>d-lookat-p-lookat.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>0</visibility>
+      <flyToView>1</flyToView>
+      <Link>
+        <href>d-p-lookat.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>0</visibility>
+      <flyToView>1</flyToView>
+      <Link>
+        <href>nlc-lookat-p-lookat.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>0</visibility>
+      <flyToView>1</flyToView>
+      <Link>
+        <href>nlc-lookat.kml</href>
+      </Link>
+    </NetworkLink>
+
+  </Document>
+</kml>
