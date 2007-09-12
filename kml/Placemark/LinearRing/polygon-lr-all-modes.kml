@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+  From: http://bbs.keyhole.com/ubb/placemarks/cl-03-14-06-117768594.kmz
+
+  This validates in the KML 2.2 version="070824 BETA" XSD.
+  
+-->
+<Placemark xmlns="http://earth.google.com/kml/2.2">
+  <Polygon id="khPolygon540">
+    <extrude>1</extrude>
+    <tessellate>1</tessellate>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <outerBoundaryIs>
+      <LinearRing id="khLinearRing541">
+        <tessellate>1</tessellate>
+        <coordinates>
+          77.1918355039939,28.54494772729392,20
+          77.19204486335224,28.54448282514637,20
+          77.19290486468245,28.5447761112167,20
+          77.19270247146824,28.54523445479685,20
+          77.1918355039939,28.54494772729392,20 
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+    <innerBoundaryIs>
+      <LinearRing id="khLinearRing542">
+        <tessellate>1</tessellate>
+        <coordinates>
+          77.19266954056253,28.54485166715113,20
+          77.19259199519763,28.54503979813146,20
+          77.19222160142684,28.54491239006466,20
+          77.19230391812707,28.54472862148807,20
+          77.19266954056253,28.54485166715113,20 
+        </coordinates>
+      </LinearRing>
+    </innerBoundaryIs>
+  </Polygon>
+</Placemark>

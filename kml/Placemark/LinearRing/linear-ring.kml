@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  LinearRing as a "standalone" Geometry and as Polygon boundary.
+
+  This validates in the KML 2.2 version="070824 BETA" XSD.
+
+-->
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Folder>
+
+    <Placemark>
+      <LinearRing/>
+    </Placemark>
+
+    <Placemark>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing/>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Folder>
+</kml>
