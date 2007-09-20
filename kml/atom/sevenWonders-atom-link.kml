@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  Sample use of atom:link cascading from Folder to child Placemarks.
+
+-->
+<kml
+  xmlns="http://earth.google.com/kml/2.2"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <Folder>
+    <name>7 Wonders</name>
+    <open>1</open>
+
+    <!-- This element propagates to child Features of this Folder -->
+    <atom:link
+      href="http://maps.google.com/maps/ms?msa=0&amp;msid=110361148976516148039.00043a624b5af0cc1e56b"/>
+
+    <Style id="blue-dot-paddle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <name>Cairo, Egypt</name>
+      <description>The Great Pyramid of Giza</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>31.246099,30.0982</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Al Hillah, Iraq</name>
+      <description>The Hanging Gardens of Babylon</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>44.434502,32.4856</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Olympia, Greece</name>
+      <description>Statue of Zeus at Olympia</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>21.616667,37.633331</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Ephesus, Turkey</name>
+      <description>Temple of Artemis at Ephesus</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>27.37072,37.947716</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>  
+      <name>Harlicarnassus, Turkey</name>
+      <description>Mausoleum of Maussollos at Harlicarnassus</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>27.430241,37.039101</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Rhodes, Greece</name>
+      <description>The Colossus of Rhodes</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>28.220116,36.433723</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Alexandria, Egypt</name>
+      <description>Lighthouse of Alexandria</description>
+      <!-- takes atom:link of parent Folder -->
+      <styleUrl>#blue-dot-paddle</styleUrl>
+      <Point>
+        <coordinates>29.9443,31.213499</coordinates>
+      </Point>
+    </Placemark>
+
+  </Folder>
+</kml>
