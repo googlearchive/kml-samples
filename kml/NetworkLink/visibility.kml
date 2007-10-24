@@ -1,0 +1,25 @@
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Open Document</name>
+  <open>1</open>
+
+<NetworkLink>
+  <name>visible NetworkLink</name>
+  <visibility>1</visibility>
+  <description>visible NetworkLink fetched content</description>
+  <Link>
+    <href>placemark.kml</href>
+  </Link>
+</NetworkLink>
+
+<NetworkLink>
+  <name>non-visible NetworkLink</name>
+  <visibility>0</visibility>
+  <description>NetworkLink not visible</description>
+  <Link>
+    <href>placemark.kml</href>
+  </Link>
+</NetworkLink>
+
+</Document>
+</kml>
