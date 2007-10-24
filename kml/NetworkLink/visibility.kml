@@ -4,6 +4,15 @@
   <open>1</open>
 
 <NetworkLink>
+  <name>visible full-href NetworkLink</name>
+  <visibility>1</visibility>
+  <description>visible NetworkLink fetched content</description>
+  <Link>
+    <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
+  </Link>
+</NetworkLink>
+
+<NetworkLink>
   <name>visible NetworkLink</name>
   <visibility>1</visibility>
   <description>visible NetworkLink fetched content</description>
