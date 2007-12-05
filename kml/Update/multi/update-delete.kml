@@ -7,6 +7,8 @@
         <Placemark targetId="original-placemark-0"/>
         <Placemark targetId="original-placemark-2"/>
         <Folder targetId="original-folder-2"/>
+        <!-- Delete of non-existent ID should do ??? -->
+        <Folder targetId="no-such-id"/>
       </Delete>
     </Update>
   </NetworkLinkControl>
