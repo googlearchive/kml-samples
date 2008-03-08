@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Google 3.0 does not exist and should never be found in the wild. This file
+will not load in any version of Google Earth.
+-->
+<kml xmlns="http://earth.google.com/kml/3.0">
+  <Placemark>
+    <name>Google KML 3.0</name>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+  </Placemark>
+</kml>

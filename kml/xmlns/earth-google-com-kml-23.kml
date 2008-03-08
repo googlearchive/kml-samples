@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Google 2.3 does not exist and should never be found in the wild.
+-->
+<kml xmlns="http://earth.google.com/kml/2.3">
+  <Placemark>
+    <name>Google KML 2.3</name>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+  </Placemark>
+</kml>
