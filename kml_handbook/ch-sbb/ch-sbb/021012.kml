@@ -1,0 +1,58 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.730256</north><south>46.664012</south><east>7.467704</east><west>7.315433</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Gurnigel, Wasserscheide</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.44125, 46.7262,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sangernboden, Rothenbach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.38763, 46.7184,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sangernboden, Hengstsense</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39351, 46.7073,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vorder-Sangernboden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.3396, 46.7158,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sangernboden, Steinbachbrücke</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.3665, 46.713,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

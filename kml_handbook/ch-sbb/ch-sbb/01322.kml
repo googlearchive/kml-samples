@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.796500</south><east>9.751773</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>013220</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>9.599501</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>013220.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>013221</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>9.751773</east><west>9.599501</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>013221.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>013222</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.862744</north><south>46.796500</south><east>9.599501</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>013222.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>013223</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.862744</north><south>46.796500</south><east>9.751773</east><west>9.599501</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>013223.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Chur, Untertor</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53418, 46.852,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Giacomettistrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52999, 46.8638,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Felsberg, Calanda</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48215, 46.8449,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Domat/Ems, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.44755, 46.8337,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Bödeli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53818, 46.8371,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Taxistand</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53028, 46.8532,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pagig, Pudanal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64232, 46.8345,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tura</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.63644, 46.8348,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Castiel, Galgenbühl</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.62468, 46.836,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sax (Maladers)</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.57495, 46.8385,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Maladers, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55977, 46.8358,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Maladers, alte Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56138, 46.8351,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Maladers, Kiesgrube</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55324, 46.8366,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Maladers, Brandacker</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54681, 46.8399,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Hof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.5358, 46.8483,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Peter, Rathaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64623, 46.8337,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pagig, Abzw.</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64268, 46.8352,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Untervaz, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53484, 46.9281,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Badusstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52537, 46.8555,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Haldenstein, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52707, 46.8785,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Stadtgarten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52922, 46.8495,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Untervaz, Holcim</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55651, 46.9198,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Putz, alte Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.74589, 46.9256,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zizers, Tennishalle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55793, 46.919,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Jenaz, Marktplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.71383, 46.9285,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fideris</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.73376, 46.9224,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Haldenstein, Rheinbrücke</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53015, 46.8768,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52764, 46.8528,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Lacuna</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.5256, 46.861,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Lachen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52727, 46.8634,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52893, 46.8531,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Weinbergstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53437, 46.8623,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Kreuzfeld</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53511, 46.8644,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Rigahaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53478, 46.856,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Kreuzgasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53443, 46.8587,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Weisstorkel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53492, 46.8661,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Masans Kirche</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53425, 46.8709,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Putz, Spondatöbeli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.73678, 46.9276,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Plankis</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.5025, 46.8452,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Domat/Ems, Plarenga</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46297, 46.8375,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Domat/Ems, Unterdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45535, 46.8371,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Fortunastrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51836, 46.858,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fideris, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.73393, 46.9225,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Felsberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48126, 46.8431,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Domat/Ems</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45316, 46.8331,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Malix, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53273, 46.8066,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chur, Altes Gaswerk</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51394, 46.8617,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Haldenstein, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52886, 46.8775,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Haldenstein, Usserdorfstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52517, 46.877,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

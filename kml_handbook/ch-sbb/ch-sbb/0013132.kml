@@ -1,0 +1,40 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.492059</north><south>47.458938</south><east>8.152924</east><west>8.076789</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Gallenkirch, Abzw.</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.1348, 47.4792,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gallenkirch, Schützenhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.12787, 47.4815,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zeihen, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.08336, 47.4764,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

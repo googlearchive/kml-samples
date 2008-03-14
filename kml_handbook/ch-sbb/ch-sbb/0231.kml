@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.001575</south><east>8.229060</east><west>7.619975</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>02310</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.134062</south><east>7.924518</east><west>7.619975</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02310.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>02311</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.134062</south><east>8.229060</east><west>7.924518</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02311.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>02312</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.001575</south><east>7.924518</east><west>7.619975</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02312.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>02313</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.001575</south><east>8.229060</east><west>7.924518</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02313.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Simplon, Monte Leone</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.02485, 46.246,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden VS, Walchgraben</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.85844, 46.2299,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden VS, Grossacker</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.85789, 46.2281,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden VS, Mühlebach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.85429, 46.2272,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Törbel, Burgen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.86169, 46.2421,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Törbel, Halmern</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.84849, 46.2374,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Törbel, Bachtoli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.85535, 46.2323,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Törbel, Unterflüh</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.86427, 46.2311,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Törbel, Oberdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.84697, 46.2378,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Törbel, Ueberfeld</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.85069, 46.238,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tsapé</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62079, 46.2517,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zinal TZS</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62407, 46.1383,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grächen, Matten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.84105, 46.1986,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Zen-Achern</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.80786, 46.1774,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gasenried, Chäschermatte</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.82486, 46.1832,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Sand</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.80619, 46.1812,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Rossen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.81593, 46.1858,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden VS, Ackersand/Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.87499, 46.242,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Simplon Dorf, Hospiz-Niederalp</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01334, 46.2294,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bidermatten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93134, 46.1374,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Wichel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.81222, 46.1823,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grächen, Schmidji</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.84251, 46.2011,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grächen, Stadlen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.83764, 46.1997,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Staldenried</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.88479, 46.2292,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Bodmen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.81849, 46.1829,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Niedergut</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.92463, 46.1584,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Almagell, Waldegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.95835, 46.0863,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Almagell, Eienalp</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.95856, 46.065,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Grund, Altersheim</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93859, 46.1198,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Almagell, Alpien</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.95148, 46.1009,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Almagell, Lehn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.95635, 46.0981,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Grund, Zenlauinen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.94013, 46.117,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Grund, untere Brücke</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.94173, 46.1139,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden-Saas, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.87136, 46.2321,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Visperterminen, Chrizji</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.89639, 46.264,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Mattsand</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.79073, 46.15,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Niederhäusern</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.89563, 46.2591,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grächen, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.83984, 46.1965,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gruben VS</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.70613, 46.2117,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Simplon Kulm, Bellevue</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.03485, 46.2505,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Almagell, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.9577, 46.0942,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Balen, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.9285, 46.1531,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Fee, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.92972, 46.109,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saas Grund, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93701, 46.1235,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden VS, Mühlackern</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.87784, 46.2501,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Staldenried, Rebwyer</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.87421, 46.2358,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grächen, Nessien</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.83521, 46.1977,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklaus VS, Riedacker</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.82158, 46.1844,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Iselle di Trasquera</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.20698, 46.2072,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

@@ -1,0 +1,67 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.392694</north><south>47.326450</south><east>9.599501</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Altstätten SG, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55603, 47.3742,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Marbach SG, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56867, 47.392,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lüchingen, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55253, 47.386,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Appenzell, Kreuzstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46178, 47.3336,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Altstätten SG, Tannenbaum</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52208, 47.3865,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Hueb bei Oberriet SG</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53463, 47.335,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

@@ -1,0 +1,496 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.200306</south><east>7.467704</east><west>7.315433</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>0230100</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.233428</south><east>7.391568</east><west>7.315433</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>0230100.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>0230102</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.233428</north><south>46.200306</south><east>7.391568</east><west>7.315433</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>0230102.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>0230103</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.233428</north><south>46.200306</south><east>7.467704</east><west>7.391568</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>0230103.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Mayens-de-Nax, chalet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.46046, 46.2257,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mayens-de-Nax, télécabine</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.46142, 46.2247,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Agettes, Crételannaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.37502, 46.2037,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Agettes, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.37962, 46.2096,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>La Vernaz VS</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.37232, 46.2104,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Germain (Savièse), centre</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34889, 46.2512,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, Zambotte</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34083, 46.2491,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, St-André</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34423, 46.2527,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, Monteiller rte Binii</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35087, 46.2561,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Drône, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36694, 46.2597,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, Crettaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34572, 46.2496,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vex, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39831, 46.2115,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vex, Le Villard</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40066, 46.2082,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Stand de tir</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.38301, 46.2271,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bramois, La Crettaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39749, 46.2249,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Les Fontaines</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.38957, 46.2228,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vex, Sindy</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39999, 46.2203,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grône, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.45549, 46.2512,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nax, La Crettaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.42494, 46.2265,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Nord</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36017, 46.2357,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Argnoud</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39961, 46.2629,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Signèse, Chapelle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40118, 46.2576,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ayent, Les Frisses</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40095, 46.2621,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ayent, Granges de Signèse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40488, 46.2578,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Ronquoz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34651, 46.2191,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Iles</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.3334, 46.2171,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35957, 46.2278,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Léonard, Le Lac</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.42567, 46.2539,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bramois, Cassières</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40402, 46.2372,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grône, écoles</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.46457, 46.2521,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bramois, Clodevis</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40403, 46.235,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Granges VS, Grand Canal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.46224, 46.2636,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Ateliers St-Hubert</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35101, 46.2248,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ayent, Plan Signèse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.399, 46.2527,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Tennis Iles</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.32201, 46.2143,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, Prafirmin-d'en-Haut</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34834, 46.265,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Les Fournaises</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.37605, 46.2223,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, Le Parfait</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36074, 46.218,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, Turin</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35599, 46.2156,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, La Courtaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34643, 46.2113,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, Arvilard</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34286, 46.2094,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Baar (Nendaz), village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.3322, 46.2054,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35697, 46.2105,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Agettes,s Crettaz-à-l'Oeil</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.3647, 46.2121,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, Pravidondaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35155, 46.2113,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salins, Misérier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.35023, 46.2092,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Uvrier, sud</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.41659, 46.2485,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nax, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.4284, 46.2283,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nax, La Scie</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.44097, 46.2283,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

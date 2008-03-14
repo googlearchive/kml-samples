@@ -1,0 +1,58 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.326450</north><south>47.193962</south><east>7.010890</east><west>6.706347</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Saignelégier, Place du 23 juin</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.99593, 47.2561,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Breuleux</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.00517, 47.2104,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Noirmont</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.98173, 47.2233,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Creux-des-Biches</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.94066, 47.2035,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Boéchet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.92211, 47.1943,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

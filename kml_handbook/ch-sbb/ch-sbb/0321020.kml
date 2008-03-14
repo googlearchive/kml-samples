@@ -1,0 +1,31 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.200306</north><south>46.167184</south><east>8.914281</east><west>8.838145</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Scalate</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.85171, 46.1848,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gerra P., Centro Professionale</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.90581, 46.1735,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

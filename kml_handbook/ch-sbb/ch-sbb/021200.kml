@@ -1,0 +1,58 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.465281</south><east>7.163161</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Lessoc</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.05247, 46.5075,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Montbovon</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.04247, 46.4859,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Neirivue</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.06147, 46.5281,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Albeuve</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.05596, 46.5184,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Château-d'Oex</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.13141, 46.4747,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

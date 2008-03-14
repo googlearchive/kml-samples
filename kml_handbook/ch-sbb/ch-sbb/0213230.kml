@@ -1,0 +1,31 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.332794</north><south>46.299672</south><east>7.848382</east><west>7.772246</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Ausserberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.84434, 46.3121,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Raron LRU</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.80115, 46.3032,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

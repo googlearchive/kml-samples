@@ -1,0 +1,22 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.465281</south><east>8.685874</east><west>8.533603</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Airolo, Biv. per Madrano</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.63012, 46.5244,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

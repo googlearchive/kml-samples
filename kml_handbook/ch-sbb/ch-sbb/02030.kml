@@ -1,0 +1,496 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.399038</south><east>6.706347</east><west>6.401805</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>020300</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.465281</south><east>6.554076</east><west>6.401805</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>020300.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>020301</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.465281</south><east>6.706347</east><west>6.554076</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>020301.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>020303</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.465281</north><south>46.399038</south><east>6.706347</east><west>6.554076</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>020303.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Pully, port</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.66183, 46.5056,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Monts-de-Lutry, La Croix</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.70308, 46.5173,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Marcelin (Morges)</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.48833, 46.5178,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morges, Saint-Louis</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.4992, 46.5109,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pully, Val-Vert</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.66703, 46.522,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morges, Pâquis</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.49949, 46.5129,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morges, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.49432, 46.5106,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pully/Pully-Nord</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.65946, 46.5109,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morges-St-Jean</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.50804, 46.5182,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tolochenaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.475, 46.4968,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Denges-Echandens</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.5405, 46.5291,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.42713, 46.4752,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lonay-Préverenges</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.51954, 46.5231,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Echichens, croisée</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.49212, 46.5248,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morges, Les Pétoleyres</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.50425, 46.5202,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morges, En Grassiaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.5068, 46.5233,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Cerisaie</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.56658, 46.5278,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>EPFL</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.56604, 46.5222,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mouline</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.57931, 46.5251,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>UNIL-Sorge</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.57321, 46.5222,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bourdonnette</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.59029, 46.5233,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>UNIL-Dorigny</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.58481, 46.5241,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lausanne, Tunnel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.6345, 46.5254,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lully VD</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.46641, 46.5048,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Denens, Laiterie</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.45639, 46.5184,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Provence TL</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.60876, 46.5232,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.42787, 46.4754,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy, Bas du Rossé</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.41599, 46.4836,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy, Romanèche</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.41947, 46.4893,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.41952, 46.4864,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy, En Bellevue</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.4129, 46.4748,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Buchillon, Grands-Bois</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.41098, 46.4735,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Buchillon, collège</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.42306, 46.4716,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Etoy, Chenalette</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.42728, 46.4723,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bassenges</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.56491, 46.5249,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lausanne-Chauderon</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.62461, 46.5239,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Montétan</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.61232, 46.5307,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Sulpice VD, centre</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.55785, 46.51,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chigny</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.47244, 46.5157,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Marais</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.46111, 46.5277,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lausanne, St-François</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.63329, 46.5191,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pully CGN</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.66129, 46.5054,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lutry CGN</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.68405, 46.5012,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lausanne</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.62909, 46.5168,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pully</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.65946, 46.5109,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lutry</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.69061, 46.5038,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ecublens VD, EPFL Métro Ouest</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.56687, 46.5221,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Sulpice VD, Venoge</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.54283, 46.5128,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Préverenges, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.52638, 46.5174,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

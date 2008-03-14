@@ -1,0 +1,49 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.392694</north><south>47.359572</south><east>8.381331</east><west>8.305196</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Rudolfstetten Hofacker</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.3771, 47.3647,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Berikon-Widen, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.36725, 47.3616,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bellikon, Rehaklinik</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.3442, 47.3883,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Eggenwil, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.34058, 47.3697,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

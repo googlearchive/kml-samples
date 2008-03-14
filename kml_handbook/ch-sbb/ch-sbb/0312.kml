@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.266550</south><east>10.056315</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>03120</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.399038</south><east>9.751773</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03120.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>03121</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.399038</south><east>10.056315</east><west>9.751773</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03121.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>03122</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.399038</north><south>46.266550</south><east>9.751773</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03122.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>03123</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.399038</north><south>46.266550</south><east>10.056315</east><west>9.751773</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03123.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>S. Croce</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45631, 46.3252,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Celerina</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.85844, 46.514,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Moritz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.84639, 46.498,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Punt Muragl</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.88119, 46.5097,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pontresina</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.89607, 46.4906,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sils/Segl Maria, alte Schmitte</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.76498, 46.4262,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alp Grüm</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.0311, 46.3747,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Morteratsch</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.94041, 46.4507,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Surovas</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.90568, 46.4856,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Punt Muragl Staz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.88041, 46.5073,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Celerina Staz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.86512, 46.5096,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>La Motta, Dogana</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.0508, 46.411,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ospizio Bernina, Stazione</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.0196, 46.4087,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ospizio Bernina, Albergo</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.0219, 46.4108,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Am Bach (Avers)</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53718, 46.4585,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Avers, Pürt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.5254, 46.4653,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Avers, Alpina</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55025, 46.4513,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Avers, Juppa</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54865, 46.452,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Avers, Podestats Haus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55796, 46.4487,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bernina Lagalb</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.99193, 46.4366,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Curtinatsch</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.99477, 46.4367,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Piz Lagalb</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.0219, 46.4299,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Champfèr, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.81332, 46.4779,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Casaccia, Posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.66739, 46.3887,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Castasegna, Posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51387, 46.3336,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Cresta (Avers), Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51169, 46.4729,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bivio, Stalvedro</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64286, 46.4795,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Marmorera, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64228, 46.4972,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Silvaplana, Lej Tscheppa</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.79271, 46.4578,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bivio, Suracqua</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.68453, 46.4633,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Moritz, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.84558, 46.4975,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bernina Diavolezza, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.98178, 46.4422,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Poschiavo, Mengotti</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.055, 46.324,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Promontogno, Posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55656, 46.3379,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stampa, Palù</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.58409, 46.3409,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Spino</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55014, 46.3365,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vicosoprano, Zocca</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.65787, 46.3658,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vicosoprano, Nasciarina</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.65709, 46.3658,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pranzaira, Albigna</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64702, 46.358,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vicosoprano, Camping</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.63317, 46.3528,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Maloja, Cad'Maté</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.69602, 46.3986,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Casaccia, Cavril</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.68404, 46.3981,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Casaccia, Löbbia</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.66145, 46.3738,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Moritz Bad, Reithalle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.83614, 46.4903,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Celerina, Cresta Palace</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.85429, 46.51,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Moritz Bad, Sonne</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.84041, 46.4866,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Moritz Bad, Signal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.83415, 46.4837,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Punt Muragl, Talstation</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.88191, 46.5083,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Poschiavo, Stazione</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>10.055, 46.324,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

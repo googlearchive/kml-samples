@@ -1,0 +1,58 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.399038</north><south>46.266550</south><east>6.097262</east><west>5.792720</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Cessy, centre</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.07014, 46.3185,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gex, ZAC</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.06579, 46.3364,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gex, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.05681, 46.3318,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tougin</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.05579, 46.321,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ségny</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.07327, 46.297,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

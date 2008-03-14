@@ -1,0 +1,49 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>8.229060</east><west>8.076789</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Stalden (Sarnen), Geren</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.22463, 46.8913,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberwilen, Wilerbad</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.22049, 46.8773,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberwilen, Forst</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.1911, 46.8631,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wilen (Sarnen)</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.22415, 46.8809,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

@@ -1,0 +1,22 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.962109</south><east>7.619975</east><west>7.543839</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Utzigen, Pflege-und Altersheim</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.56147, 46.9623,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

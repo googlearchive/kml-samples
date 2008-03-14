@@ -1,0 +1,40 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.067819</north><south>46.034697</south><east>8.914281</east><west>8.838145</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Vezio, Busgnone</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.88575, 46.0423,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vezio, Acquacalda</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.88203, 46.0434,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fescoggia, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.87675, 46.039,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

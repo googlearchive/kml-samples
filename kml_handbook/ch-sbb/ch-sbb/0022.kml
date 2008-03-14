@@ -1,0 +1,49 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.796500</south><east>6.401805</east><west>5.792720</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Pontarlier, Mairie</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.35321, 46.9037,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pontarlier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.35064, 46.9009,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pontarlier, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.35729, 46.8965,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Frasne</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.15312, 46.8728,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

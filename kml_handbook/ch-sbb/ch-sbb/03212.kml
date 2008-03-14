@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.001575</south><east>9.142688</east><west>8.838145</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>032120</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.067819</south><east>8.990416</east><west>8.838145</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>032120.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>032121</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.067819</south><east>9.142688</east><west>8.990416</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>032121.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>032122</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.067819</north><south>46.001575</south><east>8.990416</east><west>8.838145</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>032122.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>032123</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.067819</north><south>46.001575</south><east>9.142688</east><west>8.990416</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>032123.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Taverne-Torricella</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.93033, 46.0567,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lamone-Cadempino</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.93212, 46.0397,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Porza, Tavesio</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.95661, 46.0305,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bedano, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.91839, 46.0502,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lugano, Via S. Balestra</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.95312, 46.0071,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Miglieglia SMM</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.85624, 46.0237,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lugano Città TPL</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.94878, 46.0047,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lugano Stazione TPL</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.94766, 46.0049,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bogno, Magnan</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.05654, 46.089,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Novaggio, Posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.85572, 46.0104,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bosco Luganese, Bassa</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.90844, 46.0262,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Novaggio, Riveri</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.85889, 46.0082,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Novaggio, Alla Colombina</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.85633, 46.0138,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Breno, Ponte di Vello</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.87916, 46.0325,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vernate, Bivio per Cimo</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.89026, 46.0249,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Taverne, Via Puréca</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.93387, 46.0635,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Taverne-Torricella, Stazione</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.92995, 46.0571,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bioggio</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.90889, 46.0121,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lugano FLP</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.94631, 46.0056,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Serocca</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.90457, 46.0085,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lamone, Ostarietta V.Cantonale</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.92887, 46.043,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Carnago, Arbustello</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.95056, 46.0489,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sorengo, Moncucchetto</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.9364, 46.0048,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lugano, Piazza Rezzonico</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.95055, 46.0025,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Dino</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.98397, 46.0526,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Soragno</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.97822, 46.032,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Davesco, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.98029, 46.0365,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Cadro, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.98379, 46.0463,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Viganello, San Siro</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.97131, 46.0159,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pregassona</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.97529, 46.0194,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arosio, Cappella di Toma</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.90472, 46.0463,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Manno, Uovo di Manno</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.92328, 46.0352,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bioggio Molinazzo, Stazione</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.91296, 46.0147,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Roveredo TI, Treggia</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.99005, 46.0754,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lopagno, Miera</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.98118, 46.0727,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Roveredo TI, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.98457, 46.0736,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lopagno, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.9773, 46.0682,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lopagno, Ronchetto</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.97776, 46.0706,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tesserete, Ricovero</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.96888, 46.0676,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tesserete, Campestro</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.97107, 46.0695,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bedigliora, Feredino</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.85087, 46.0023,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Miglieglia, Cassinelle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.86252, 46.0332,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vaglio, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.95732, 46.0608,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bioggio, Cavezzolo</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.91343, 46.0147,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grotto Elvezia</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.9933, 46.0039,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bogno, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.06235, 46.0897,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Cagiallo, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.97209, 46.0666,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Insone, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.02914, 46.086,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Scareglia, Paese</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.03519, 46.0896,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

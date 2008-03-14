@@ -1,0 +1,58 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.928988</south><east>7.924518</east><west>7.772246</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Gohl, Obeningohl</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.81873, 46.9689,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gohl, Gmünden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.82717, 46.983,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bärau, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.81111, 46.9413,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gohl, Mettlen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.81736, 46.9623,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gohl, Schulhaus Chammershus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.82103, 46.9416,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

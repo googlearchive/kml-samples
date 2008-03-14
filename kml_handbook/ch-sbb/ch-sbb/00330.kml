@@ -1,0 +1,496 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.928988</south><east>7.924518</east><west>7.619975</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>003300</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.995231</south><east>7.772246</east><west>7.619975</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003300.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003301</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.995231</south><east>7.924518</east><west>7.772246</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003301.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003303</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.928988</south><east>7.924518</east><west>7.772246</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003303.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Burgdorf, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.6216, 47.0598,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Biglen, Walke</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.64085, 46.9302,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Landiswil, Hinteregg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.69606, 46.9409,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberfrittenbach, Aeugstmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.7981, 46.9791,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langnau i.E., Friedhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.7758, 46.9452,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberfrittenbach, Schulhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.78318, 46.958,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Burgdorf, Parkhaus Oberstadt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62421, 47.0544,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Heimisbach, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.76084, 47.0118,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luthern Bad</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.92403, 47.0256,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rüegsbach, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.68861, 47.0345,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obergoldbach, Abzw. Landiswil</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.68303, 46.9652,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Landiswil, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.67906, 46.958,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obergoldbach, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.6725, 46.9598,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Schwanden i.E., Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.69365, 46.9868,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Schwanden i.E., Schwandenmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.69098, 46.9796,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ranflüh, Oberdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.74096, 46.9858,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Neumühle, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.75203, 46.9674,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langnau i.E., Berufsschule</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.77749, 46.942,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Burgdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62169, 47.0607,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Heimiswil, Niederdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.65583, 47.0606,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Burgdorf, Spital</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62156, 47.0481,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Burgdorf, Hallenbad</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62948, 47.0544,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zollbrück, Zentrum</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.74995, 46.9717,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zollbrück, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.74183, 46.9759,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arni BE, Tanne</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.64814, 46.9473,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arni BE, Matte</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.6737, 46.9344,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rüegsau, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.6741, 47.0246,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberburg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62964, 47.0396,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grünenmatt, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.72267, 47.0074,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sumiswald-Grünen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.73707, 47.0254,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grünenmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.72407, 47.0084,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luthern Dorf, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.91645, 47.0598,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arni BE, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.66517, 46.9349,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arnisäge BE, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.65006, 46.9338,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fankhaus (Trub), Schulhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.90879, 46.9672,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wasen i.E., Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.79215, 47.0435,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grünenmatt, Dorfmitte</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.72267, 47.0074,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Moosegg, Hotel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.71185, 46.9472,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langnau i.E., Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.78483, 46.939,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Landiswil, Bärisbach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.68566, 46.9652,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langnau i.E., Schwimmbad Moos</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.79753, 46.9375,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langnau i.E., Moos</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.79557, 46.9372,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Trub, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.87684, 46.9406,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wyssachen, Fritzenflue</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.83846, 47.0608,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Burgdorf, Gymnasium</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62126, 47.0569,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Burgdorf, Alterspflegeheim</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62814, 47.0472,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rüegsauschachen, Zentrum</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.6596, 47.0174,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberfrittenbach, Grebli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.79462, 46.9704,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langnau i.E., Hüselmatte</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.76569, 46.9457,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

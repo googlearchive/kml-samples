@@ -1,0 +1,49 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.928988</south><east>8.229060</east><west>8.076789</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Finsterwald LU, Lippern</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.10486, 46.9683,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Finsterwald LU, alte Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.11532, 46.9644,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gfellen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.12703, 46.9553,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Finsterwald LU, Erlengraben</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.0846, 46.9774,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

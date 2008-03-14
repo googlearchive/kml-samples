@@ -1,0 +1,31 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.001575</south><east>6.097262</east><west>5.792720</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Valleiry, Mairie</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>5.9655, 46.1067,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Viry</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.08192, 46.1063,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.928988</south><east>8.533603</east><west>8.229060</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>012200</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.995231</south><east>8.381331</east><west>8.229060</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>012200.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>012201</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.061475</north><south>46.995231</south><east>8.533603</east><west>8.381331</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>012201.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>012202</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.928988</south><east>8.381331</east><west>8.229060</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>012202.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>012203</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.928988</south><east>8.533603</east><west>8.381331</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>012203.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Rotzloch</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.32913, 46.9656,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stansstad SGV</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.33619, 46.9806,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Emmetten, Sagendorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.52648, 46.9583,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stansstad, Abzw. Rotzloch</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.33943, 46.9685,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberdorf NW, Schulhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.38389, 46.956,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Büren NW, Kirchenplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.39707, 46.9401,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Jakob (Ennetmoos)</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.30668, 46.9343,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obbürgen, alte Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.363, 46.9827,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Meggen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.38305, 47.0501,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.31017, 47.0502,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Meggen, Lerchenbühl</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.35972, 47.0409,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Meggen, Schlössli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.37164, 47.0453,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Meggen, Gottlieben</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.39156, 47.0551,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kriens, Busschleife</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.27704, 47.0342,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kriens Mattenhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.30237, 47.0266,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fräkmüntegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.25124, 46.9907,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Verkehrshaus-Lido</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.33477, 47.0511,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alpnachstad PB</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.27718, 46.9555,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Beckenried, Höfe</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.47565, 46.9626,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tribschen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.33074, 47.042,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kastanienbaum SGV</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.34101, 47.0081,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St. Niklausen LU SGV</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.34083, 47.0199,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern, Klinik St. Anna</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.32386, 47.0603,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Harissenbucht</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.34684, 46.982,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fürigen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.3507, 46.9825,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Emmetten KlEN</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.51901, 46.9559,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stansstad</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.33634, 46.9763,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stans</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.36674, 46.9583,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Dallenwil</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.39206, 46.9338,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fruttli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.50498, 47.0384,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kräbel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.5309, 47.0403,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rigi First</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.47651, 47.0472,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rigi Klösterli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.48714, 47.0425,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rigi Kulm</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.48524, 47.0552,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rigi Staffel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.47424, 47.0537,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kriens PB</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.27788, 47.0304,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.3086, 47.053,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pilatus Kulm</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.25595, 46.9794,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Buochs, Linden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.43119, 46.974,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Horw, Zentrum</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.31121, 47.0193,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rotschuo</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.48802, 46.9931,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern, Eichhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.30082, 47.04,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obernau, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.25167, 47.0312,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obernau, Feldmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.24867, 47.0283,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obernau, Stampfeli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.25468, 47.0343,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern, Schiffsteg 1</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.31258, 47.0511,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Weggis, Luftseilbahn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.43992, 47.0336,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern, Luzernerhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.31225, 47.055,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Luzern, Schwanenplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.3086, 47.053,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

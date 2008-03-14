@@ -1,0 +1,31 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.995231</north><south>46.928988</south><east>8.838145</east><west>8.685874</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Riemenstalden, Chäppeliberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.6875, 46.9468,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Muotathal, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.7581, 46.9732,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

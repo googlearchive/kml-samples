@@ -1,0 +1,76 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.359572</north><south>47.326450</south><east>8.838145</east><west>8.762009</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Kempten, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.80764, 47.3313,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wetzikon ZH, Talstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.79606, 47.3267,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wetzikon ZH, Seegräbnerstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.78385, 47.3306,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberwetzikon</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.79977, 47.3268,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kempten, Talhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.81634, 47.3324,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wetzikon ZH, Buchgrindel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.78969, 47.3288,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberkempten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.82307, 47.3291,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

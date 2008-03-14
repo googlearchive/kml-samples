@@ -1,0 +1,496 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.796500</south><east>8.229060</east><west>7.924518</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>003330</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>8.076789</east><west>7.924518</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003330.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003331</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>8.229060</east><west>8.076789</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003331.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003333</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.862744</north><south>46.796500</south><east>8.229060</east><west>8.076789</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003333.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Sörenberg, Habchegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.05673, 46.8113,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Schwändili</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.05152, 46.8141,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Buechenegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.13762, 46.8354,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Abzw. Brosmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.13229, 46.8284,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden (Sarnen), Sportplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.20518, 46.8846,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kleinteil, Mittlere Buchenegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.1373, 46.8361,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberwilen, Moos</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.19474, 46.8658,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Usser-Lamm</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01398, 46.9186,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Matzenbach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.0147, 46.8934,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Torbach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01652, 46.8795,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Hüttlenen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01714, 46.8765,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Hochwald</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01643, 46.8714,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Mittlere Hirsegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01289, 46.8466,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Kirche</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.17953, 46.8324,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.1868, 46.8371,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Hirseggbrücke</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.0156, 46.8554,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Hirsegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01247, 46.8388,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kleinteil, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.15626, 46.8319,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg-Schönenboden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.05966, 46.8076,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mörlialp</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.11358, 46.8258,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Platz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.04238, 46.8173,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Glaubenbielen, Parkplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.08596, 46.8179,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Südelhöchi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01274, 46.8327,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grossteil, Schulhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.17371, 46.8383,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Escholzmatt, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93623, 46.9219,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kaiserstuhl OW</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.17551, 46.8144,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.18631, 46.8365,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Escholzmatt, Riedgasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93084, 46.9068,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Kemmeriboden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93512, 46.802,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Camping</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.02544, 46.8257,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Ochsenweid</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.02282, 46.8255,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Flühhütten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.04859, 46.8154,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Schulhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.02968, 46.8238,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Jwi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.1238, 46.8307,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Emmenrank</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.07867, 46.8105,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Rothornbahn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.05964, 46.8077,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sörenberg, Skilift Rischli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01631, 46.8295,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01493, 46.8844,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Escholzmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.93636, 46.9153,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden (Sarnen), Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.21176, 46.8864,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Schintmoos</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01312, 46.8997,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Flühli LU, Golfplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.01802, 46.8673,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grossteil, Aspli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.15338, 46.862,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Bärecken</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.14486, 46.8374,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Giswil, Rütimatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.15394, 46.8306,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grossteil, Rüti</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.16207, 46.8503,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberwilen, Seefuren</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.20266, 46.8689,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stalden (Sarnen), Haldi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.21966, 46.8881,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Oberwilen, Badmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.21784, 46.876,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

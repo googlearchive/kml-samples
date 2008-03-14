@@ -1,0 +1,49 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.233428</north><south>46.200306</south><east>7.467704</east><west>7.391568</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Vernamiège, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.43165, 46.2114,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Petit-Champsec</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39433, 46.227,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nax, Creux-de-Nax</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.41399, 46.2243,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nax, Erbioz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.41746, 46.2186,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

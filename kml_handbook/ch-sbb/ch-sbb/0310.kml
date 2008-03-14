@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.796500</north><south>46.531525</south><east>10.056315</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>03100</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.796500</north><south>46.664012</south><east>9.751773</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03100.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>03101</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.796500</north><south>46.664012</south><east>10.056315</east><west>9.751773</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03101.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>03102</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.664012</north><south>46.531525</south><east>9.751773</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03102.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>03103</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.664012</north><south>46.531525</south><east>10.056315</east><west>9.751773</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>03103.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Bever</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.88847, 46.5499,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Samedan</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.87363, 46.5338,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>La Punt-Chamues-ch</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.92333, 46.5787,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Madulain</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.93835, 46.5871,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zuoz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.96146, 46.5999,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>S-chanf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.98182, 46.6119,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Brienz/Brinzauls, Belfort</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.61468, 46.6697,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alvaneu Dorf, Crappa Naira</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.63048, 46.6725,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Schmitten (Albula), Innerdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.67787, 46.6882,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wiesen GR, Schluocht</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.71442, 46.7021,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wiesen GR, Valldanna</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.72457, 46.7024,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Filisur, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.67974, 46.675,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Filisur, Schöntal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.68491, 46.6736,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Samedan, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.87262, 46.5337,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alvaschein, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55179, 46.6744,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alvaschein, Gipsmühle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56283, 46.6727,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Stierva, posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54155, 46.6634,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mon, Abzw.</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56296, 46.6511,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alvaneu, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.65166, 46.671,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Alvaneu Bad, Dorfplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.64783, 46.6684,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Davos Platz, Spital</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.81539, 46.7894,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Davos Glaris, Ortolfi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.77754, 46.74,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zuoz, staziun</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.96045, 46.5993,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bergün/Bravuogn, Tuors Davant</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.80176, 46.643,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bergün/Bravuogn, Tuors Chants</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.82769, 46.6458,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lantsch/Lenz, St. Cassian</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55766, 46.6991,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pratval, Rietberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.44782, 46.735,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Dischma, Teufi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.88078, 46.772,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Davos Clavadel, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.81376, 46.7672,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zillis, Rania</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.44859, 46.6503,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mutten, Stafel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48935, 46.674,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mutten, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.49965, 46.6786,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mutten, Abzw. Calabria</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.50942, 46.686,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sils im Domleschg, Campi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.4678, 46.7007,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Obermutten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48407, 46.6728,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Cunter, posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.59161, 46.6076,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Churwalden, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54351, 46.7806,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Scheid, posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.44773, 46.7764,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Cunter, Burvagn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.58834, 46.6238,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tinizong, Cadras</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.61162, 46.5856,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vazerol</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.57908, 46.6703,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tiefencastel, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.57646, 46.6621,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sils im Domleschg, Cumparduns</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45466, 46.7079,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Parpan, Höhe</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.5589, 46.7555,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mutten, Unterdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.49865, 46.6779,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lantsch/Lenz, Garage Belfort</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56031, 46.6999,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lantsch/Lenz, Unterdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56365, 46.6853,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Scharans, Mosterei</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45495, 46.7156,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Scharans, St. Agatha</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45282, 46.7111,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

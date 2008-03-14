@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.856400</north><south>46.796500</south><east>8.229060</east><west>5.792720</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>000</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.856400</north><south>47.326450</south><east>7.010890</east><west>5.792720</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>000.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>001</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.856400</north><south>47.326450</south><east>8.229060</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>001.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>002</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.326450</north><south>46.796500</south><east>7.010890</east><west>5.792720</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>002.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.326450</north><south>46.796500</south><east>8.229060</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Gempenach, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19698, 46.94,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Malters, Schürmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.16775, 47.0277,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Toffen, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.49576, 46.8592,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Agriswil</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19364, 46.9531,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ulmiz FR, Ausserdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19832, 46.9337,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ulmiz FR, Abzw. Lurtigen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.18912, 46.9373,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Faoug débarcadère</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.07603, 46.9114,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liebistorf, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19189, 46.9049,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liebistorf, in der Rebe</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19313, 46.9202,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gurmels, Dürrenberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.18143, 46.8959,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liebistorf, obere Mühle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.18928, 46.9022,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Teufenthal AG</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.11447, 47.3294,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gränichen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.09878, 47.3617,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Brunnenthal, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.46761, 47.0869,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Jegenstorf, Rotonda</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.51049, 47.0582,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Langis</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.1259, 46.893,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Leimbach AG</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.16786, 47.2727,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Waldhäusern BE, Kurhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.71051, 46.9419,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liestal, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.73167, 47.4843,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liestal, Wasserturmpl. Engel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.73583, 47.4827,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liestal, Schulhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.73714, 47.4805,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Liestal, Eglisacker</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.73313, 47.4753,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Hofstatt, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.91534, 47.0832,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grossaffoltern, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36097, 47.0662,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Marbachegg, Talstation</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.89557, 46.8501,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Diessbach bei Büren, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36222, 47.1085,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Münsingen, Schrybi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.56216, 46.8744,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Boll-Utzigen, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.54699, 46.9535,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Welschenrohr, Unterdorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.53314, 47.2805,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Welschenrohr, Brisenmatt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.49612, 47.2699,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Zell LU, Kirche</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.92242, 47.139,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gettnau, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.96996, 47.1403,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Radelfingen bei Utzigen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.57525, 46.9519,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nebikon, Käserei</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.97565, 47.1887,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Utzigen, Aebnit</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.56344, 46.9564,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Basel St. Albantal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.60097, 47.5552,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grenzach-Wyhlen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.66877, 47.5368,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mosen SGH</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.22421, 47.2458,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Boniswil SGH</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.19909, 47.3129,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Basel Rheinhafen/Dreiländereck</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.58912, 47.5878,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Galmiz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.1532, 46.9509,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Murten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.11528, 46.9253,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Utzigen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.56345, 46.96,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Biglen, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.62639, 46.9248,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Corcelles-Nord</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.96029, 46.8353,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Faoug</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.0746, 46.9082,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Avenches</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.04092, 46.8846,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Domdidier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.01138, 46.8685,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Dompierre</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.98536, 46.8544,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

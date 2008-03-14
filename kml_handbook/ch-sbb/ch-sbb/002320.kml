@@ -1,0 +1,31 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>6.554076</east><west>6.401805</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>La Côte-aux-Fées, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.49004, 46.8666,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Buttes</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.55387, 46.8885,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

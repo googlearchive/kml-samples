@@ -1,0 +1,76 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.928988</north><south>46.862744</south><east>6.706347</east><west>6.554076</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>St-Sulpice NE, Terminus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.56182, 46.909,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fleurier, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.58026, 46.9047,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Couvet, Viaduc</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.63111, 46.9275,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Môtiers</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.61034, 46.9119,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fleurier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.58159, 46.9049,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Couvet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.63567, 46.9234,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Sulpice NE</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.56329, 46.9093,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

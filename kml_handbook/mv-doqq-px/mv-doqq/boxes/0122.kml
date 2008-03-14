@@ -1,0 +1,18 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>37.414643</north><south>37.406256</south><east>-122.085581</east><west>-122.094328</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>100000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark><name>box 0122</name>
+<LineString><tessellate>1</tessellate>
+<coordinates>-122.094328,37.414643,0 -122.085581,37.414643,0 -122.085581,37.406256,0 -122.094328,37.406256,0 -122.094328,37.414643,0</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

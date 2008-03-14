@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.001575</south><east>7.619975</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>02300</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.134062</south><east>7.315433</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02300.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>02301</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.266550</north><south>46.134062</south><east>7.619975</east><west>7.315433</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02301.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>02302</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.001575</south><east>7.315433</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02302.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>02303</name>
+
+<Region>
+<LatLonAltBox>
+<north>46.134062</north><south>46.001575</south><east>7.619975</east><west>7.315433</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>02303.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Frenières-sur-Bex, bif.</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.07063, 46.2601,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, Pradoumaye</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.3583, 46.2533,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Savièse, Zampelet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36439, 46.2577,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vérines, Camping</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.20333, 46.2105,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arolla, Mt-Collon</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.48204, 46.0235,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vernayaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.03835, 46.1385,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Evionnaz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.02551, 46.1692,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chandolin, Belvédère</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.32615, 46.2491,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Les Cèdres</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36086, 46.2303,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fey (Nendaz), Moralla</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.27852, 46.1918,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Aproz, bif. Bieudron</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.28397, 46.1949,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Aproz, rte de Coor</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.30863, 46.2016,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Aproz, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.31586, 46.2068,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fey (Nendaz), Les Bans</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.26706, 46.1812,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fey (Nendaz), Les Tsejas</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.27481, 46.1855,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fey (Nendaz), Crevey</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.27466, 46.1878,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fey (Nendaz), village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.26928, 46.1866,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sion, Abattoirs</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.36854, 46.2282,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Condémines</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.25523, 46.1764,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bonatchiesse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.32838, 46.0213,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Plamproz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.29495, 46.0359,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lourtier, Brecholey</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.32262, 46.0247,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Versegères, Fregnoley</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.25258, 46.0556,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>La Côt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19982, 46.0625,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bruson, télésiège</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.2162, 46.0633,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Martinet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.22444, 46.0704,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Moay</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.19468, 46.0608,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lourtier, Pont de Mauvoisin</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.34213, 46.0069,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ayent, Argnoud-d'en-Haut</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39661, 46.2635,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fully, Le Chenil</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.15634, 46.1565,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fully, Creppier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.12006, 46.14,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fully, Verdan</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.12291, 46.1421,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Châtaignier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.12515, 46.1438,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fully, Le Carroz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.10067, 46.1303,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fully, Stade de Charnot</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.1131, 46.1348,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Collons</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.38553, 46.1864,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mayens-Pralong</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.39595, 46.1118,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Hérémence, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.40238, 46.1801,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Champex, d'en-Haut</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.10282, 46.0357,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Vérines, Tsavedonde</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.20653, 46.2099,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bex, Résidence</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.0228, 46.2477,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mayens-de-Chamoson, Berze</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.18978, 46.206,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Fumeaux</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.05275, 46.1205,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>La Caffe, hameau</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.01864, 46.0649,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Chemin-Dessous</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.08041, 46.0925,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Nax, piscine</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.42749, 46.2212,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Châble VS, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.21522, 46.0779,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Fontenelle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.217, 46.0862,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Martin VS, Suen sud</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.4382, 46.1802,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

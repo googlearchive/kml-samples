@@ -1,0 +1,482 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.856400</north><south>47.326450</south><east>10.665400</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>0110</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.856400</north><south>47.591425</south><east>10.056315</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>0110.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>0112</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.591425</north><south>47.326450</south><east>10.056315</east><west>9.447230</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>0112.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Trogen, Sandegg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48285, 47.4086,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tübach, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45198, 47.4861,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Goldach, TZM/Kellen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46327, 47.4776,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Goldach, Kronenplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.4706, 47.4783,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach, Löwengarten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48188, 47.4784,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach, Landhaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48486, 47.4783,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.49181, 47.4777,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Goldach, Tübacherstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46898, 47.4793,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Horn, Feldschlössli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45815, 47.4914,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Horn, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46321, 47.4933,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Horn, evang. Kirche</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46026, 47.4966,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Horn, Saiswerke</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45111, 47.498,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Trogen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46148, 47.4074,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gfeld</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45587, 47.405,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bendlehn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.45157, 47.4065,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grub SG</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51342, 47.4535,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Schachen (Reute), alte Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56039, 47.4254,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Thal, alte Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56731, 47.4658,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wald AR, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.49143, 47.4163,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Altenrhein, Flugplatz</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55096, 47.4884,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Staad SG, Hafen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53439, 47.4806,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschacherberg, Hörnlibuck</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52872, 47.4798,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschacherberg, Seebleiche</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51534, 47.4771,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach, Ost</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.50538, 47.4768,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach Stadt, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.49173, 47.4757,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Eichberg, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.52311, 47.3451,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschacherberg, Sonnenhof/MZH</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.50384, 47.4715,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Friedrichshafen Autoquai</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48206, 47.6486,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Berneck, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.61276, 47.4254,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Eggersriet, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.47255, 47.4425,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Grub AR, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.50856, 47.4478,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach Stadt</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.48972, 47.4753,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Berneck, Rathaus</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.60844, 47.4252,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach, Altersheim</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.49866, 47.4747,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Horn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46337, 47.4932,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rorschach Hafen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.4929, 47.4786,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Trogen, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46127, 47.4074,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Goldach, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.46578, 47.4737,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Altenrhein, Markthalle</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54349, 47.4842,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wolfhalden, Wüschbach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54303, 47.4474,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Heiden, Rosental</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.53293, 47.4435,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Unterrechstein, Heilbad</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51526, 47.4326,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Heiden, Hirschli</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.51996, 47.4341,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bruggmühle AR</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55788, 47.4541,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wolfhalden, Lindenberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55597, 47.4559,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wolfhalden, Friedberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.55133, 47.456,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Wolfhalden, Luchten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.54617, 47.4513,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lutzenberg, Brenden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.58297, 47.4594,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lutzenberg, Hellbüchel</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.56335, 47.458,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

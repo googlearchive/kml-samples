@@ -1,0 +1,76 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.001575</north><south>45.736600</south><east>8.229060</east><west>7.619975</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Klein Matterhorn</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.72961, 45.939,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Trockener Steg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.72221, 45.9714,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Furi</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.73205, 46.0014,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Schwarzsee VS</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.7095, 45.9917,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Riffelberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.75521, 45.9928,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rotenboden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.76536, 45.9845,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gornergrat</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.78216, 45.9834,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

@@ -1,0 +1,67 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.862744</north><south>46.796500</south><east>6.858619</east><west>6.706347</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Estavayer-le-Lac, ESB</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.85257, 46.8479,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Concise, église</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.71972, 46.8503,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Concise, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.7197, 46.8522,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Concise</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.72317, 46.8509,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Yvonand, poste/gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.74633, 46.8003,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Concise LNM</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>6.7203, 46.8487,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

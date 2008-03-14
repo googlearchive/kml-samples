@@ -1,0 +1,76 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.657669</north><south>47.591425</south><east>8.685874</east><west>8.533603</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Jestetten, Bahnhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.57404, 47.6543,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lottstetten, Dietenbergstrasse</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.56984, 47.6259,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Rafz, Post</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.53988, 47.6113,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Andelfingen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.67797, 47.5938,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Jestetten</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.57327, 47.6544,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ellikon am Rhein</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.59685, 47.6058,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Marthalen</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>8.65294, 47.6351,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

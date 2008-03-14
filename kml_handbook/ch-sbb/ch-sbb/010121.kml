@@ -1,0 +1,76 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.723912</north><south>47.657669</south><east>9.142688</east><west>8.990416</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Reichenau</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.05408, 47.6896,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Mannenbach</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.04756, 47.6752,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Gottlieben</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.13467, 47.6647,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ermatingen URh</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.08544, 47.6753,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Arenenberg, Schloss</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.05982, 47.6719,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Salenstein, Dorf</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.0588, 47.6691,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Ermatingen, Friedhof</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.07065, 47.6691,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

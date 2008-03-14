@@ -1,0 +1,40 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.332794</north><south>46.299672</south><east>7.924518</east><west>7.848382</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>Lalden</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.90836, 46.3015,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Eggerberg</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.881, 46.3067,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Eggerberg, Stärruacker</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.88816, 46.3061,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

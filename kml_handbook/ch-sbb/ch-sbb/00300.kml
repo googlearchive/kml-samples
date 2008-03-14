@@ -1,0 +1,510 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>47.326450</north><south>47.193962</south><east>7.315433</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<NetworkLink>
+<name>003000</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.326450</north><south>47.260206</south><east>7.163161</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003000.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003001</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.326450</north><south>47.260206</south><east>7.315433</east><west>7.163161</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003001.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003002</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.260206</north><south>47.193962</south><east>7.163161</east><west>7.010890</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003002.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<NetworkLink>
+<name>003003</name>
+
+<Region>
+<LatLonAltBox>
+<north>47.260206</north><south>47.193962</south><east>7.315433</east><west>7.163161</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>256</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Link>
+<href>003003.kml</href><viewRefreshMode>onRegion</viewRefreshMode></Link>
+</NetworkLink>
+<Placemark>
+    <name>Les Genevez JU</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.12817, 47.2574,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Reussilles, La Chaux</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.07155, 47.23,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Enson-la-Fin</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.10544, 47.3005,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Chésal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.11994, 47.3077,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Sairains, bif.</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.08167, 47.2959,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saulcy, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.15304, 47.3006,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>St-Brais, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.11202, 47.305,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Montfaucon, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.0507, 47.2825,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lajoux JU, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.13993, 47.2801,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sornetan</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.21596, 47.2742,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Reconvilier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.22742, 47.2352,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tavannes</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.20165, 47.2198,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sorvilier</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.30578, 47.2392,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Malleray-Bévilard</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.27594, 47.2387,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Reconvilier, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.22965, 47.2354,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Undervelier, Forges</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.21811, 47.3116,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tramelan-Dessous</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.11269, 47.2224,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Pied-d'Or</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.05629, 47.222,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tramelan-Chalet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.09245, 47.2235,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saignelégier, Moulin de Gruère</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.05137, 47.2356,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saignelégier, Rouges-Terres</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.01955, 47.2521,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saulcy, bif. La Racine</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.16622, 47.3097,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Prédame</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.10571, 47.2573,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Genevez JU, Les Vacheries</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.10443, 47.2501,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tramelan, place du Marché</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.09734, 47.2229,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saignelégier, La Neuvevie</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.01228, 47.2521,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saignelégier, La Theurre</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.03912, 47.2409,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Cerlatez</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.0282, 47.2434,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Reconvilier, FMB</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.22965, 47.2354,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Fuet, carrefour</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.1824, 47.2434,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Sonceboz-Sombeval</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.16877, 47.1951,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Tramelan, Chalet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.09173, 47.2238,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Epiquerez, Montbion</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.08611, 47.3243,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Essertfallon</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.07089, 47.3254,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Bémont JU, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.0112, 47.2629,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Reussilles, gare</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.08347, 47.2249,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Combe-Tabeillon</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.15846, 47.3138,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Bollement</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.12396, 47.2972,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pré-Petitjean</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.05883, 47.2771,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>La Combe</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.10012, 47.2849,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Bémont</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.01427, 47.2633,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Soubey, village</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.04853, 47.3082,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Enfers, restaurant</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.04734, 47.2904,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Saulcy, Bonembez</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.17809, 47.316,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Les Ecorcheresses</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.2807, 47.2766,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Pontenet</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.25416, 47.2389,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Lajoux JU, école</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.13895, 47.2788,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Fuet, Chemin de la Bottière</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.18402, 47.2497,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Le Fuet, poste</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>7.1824, 47.2434,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>

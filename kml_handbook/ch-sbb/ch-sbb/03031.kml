@@ -1,0 +1,67 @@
+<kml>
+<Document>
+
+<Region>
+<LatLonAltBox>
+<north>46.531525</north><south>46.399038</south><east>9.447230</east><west>9.142688</west>
+<minAltitude>0.000000</minAltitude><maxAltitude>0.000000</maxAltitude>
+</LatLonAltBox>
+<minLodPixels>2048</minLodPixels><maxLodPixels>1000000000</maxLodPixels>
+<minFadeExtent>0</minFadeExtent><maxFadeExtent>0</maxFadeExtent>
+</Region>
+<Placemark>
+    <name>S. Bernardino, Posta</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.19257, 46.4619,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>S. Bernardino, Ospizio</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.17055, 46.496,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Campsut-Cröt, Abzw. Valle Lei</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.44282, 46.5212,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Madesimo</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.35798, 46.4356,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>Hinterrhein, Tunnel Nordportal</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.18682, 46.5256,20</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>S. Bernardino, Muc. Casa Cant.</name>
+    <Style><LineStyle><width>2</width></LineStyle></Style>
+    <Point>
+      <extrude>1</extrude>
+      <tesselate>0</tesselate>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>9.17138, 46.4811,20</coordinates>
+    </Point>
+  </Placemark></Document>
+</kml>
