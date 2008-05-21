@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+  <name>styled placemark</name>
+  <description>paleogeographers unite!</description>
+  <Style>
+    <BalloonStyle><text><![CDATA[
+      <b>$[name]</b><br/><br/>
+      <i>$[description]</i><br/>
+    ]]></text></BalloonStyle>
+    <LabelStyle>
+      <color>ffff0000</color>
+    </LabelStyle>
+    <IconStyle>
+      <Icon>
+        <href>http://code.google.com/events/io/images/logo.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>-122,37</coordinates>
+  </Point>
+</Placemark>
+</kml>
+
