@@ -1,0 +1,11 @@
+<NetworkLink>
+  <name>Continents tour</name>
+  <description>Enable the check to start the tour</description>
+  <visibility>0</visibility>
+  <flyToView>1</flyToView>
+  <Link>
+    <href>http://localhost/cgi-bin/continents-local.py</href>
+    <refreshMode>onInterval</refreshMode>   
+    <refreshInterval>6</refreshInterval> 
+  </Link>
+</NetworkLink>
