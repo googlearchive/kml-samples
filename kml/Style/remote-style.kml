@@ -7,21 +7,21 @@ http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml
 -->  
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-  <Folder id="non-radio">
+  <Folder id="garbage-styleurl">
     <name>not a radio folder</name>
     <styleUrl>complete garbage</styleUrl>
     <Placemark><name>a</name></Placemark>
     <Placemark><name>b</name></Placemark>
   </Folder>
 
-  <Folder id="non-radio">
+  <Folder id="dangling-local">
     <name>not a radio folder</name>
     <styleUrl>#no-such-style-in-this-file</styleUrl>
     <Placemark><name>a</name></Placemark>
     <Placemark><name>b</name></Placemark>
   </Folder>
 
-  <Folder id="non-radio">
+  <Folder id="dangling-relative">
     <name>not a radio folder</name>
     <styleUrl>style.kml#no-such-style-in-that-file-either</styleUrl>
     <Placemark><name>a</name></Placemark>
