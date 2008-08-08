@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>Untessellated Path</name>
     <visibility>0</visibility>
-    <description><![CDATA[If the <tessellate> tag has a value of 0, the line follow a simple straight-line path from point to point]]></description>
+    <description>
+      <![CDATA[
+      If the <tessellate> tag has a value of 0, the line follow a
+      simple straight-line path from point to point
+      ]]>
+    </description>
     <LookAt>
       <longitude>-112.0822680013139</longitude>
       <latitude>36.09825589333556</latitude>

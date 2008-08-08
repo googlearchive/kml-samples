@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>inline StyleMap</name>
     <description>Example of inline StyleMap with inlined Styles</description>
@@ -12,7 +12,7 @@
             <Icon>
               <href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
             </Icon>
-            <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+            <hotSpot x="32" y="1" xunits="pixels" yunits="pixels" />
           </IconStyle>
         </Style>
       </Pair>
@@ -24,7 +24,7 @@
             <Icon>
               <href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
             </Icon>
-            <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+            <hotSpot x="32" y="1" xunits="pixels" yunits="pixels" />
           </IconStyle>
         </Style>
       </Pair>

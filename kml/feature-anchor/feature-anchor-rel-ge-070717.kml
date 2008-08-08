@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 Feature anchor as implemented in GE (July 17, 2007)
@@ -8,11 +8,10 @@ Feature anchor as implemented in GE (July 17, 2007)
 <a href="#my-office" rel="balloonFlyto">my office</a>
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Feature anchor w/ rel</name>
     <description>Feature anchor with action in rel attr</description>
-
     <Placemark id="my-office">
       <name>My office</name>
       <description>My office is in this building</description>
@@ -20,71 +19,65 @@ Feature anchor as implemented in GE (July 17, 2007)
         <coordinates>-122.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>No rel</name>
       <description>
         <![CDATA[ 
         Fly to a feature in this file such as
         <a href="#my-office">my office</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>rel=FlyTo</name>
       <description>
         <![CDATA[ 
         Fly to a feature in this file such as
         <a href="#my-office" rel="flyto">my office</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>rel=balloon</name>
       <description>
         <![CDATA[ 
         Pop the balloon of a feature in this file such as
         <a href="#my-office" rel="balloon">my office</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>rel=BalloonFlyTo</name>
       <description>
         <![CDATA[ 
         Fly to and pop the balloon of a feature in this file such as
         <a href="#my-office" rel="balloonFlyto">my office</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>Feature in other file.</name>
       <description>
         <![CDATA[ 
         Fly to a feature in another file:
         <a href="eat-at-google.kml#plymouth-rocks">Plymouth rocks</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
   </Document>
 </kml>

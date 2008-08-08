@@ -1,116 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
-<Document>
-  <name>Simple BalloonStyle examples</name>
-  <open>1</open>
-  <Style id="blankBalloon">
-    <!-- A feature referencing this style will show an empty description
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Simple BalloonStyle examples</name>
+    <open>1</open>
+    <Style id="blankBalloon">
+      <!-- A feature referencing this style will show an empty description
     balloon -->
-    <BalloonStyle>
-      <text><![CDATA[ ]]></text>
-    </BalloonStyle>
-   </Style>
-  <Style id="balloonWithText">
-    <!-- A feature referencing this style will show "here is some text" in its
+      <BalloonStyle>
+        <text>
+          <![CDATA[ ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="balloonWithText">
+      <!-- A feature referencing this style will show "here is some text" in its
     description balloon -->
-    <BalloonStyle>
-      <text>
-        <![CDATA[
-        here is some text
-        ]]>
-     </text>
-   </BalloonStyle>
-  </Style>
-  <Style id="balloonWithNameAndText">
-    <!-- A feature referencing this style will show the name of the feature,
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          here is some text
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="balloonWithNameAndText">
+      <!-- A feature referencing this style will show the name of the feature,
     two line breaks, and then the text -->
-    <BalloonStyle>
-      <text>
-        <![CDATA[
-        <b>$[name]</b><br/><br/>
-        The name appears in bold, and then this text.
-        ]]>
-      </text>
-    </BalloonStyle>
-  </Style>
-  <Style id="balloonWithNameDescriptionAndText">
-    <!-- A feature referencing this style will show the name of the feature,
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/><br/>
+          The name appears in bold, and then this text.
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="balloonWithNameDescriptionAndText">
+      <!-- A feature referencing this style will show the name of the feature,
     two line breaks, some text, then the contents of the feature's description
     element, and then the rest of the text -->
-    <BalloonStyle>
-      <text>
-        <![CDATA[
-        <b>$[name]</b><br/><br/>
-        The name appears in bold, and then this text, and now the feature's
-        description:
-        <br/><br/>
-        $[description]
-        <br/><br/>
-        There you have it.
-        ]]>
-      </text>
-    </BalloonStyle>
-  </Style>
-  <Style id="balloonWithNameDescriptionDrivingDirectionsAndText">
-    <!-- A feature referencing this style will show the name of the feature,
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/><br/>
+          The name appears in bold, and then this text, and now the feature's
+          description:
+          <br/><br/>
+          $[description]
+          <br/><br/>
+          There you have it.
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="balloonWithNameDescriptionDrivingDirectionsAndText">
+      <!-- A feature referencing this style will show the name of the feature,
     two line breaks, some text, then the contents of the feature's description
     element, and then the rest of the text with links for driving directions -->
-    <BalloonStyle>
-      <text>
-        <![CDATA[
-        <b>$[name]</b><br/><br/>
-        The name appears in bold, and then this text, and now the feature's
-        description:
-        <br/><br/>
-        $[description]
-        <br/><br/>
-        And now the driving directions:
-        <br/><br/>
-        $[geDirections]
-        ]]>
-      </text>
-    </BalloonStyle>
-  </Style>
-  <Placemark>
-    <name>blank balloon</name>
-    <description>this text will not appear in the balloon</description>
-    <styleUrl>#blankBalloon</styleUrl>
-    <Point>
-      <coordinates>-122.000,37.000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>balloon with text</name>
-    <description>this text will not appear in the balloon</description>
-    <styleUrl>#balloonWithText</styleUrl>
-    <Point>
-      <coordinates>-122.001,37.001</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>balloon with name and text</name>
-    <description>this text will not appear in the balloon</description>
-    <styleUrl>#balloonWithNameAndText</styleUrl>
-    <Point>
-      <coordinates>-122.002,37.002</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>balloon with name, description and text</name>
-    <description>here is the feature's description</description>
-    <styleUrl>#balloonWithNameDescriptionAndText</styleUrl>
-    <Point>
-      <coordinates>-122.003,37.003</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>balloon with name, description, driving directions and text</name>
-    <description>here is the feature's description</description>
-    <styleUrl>#balloonWithNameDescriptionDrivingDirectionsAndText</styleUrl>
-    <Point>
-      <coordinates>-122.004,37.004</coordinates>
-    </Point>
-  </Placemark>
-</Document>
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/><br/>
+          The name appears in bold, and then this text, and now the feature's
+          description:
+          <br/><br/>
+          $[description]
+          <br/><br/>
+          And now the driving directions:
+          <br/><br/>
+          $[geDirections]
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>blank balloon</name>
+      <description>this text will not appear in the balloon</description>
+      <styleUrl>#blankBalloon</styleUrl>
+      <Point>
+        <coordinates>-122.000,37.000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>balloon with text</name>
+      <description>this text will not appear in the balloon</description>
+      <styleUrl>#balloonWithText</styleUrl>
+      <Point>
+        <coordinates>-122.001,37.001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>balloon with name and text</name>
+      <description>this text will not appear in the balloon</description>
+      <styleUrl>#balloonWithNameAndText</styleUrl>
+      <Point>
+        <coordinates>-122.002,37.002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>balloon with name, description and text</name>
+      <description>here is the feature's description</description>
+      <styleUrl>#balloonWithNameDescriptionAndText</styleUrl>
+      <Point>
+        <coordinates>-122.003,37.003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>balloon with name, description, driving directions and text</name>
+      <description>here is the feature's description</description>
+      <styleUrl>#balloonWithNameDescriptionDrivingDirectionsAndText</styleUrl>
+      <Point>
+        <coordinates>-122.004,37.004</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
-

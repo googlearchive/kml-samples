@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 A client fetching this file with a NetworkLink with flyToView=1
 will fly to the LookAt in the NetworkLinkControl
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <NetworkLinkControl>
     <message>NetworkLinkControl has a LookAt</message>
     <LookAt>
@@ -15,7 +14,7 @@ will fly to the LookAt in the NetworkLinkControl
       <range>34.59480922516595</range>
       <tilt>65.3863434407203</tilt>
       <heading>-145.6454960761126</heading>
-      <altitudeMode>relativeToGround</altitudeMode>
+      <altitudeMode>clampToGround</altitudeMode>
     </LookAt>
   </NetworkLinkControl>
 </kml>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   
 A simple Document without an XML id.
@@ -7,18 +7,18 @@ in the listview. Instead, the client should "swallow" the parent Document and
 show only the three folders as direct children of the NetworkLink.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.1">
-<Document>
-  <name>Document with XML id</name>
-  <open>1</open>
-  <Folder>
-    <name>Folder 1</name>
-  </Folder>
-  <Folder>
-    <name>Folder 2</name>
-  </Folder>
-  <Folder>
-    <name>Folder 3</name>
-  </Folder>
-</Document>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Document with XML id</name>
+    <open>1</open>
+    <Folder>
+      <name>Folder 1</name>
+    </Folder>
+    <Folder>
+      <name>Folder 2</name>
+    </Folder>
+    <Folder>
+      <name>Folder 3</name>
+    </Folder>
+  </Document>
 </kml>

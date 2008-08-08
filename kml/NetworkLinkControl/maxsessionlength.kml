@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Presence of maxSessionLength tells the client to disable the NetworkLink
 after specified number of seconds -->
-<kml xmlns="http://earth.google.com/kml/2.2">
-<NetworkLinkControl>
-  <maxSessionLength>4</maxSessionLength>
-</NetworkLinkControl>
-<Placemark>
-  <name>Visible for 4 seconds</name>
-  <Point>
-    <coordinates>-122,37</coordinates>
-  </Point>
-</Placemark>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLinkControl>
+    <maxSessionLength>4</maxSessionLength>
+  </NetworkLinkControl>
+  <Placemark>
+    <name>Visible for 4 seconds</name>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+  </Placemark>
 </kml>
-

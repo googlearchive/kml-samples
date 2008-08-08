@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   
 PhotoOverlay with ImagePyramid.
@@ -6,7 +6,7 @@ PhotoOverlay with ImagePyramid.
 KML 2.2 is BETA and subject to change.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <PhotoOverlay id="space-needle">
     <name>Seattle Space Needle</name>
     <Snippet maxLines="1">
@@ -19,6 +19,7 @@ KML 2.2 is BETA and subject to change.
       <heading>166.582375925239</heading>
       <tilt>83.34022070550883</tilt>
       <roll>-7.63333123551244e-014</roll>
+      <altitudeMode>relativeToGround</altitudeMode>
     </Camera>
     <Style>
       <IconStyle>

@@ -1,20 +1,22 @@
-<kml>
-<Folder>
-  <Placemark>
-    <name>My name</name>
-    <description>My description for the balloon</description>
-    <Snippet/> <!-- Inhibit list view snippet -->
-    <Point>
-      <coordinates>1,2</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>My name</name>
-    <description>My description for the balloon</description>
-    <Snippet>Snippet</Snippet>
-    <Point>
-      <coordinates>1,2</coordinates>
-    </Point>
-  </Placemark>
-</Folder>
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <Placemark>
+      <name>My name</name>
+      <description>My description for the balloon</description>
+      <Snippet />
+      <!-- Inhibit list view snippet -->
+      <Point>
+        <coordinates>1,2</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>My name</name>
+      <description>My description for the balloon</description>
+      <Snippet>Snippet</Snippet>
+      <Point>
+        <coordinates>1,2</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
 </kml>

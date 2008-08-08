@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 A client fetching this file with a NetworkLink with flyToView=1
@@ -7,8 +7,7 @@ the LookAt of the Placemark).  Of course, a UI action on the
 Placemark icon or list view will honor the Placemark's LookAt.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
-
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="save-me">
     <name>LookAt - north</name>
     <LookAt>
@@ -18,7 +17,6 @@ Placemark icon or list view will honor the Placemark's LookAt.
       <tilt>67.41810701054506</tilt>
       <heading>-4.044710189444037e-05</heading>
     </LookAt>
-
     <Placemark>
       <name>LookAt - east</name>
       <LookAt>
@@ -29,6 +27,5 @@ Placemark icon or list view will honor the Placemark's LookAt.
         <heading>93.85988998279824</heading>
       </LookAt>
     </Placemark>
-
   </Document>
 </kml>

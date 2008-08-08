@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
   Demonstration of elements and behaviors common to all Features:
@@ -26,20 +26,19 @@
   content-free KML.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Life of a Feature</name>
     <open>1</open>
-    
     <Style id="shared-style">
       <BalloonStyle>
         <bgColor>ff82fff3</bgColor>
         <text>
           <![CDATA[
-            <b>$[name]</b><br/>
-            $[description]<br/>
-            Longitude=$[lon], Latitude=$[lat]<br/>
-            <i>$[id]</i>
+          <b>$[name]</b><br/>
+          $[description]<br/>
+          Longitude=$[lon], Latitude=$[lat]<br/>
+          <i>$[id]</i>
           ]]>
         </text>
       </BalloonStyle>
@@ -51,7 +50,6 @@
         </ItemIcon>
       </ListStyle>
     </Style>
-    
     <Placemark id="pm0">
       <name>Australia</name>
       <visibility>0</visibility>
@@ -74,7 +72,6 @@
         </Data>
       </ExtendedData>
     </Placemark>
-    
     <NetworkLink id="nl0">
       <name>Antarctica</name>
       <visibility>0</visibility>
@@ -96,7 +93,6 @@
         </Data>
       </ExtendedData>
     </NetworkLink>
-
     <Folder id="f0">
       <name>Europe</name>
       <visibility>0</visibility>
@@ -119,7 +115,6 @@
         </Data>
       </ExtendedData>
     </Folder>
-
     <Document id="d0">
       <name>Africa</name>
       <visibility>0</visibility>
@@ -142,7 +137,6 @@
         </Data>
       </ExtendedData>
     </Document>
-
     <GroundOverlay id="go0">
       <name>South America</name>
       <visibility>0</visibility>
@@ -165,7 +159,6 @@
         </Data>
       </ExtendedData>
     </GroundOverlay>
-
     <ScreenOverlay id="so0">
       <name>Asia</name>
       <visibility>0</visibility>
@@ -187,7 +180,6 @@
         </Data>
       </ExtendedData>
     </ScreenOverlay>
-
     <PhotoOverlay id="po0">
       <name>North America</name>
       <visibility>0</visibility>
@@ -210,6 +202,5 @@
         </Data>
       </ExtendedData>
     </PhotoOverlay>
-
   </Document>
 </kml>

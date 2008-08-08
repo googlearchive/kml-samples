@@ -1,103 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
-
-KML 2.2 is beta. YMMV.
-
-<Schemadata> is a power tool...
-
+<Metadata> is now deprecated. Please use <ExtendedData>
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
-<Document>
-  <name>Metadata-Schemadata</name>
-  <open>1</open>
-
-  <Schema name="YourSchemaName" id="YourSchemaId">
-
-    <SimpleField type="string" name="StringField">
-      <displayName><![CDATA[<b>Category A</b>]]></displayName>
-    </SimpleField>
-
-    <SimpleField type="double" name="DoubleField">
-      <displayName><![CDATA[<i>Category B</i>]]></displayName>
-    </SimpleField>
-
-  </Schema>
-
-  <Style id="globalBalloonStyle">
-    <BalloonStyle>
-      <text><![CDATA[
-        <h2>This title</h2>
-        and this part of the description both come from the global BalloonStyle.
-        <br/><br/>
-        The name for this feature is $[name]
-        <br/><br/>
-        The following is from Schema:<br/>
-        $[YourSchemaName/StringField:displayName] is
-        $[YourSchemaName/StringField]
-        <br/>
-        $[YourSchemaName/DoubleField:displayName] is
-        $[YourSchemaName/DoubleField]
-        <br/><br/>
-        The feature's description is:<br/>$[description]
-      ]]></text>
-    </BalloonStyle>
-  </Style>
-
-  <!-- If you don't supply a description, name-value pairs are automatically
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Metadata-Schemadata</name>
+    <open>1</open>
+    <Schema name="YourSchemaName" id="YourSchemaId">
+      <SimpleField type="string" name="StringField">
+        <displayName>
+          <![CDATA[<b>Category A</b>]]>
+        </displayName>
+      </SimpleField>
+      <SimpleField type="double" name="DoubleField">
+        <displayName>
+          <![CDATA[<i>Category B</i>]]>
+        </displayName>
+      </SimpleField>
+    </Schema>
+    <Style id="globalBalloonStyle">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <h2>This title</h2>
+          and this part of the description both come from the global BalloonStyle.
+          <br/><br/>
+          The name for this feature is $[name]
+          <br/><br/>
+          The following is from Schema:<br/>
+          $[YourSchemaName/StringField:displayName] is
+          $[YourSchemaName/StringField]
+          <br/>
+          $[YourSchemaName/DoubleField:displayName] is
+          $[YourSchemaName/DoubleField]
+          <br/><br/>
+          The feature's description is:<br/>$[description]
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <!-- If you don't supply a description, name-value pairs are automatically
   inserted into the balloon in a tabular format. -->
-  <Placemark>
-    <name>Schemadata, no description</name>
-    <Metadata>
-      <Schemadata schemaUrl="#YourSchemaId">
-        <SimpleData name="StringField">Pi in the sky</SimpleData>
-        <SimpleData name="DoubleField">3.14159</SimpleData>
-      </Schemadata>
-    </Metadata>
-    <Point>
-      <coordinates>-122.000,37.002</coordinates>
-    </Point>
-  </Placemark>
-
-  <!-- Supplying a description allows you to control the layout and
+    <Placemark>
+      <name>Schemadata, no description</name>
+      <Metadata>
+        <Schemadata schemaUrl="#YourSchemaId">
+          <SimpleData name="StringField">Pi in the sky</SimpleData>
+          <SimpleData name="DoubleField">3.14159</SimpleData>
+        </Schemadata>
+      </Metadata>
+      <Point>
+        <coordinates>-122.000,37.002</coordinates>
+      </Point>
+    </Placemark>
+    <!-- Supplying a description allows you to control the layout and
   appearance of the metadata. -->
-  <Placemark>
-    <name>Schemadata, description</name>
-    <description><![CDATA[
-      $[YourSchemaName/StringField:displayName] is $[YourSchemaName/StringField]
-      <br/>
-      $[YourSchemaName/DoubleField:displayName] is $[YourSchemaName/DoubleField]
-      <br/>
-    ]]></description>
-    <Metadata>
-      <Schemadata schemaUrl="#YourSchemaId">
-        <SimpleData name="StringField">The loneliest number</SimpleData>
-        <SimpleData name="DoubleField">1.00</SimpleData>
-      </Schemadata>
-    </Metadata>
-    <Point>
-      <coordinates>-122.000,37.001</coordinates>
-    </Point>
-  </Placemark>
-
-  <!-- BalloonStyle gives the most powerful control over mixing descriptive
+    <Placemark>
+      <name>Schemadata, description</name>
+      <description>
+        <![CDATA[
+        $[YourSchemaName/StringField:displayName] is $[YourSchemaName/StringField]
+        <br/>
+        $[YourSchemaName/DoubleField:displayName] is $[YourSchemaName/DoubleField]
+        <br/>
+        ]]>
+      </description>
+      <Metadata>
+        <Schemadata schemaUrl="#YourSchemaId">
+          <SimpleData name="StringField">The loneliest number</SimpleData>
+          <SimpleData name="DoubleField">1.00</SimpleData>
+        </Schemadata>
+      </Metadata>
+      <Point>
+        <coordinates>-122.000,37.001</coordinates>
+      </Point>
+    </Placemark>
+    <!-- BalloonStyle gives the most powerful control over mixing descriptive
   content specific to the feature and data brought in from Schema and
   Metadata. -->
-  <Placemark>
-    <name>Schemadata, BalloonStyle</name>
-    <description><![CDATA[
-      This description is specific to the feature.
-    ]]></description>
-    <Metadata>
-      <Schemadata schemaUrl="#YourSchemaId">
-        <SimpleData name="StringField">Meaning of life</SimpleData>
-        <SimpleData name="DoubleField">42.00</SimpleData>
-      </Schemadata>
-    </Metadata>
-    <styleUrl>#globalBalloonStyle</styleUrl>
-    <Point>
-      <coordinates>-122.000,37.000</coordinates>
-    </Point>
-  </Placemark>
-
-</Document>
+    <Placemark>
+      <name>Schemadata, BalloonStyle</name>
+      <description>
+        <![CDATA[
+        This description is specific to the feature.
+        ]]>
+      </description>
+      <Metadata>
+        <Schemadata schemaUrl="#YourSchemaId">
+          <SimpleData name="StringField">Meaning of life</SimpleData>
+          <SimpleData name="DoubleField">42.00</SimpleData>
+        </Schemadata>
+      </Metadata>
+      <styleUrl>#globalBalloonStyle</styleUrl>
+      <Point>
+        <coordinates>-122.000,37.000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>

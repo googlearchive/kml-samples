@@ -1,42 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
-<Document id="keepMe">
-  <!-- id prevents Google Earth from swallowing the top-level doc-->
-  <name>Update-Change example</name>
-  <open>1</open>
-  <description><![CDATA[
-    The Placemark has a name, snippet, description, visibility and a Point.
-    Flipping the visibility of the network links will Update-Change the data
-    for those elements. The position of the placemark is changed, but since
-    visibility is also changed, you shouldn't see it move.
-  ]]></description>
-  <Placemark id="targetPlacemark">
-    <name>original name</name>
-    <Snippet>original snippet</Snippet>
-    <description>original description</description>
-    <visibility>1</visibility>
-    <Point id="targetPlacemarkPoint">
-      <coordinates>-122.000,37.000</coordinates>
-    </Point>
-  </Placemark>
-  <Folder>
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="keepMe">
+    <!-- id prevents Google Earth from swallowing the top-level doc-->
+    <name>Update-Change example</name>
     <open>1</open>
-    <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml#radioFolder</styleUrl>
-    <NetworkLink>
-      <name>change-target</name>
-      <visibility>0</visibility>
-      <Link>
-        <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/change-target.kml</href>
-      </Link>
-    </NetworkLink>
-    <NetworkLink>
-      <name>revert-target</name>
-      <visibility>0</visibility>
-      <Link>
-        <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/revert-target.kml</href>
-      </Link>
-    </NetworkLink>
-  </Folder>
-</Document>
+    <description>
+      <![CDATA[
+      The Placemark has a name, snippet, description, visibility and a Point.
+      Flipping the visibility of the network links will Update-Change the data
+      for those elements. The position of the placemark is changed, but since
+      visibility is also changed, you shouldn't see it move.
+      ]]>
+    </description>
+    <Placemark id="targetPlacemark">
+      <name>original name</name>
+      <Snippet>original snippet</Snippet>
+      <description>original description</description>
+      <visibility>1</visibility>
+      <Point id="targetPlacemarkPoint">
+        <coordinates>-122.000,37.000</coordinates>
+      </Point>
+    </Placemark>
+    <Folder>
+      <open>1</open>
+      <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml#radioFolder</styleUrl>
+      <NetworkLink>
+        <name>change-target</name>
+        <visibility>0</visibility>
+        <Link>
+          <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/change-target.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>revert-target</name>
+        <visibility>0</visibility>
+        <Link>
+          <href>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/revert-target.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+  </Document>
 </kml>
-

@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- this will only work on implementations that support full HTML -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>This place is a total zoo!</name>
-    <description><![CDATA[
+    <description>
+      <![CDATA[
       <iframe src="http://www.zoo.nsw.gov.au/">
         Taronga Zoo Website
       </iframe>
-    ]]></description>
+      ]]>
+</description>
     <Point>
       <coordinates>151.24,-33.843</coordinates>
     </Point>

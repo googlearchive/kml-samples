@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 Initial feature anchor with action in URL separated with ampersand
@@ -9,11 +9,10 @@ Initial feature anchor with action in URL separated with ampersand
 <a href="#aia2&amp;balloon">
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>feature anchor semi</name>
     <description>Feature anchor using &amp; to delimit action.</description>
-
     <Placemark id="my-office">
       <name>My office</name>
       <description>My office is in this building</description>
@@ -21,78 +20,71 @@ Initial feature anchor with action in URL separated with ampersand
         <coordinates>-122.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>No explicit action</name>
       <description>
         <![CDATA[ 
         <a href="#my-office">fly to my office</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>&amp;flyto</name>
       <description>
         <![CDATA[ 
         <a href="#my-office&amp;flyto">fly to my office</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>&amp;balloon</name>
       <description>
         <![CDATA[ 
         <a href="#my-office&amp;balloon">pop my office balloon</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>&amp;balloonFlyto</name>
       <description>
         <![CDATA[ 
         <a href="#my-office&amp;balloonFlyto">fly to my office and pop balloon</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>Other file</name>
       <description>
         <![CDATA[ 
         <a href="eat-at-google.kml#pintxo">fly to Pintxo</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <name>Other file</name>
       <description>
         <![CDATA[ 
         <a href="eat-at-google.kml#plymouth-rocks">fly to Plymouth</a>
-      ]]>
+        ]]>
       </description>
       <Point>
         <coordinates>-123.0821604290386,37.42041505714916</coordinates>
       </Point>
     </Placemark>
-
   </Document>
 </kml>

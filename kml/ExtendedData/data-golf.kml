@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
   Use Data to add untyped name-value pairs to any Feature (such as Placemark)
   for use in a balloon template.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Data+BalloonStyle</name>
     <open>1</open>
-
     <Style id="name-value">
       <BalloonStyle>
         <text>
@@ -18,11 +17,10 @@
           This is hole $[holeNumber]
           The par for this hole is $[holePar]
           The yardage is $[holeYardage]
-            ]]>
+          ]]>
         </text>
       </BalloonStyle>
     </Style>
-
     <Style id="displayName-value">
       <BalloonStyle>
         <text>
@@ -31,15 +29,13 @@
           $[holeNumber/displayName] $[holeNumber]<br/>
           $[holePar/displayName] $[holePar]<br/>
           $[holeYardage/displayName] $[holeYardage]
-            ]]>
+          ]]>
         </text>
       </BalloonStyle>
     </Style>
-
     <!-- This placemark uses the text defined in the BalloonStyle to describe
          the data
     -->
-    
     <Placemark>
       <name>Club house</name>
       <styleUrl>#name-value</styleUrl>
@@ -55,35 +51,38 @@
         </Data>
       </ExtendedData>
     </Placemark>
-
     <!-- This placemark's BalloonStyle uses the value of <displayName> to
          describe the data
     -->
-    
     <Placemark>
       <name>By the lake</name>
       <styleUrl>#displayName-value</styleUrl>
       <ExtendedData>
         <Data name="holeNumber">
-          <displayName><![CDATA[
+          <displayName>
+            <![CDATA[
             <b>This is hole </b>
-          ]]></displayName>
+            ]]>
+          </displayName>
           <value>5</value>
         </Data>
         <Data name="holePar">
-          <displayName><![CDATA[
+          <displayName>
+            <![CDATA[
             <i>The par for this hole is </i>
-          ]]></displayName>
+            ]]>
+          </displayName>
           <value>5</value>
         </Data>
         <Data name="holeYardage">
-          <displayName><![CDATA[
+          <displayName>
+            <![CDATA[
             <b><i>The yardage is </i></b>
-          ]]></displayName>
+            ]]>
+          </displayName>
           <value>523</value>
         </Data>
       </ExtendedData>
     </Placemark>
-    
   </Document>
 </kml>

@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
-<Document id="original-document">
-  <Placemark id="original-placemark-0">
-    <name>Original Placemark 0</name>
-  </Placemark>
-  <Placemark id="original-placemark-1">
-    <name>Original Placemark 1</name>
-  </Placemark>
-  <Folder id="original-folder-1">
-    <name>Original Folder 1</name>
-    <GroundOverlay>
-      <Icon>
-        <href/>
-      </Icon>
-    </GroundOverlay>
-    <ScreenOverlay>
-      <Icon>
-        <href/>
-      </Icon>
-    </ScreenOverlay>
-    <NetworkLink>
-      <Link>
-        <href/>
-      </Link>
-    </NetworkLink>
-  </Folder>
-  <Folder id="original-folder-2"/>
-  <Placemark id="original-placemark-2">
-    <name>Original Placemark 2</name>
-  </Placemark>
-  <Placemark id="original-placemark-3">
-    <name>Original Placemark 3</name>
-  </Placemark>
-  <Folder id="original-folder-3">
-    <name>Original Folder 3</name>
-  </Folder>
-</Document>
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="original-document">
+    <Placemark id="original-placemark-0">
+      <name>Original Placemark 0</name>
+    </Placemark>
+    <Placemark id="original-placemark-1">
+      <name>Original Placemark 1</name>
+    </Placemark>
+    <Folder id="original-folder-1">
+      <name>Original Folder 1</name>
+      <GroundOverlay>
+        <Icon>
+          <href />
+        </Icon>
+      </GroundOverlay>
+      <ScreenOverlay>
+        <Icon>
+          <href />
+        </Icon>
+      </ScreenOverlay>
+      <NetworkLink>
+        <Link>
+          <href />
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder id="original-folder-2" />
+    <Placemark id="original-placemark-2">
+      <name>Original Placemark 2</name>
+    </Placemark>
+    <Placemark id="original-placemark-3">
+      <name>Original Placemark 3</name>
+    </Placemark>
+    <Folder id="original-folder-3">
+      <name>Original Folder 3</name>
+    </Folder>
+  </Document>
 </kml>

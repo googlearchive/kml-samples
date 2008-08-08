@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Folder>
     <name>Building and Wall</name>
     <description>Building and Wall share textures</description>
@@ -16,7 +16,6 @@ Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
       <tilt>54.9531454664821</tilt>
       <heading>-82.34248730008207</heading>
     </LookAt>
-
     <Placemark id="building">
       <name>Building</name>
       <LookAt>
@@ -47,7 +46,6 @@ Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
         </ResourceMap>
       </Model>
     </Placemark>
-
     <Placemark id="wall">
       <name>Wall</name>
       <LookAt>
@@ -78,6 +76,5 @@ Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
         </ResourceMap>
       </Model>
     </Placemark>
-
   </Folder>
 </kml>

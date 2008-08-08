@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- 
 KML 2.2 introduced ResourceMap (textures.txt is deprecated)
   
@@ -8,7 +8,7 @@ each of which is stored in textures/foo.jpg in the file system.
 The .dae is in the geometry directory and targetHref references
 are relative to the .dae (not this .kml) hence the ../textures/foo.jpg.
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>SketchUp Model of Macky Auditorium</name>
     <description>University of Colorado, Boulder; model created by Noël Nemcik.</description>
@@ -122,7 +122,6 @@ are relative to the .dae (not this .kml) hence the ../textures/foo.jpg.
           <sourceHref>../files/roofnoCulling.jpg</sourceHref>
         </Alias>
       </ResourceMap>
-
     </Model>
   </Placemark>
 </kml>

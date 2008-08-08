@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Fade between Polygons</name>
     <Placemark>
       <name>Blue Polygon with simple Region</name>
-
       <Style>
         <LineStyle>
           <color>00000000</color>
@@ -13,7 +12,6 @@
           <color>7fff8080</color>
         </PolyStyle>
       </Style>
-
       <Region>
         <Lod>
           <minLodPixels>50</minLodPixels>
@@ -30,11 +28,10 @@
           <west>138.56</west>
         </LatLonAltBox>
       </Region>
-
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates> 
+            <coordinates>
               138.64,-34.93 138.64,-34.94 138.63,-34.94 138.62,-34.94
               138.62,-34.95 138.62,-34.96 138.63,-34.96 138.62,-34.96
               138.61,-34.97 138.60,-34.97 138.59,-34.97 138.58,-34.97
@@ -55,12 +52,9 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-
     </Placemark>
-
     <Placemark>
       <name>Red Polygon with simple Region</name>
-
       <Style>
         <LineStyle>
           <color>00000000</color>
@@ -69,7 +63,6 @@
           <color>7f8080ff</color>
         </PolyStyle>
       </Style>
-
       <Region>
         <Lod>
           <!-- min fade "starts" as max fade "ends" above -->
@@ -83,11 +76,10 @@
           <west>138.56</west>
         </LatLonAltBox>
       </Region>
-
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates> 
+            <coordinates>
               138.64,-34.93 138.64,-34.94 138.63,-34.94 138.62,-34.94
               138.62,-34.95 138.62,-34.96 138.63,-34.96 138.62,-34.96
               138.61,-34.97 138.60,-34.97 138.59,-34.97 138.58,-34.97
@@ -108,7 +100,6 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-
     </Placemark>
   </Document>
 </kml>

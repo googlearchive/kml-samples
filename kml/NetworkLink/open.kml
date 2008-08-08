@@ -1,25 +1,22 @@
-<kml xmlns="http://earth.google.com/kml/2.2">
-<Document>
-  <name>Open Document</name>
-  <open>1</open>
-
-<NetworkLink>
-  <name>Open NetworkLink</name>
-  <open>1</open>
-  <description>NetworkLink open to fetched content</description>
-  <Link>
-    <href>placemark.kml</href>
-  </Link>
-</NetworkLink>
-
-<NetworkLink>
-  <name>non-Open NetworkLink</name>
-  <open>0</open>
-  <description>NetworkLink not open</description>
-  <Link>
-    <href>placemark.kml</href>
-  </Link>
-</NetworkLink>
-
-</Document>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Open Document</name>
+    <open>1</open>
+    <NetworkLink>
+      <name>Open NetworkLink</name>
+      <open>1</open>
+      <description>NetworkLink open to fetched content</description>
+      <Link>
+        <href>placemark.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>non-Open NetworkLink</name>
+      <open>0</open>
+      <description>NetworkLink not open</description>
+      <Link>
+        <href>placemark.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
 </kml>

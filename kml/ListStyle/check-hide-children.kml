@@ -1,21 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Style id="chc">
       <ListStyle>
         <listItemType>checkHideChildren</listItemType>
       </ListStyle>
     </Style>
+    
     <Folder>
       <name>Children are hidden</name>
       <styleUrl>#chc</styleUrl>
-      <Placemark/>
-      <Placemark/>
+      <Placemark>
+        <name>A</name>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+      </Placemark>
     </Folder>
+    
     <Folder>
       <name>Children are not hidden</name>
-      <Placemark/>
-      <Placemark/>
+      <Placemark>
+        <name>C</name>
+      </Placemark>
+      <Placemark>
+        <name>D</name>
+      </Placemark>
     </Folder>
   </Document>
 </kml>

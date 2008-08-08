@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 This file illustrates some interesting properties of minLodPixels. Load it via
@@ -7,213 +7,202 @@ screen sizes of regions which are much larger than the size of your physical
 screen (you don't have an 8192 px monitor, do you?).
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.1">
-<Document>
-  <name>minLodPixels</name>
-  <open>1</open>
-  <Folder>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
     <name>minLodPixels</name>
     <open>1</open>
-
-    <ScreenOverlay>
-      <name>32</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>32</minLodPixels>
-          <maxLodPixels>64</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/32.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>64</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>64</minLodPixels>
-          <maxLodPixels>128</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/64.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>128</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>128</minLodPixels>
-          <maxLodPixels>512</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/128.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>512</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>512</minLodPixels>
-          <maxLodPixels>1024</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/512.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>1024</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>1024</minLodPixels>
-          <maxLodPixels>2048</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/1024.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>2048</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>2048</minLodPixels>
-          <maxLodPixels>4096</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/2048.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>4096</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>4096</minLodPixels>
-          <maxLodPixels>8192</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/4096.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-    <ScreenOverlay>
-      <name>8192</name>
-      <Region>
-        <LatLonAltBox>
-          <north>10.0</north>
-          <south>-10.0</south>
-          <east>10.0</east>
-          <west>-10.0</west>
-        </LatLonAltBox>
-        <Lod>
-          <minLodPixels>8192</minLodPixels>
-          <maxLodPixels>-1</maxLodPixels>
-        </Lod>
-      </Region>
-      <Icon>
-        <href>minlodpixels-img/8192.png</href>
-      </Icon>
-      <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-      <size x="0" y="1" xunits="fraction" yunits="fraction"/>
-    </ScreenOverlay>
-
-  </Folder>
-
-  <Placemark>
-    <name>BBOX</name>
-    <LineString>
-      <tessellate>1</tessellate>
-      <coordinates>
-        -10.0,-10.0
-        10.0,-10.0
-        10.0,10.0
-        -10.0,10.0
-        -10.0,-10.0
-      </coordinates>
-    </LineString>
-  </Placemark>
-
-</Document>
+    <Folder>
+      <name>minLodPixels</name>
+      <open>1</open>
+      <ScreenOverlay>
+        <name>32</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>32</minLodPixels>
+            <maxLodPixels>64</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/32.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>64</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>64</minLodPixels>
+            <maxLodPixels>128</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/64.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>128</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>128</minLodPixels>
+            <maxLodPixels>512</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/128.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>512</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>512</minLodPixels>
+            <maxLodPixels>1024</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/512.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>1024</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>1024</minLodPixels>
+            <maxLodPixels>2048</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/1024.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>2048</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>2048</minLodPixels>
+            <maxLodPixels>4096</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/2048.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>4096</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>4096</minLodPixels>
+            <maxLodPixels>8192</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/4096.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+      <ScreenOverlay>
+        <name>8192</name>
+        <Region>
+          <LatLonAltBox>
+            <north>10.0</north>
+            <south>-10.0</south>
+            <east>10.0</east>
+            <west>-10.0</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>8192</minLodPixels>
+            <maxLodPixels>-1</maxLodPixels>
+          </Lod>
+        </Region>
+        <Icon>
+          <href>minlodpixels-img/8192.png</href>
+        </Icon>
+        <overlayXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <screenXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <rotationXY x="0" y="0" xunits="fraction" yunits="fraction" />
+        <size x="0" y="1" xunits="fraction" yunits="fraction" />
+      </ScreenOverlay>
+    </Folder>
+    <Placemark>
+      <name>BBOX</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -10.0,-10.0
+          10.0,-10.0
+          10.0,10.0
+          -10.0,10.0
+          -10.0,-10.0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
 </kml>

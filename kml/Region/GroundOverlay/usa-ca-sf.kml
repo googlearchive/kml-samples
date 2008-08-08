@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 1) GroundOverlay+Region
 2) All Regions same Lod, but different area (LatLonAltBox)
 3) Fade extents on min and max end of visibility range
 -->
-<kml xmlns="http://earth.google.com/kml/2.1">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Folder>
     <name>usa-ca-sf</name>
     <open>1</open>
-    
     <GroundOverlay>
       <name>USA</name>
       <Region>
@@ -35,7 +34,6 @@
         <west>-125.4474990891444</west>
       </LatLonBox>
     </GroundOverlay>
-    
     <GroundOverlay>
       <name>California</name>
       <Region>
@@ -62,7 +60,6 @@
         <west>-125.0257787671715</west>
       </LatLonBox>
     </GroundOverlay>
-    
     <GroundOverlay>
       <name>San Francisco</name>
       <Region>
@@ -89,6 +86,5 @@
         <west>-122.5276024676772</west>
       </LatLonBox>
     </GroundOverlay>
-    
   </Folder>
 </kml>

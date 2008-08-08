@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Eat at Google</name>
-
     <Placemark id="pintxo">
       <name>Pintxo</name>
       <description>Pintxo is very good</description>
@@ -17,7 +16,6 @@
         <coordinates>-122.080997310238,37.41924758345683</coordinates>
       </Point>
     </Placemark>
-
     <Placemark id="plymouth-rocks">
       <name>Plymouth rocks</name>
       <description>Plymouth does indeed rock</description>
@@ -32,6 +30,5 @@
         <coordinates>-122.0817810888978,37.41741461397622</coordinates>
       </Point>
     </Placemark>
-
   </Document>
 </kml>

@@ -1,84 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
-
-KML 2.2 is beta. YMMV.
-
-<Data> is the choice for the everyman...
-
+<Metadata> is now deprecated. Please use <ExtendedData>
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
-<Document>
-  <name>Metadata-Data</name>
-  <open>1</open>
-
-  <Style id="globalBalloonStyle">
-    <BalloonStyle>
-      <text><![CDATA[
-        <h2>This title</h2>
-        and this part of the description both come from the global BalloonStyle.
-        <br/><br/>
-        The name for this feature is $[name]
-        <br/><br/>
-        The following is from Data:<br/>
-        $[YourCoolestData:displayName] is $[YourCoolestData]
-        <br/><br/>
-        The feature's description is:<br/>$[description]
-      ]]></text>
-    </BalloonStyle>
-  </Style>
-
-  <!-- If you don't supply a description, name-value pairs are automatically
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Metadata-Data</name>
+    <open>1</open>
+    <Style id="globalBalloonStyle">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <h2>This title</h2>
+          and this part of the description both come from the global BalloonStyle.
+          <br/><br/>
+          The name for this feature is $[name]
+          <br/><br/>
+          The following is from Data:<br/>
+          $[YourCoolestData:displayName] is $[YourCoolestData]
+          <br/><br/>
+          The feature's description is:<br/>$[description]
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <!-- If you don't supply a description, name-value pairs are automatically
   inserted into the balloon in a tabular format. -->
-  <Placemark>
-    <name>Data, no description</name>
-    <Metadata>
-      <Data name="yourCoolData">
-        <displayName>The answer to your question is</displayName>
-        <value>42</value>
-      </Data>
-    </Metadata>
-    <Point>
-      <coordinates>-122.001,37.002</coordinates>
-    </Point>
-  </Placemark>
-
-  <!-- Supplying a description allows you to control the layout and
+    <Placemark>
+      <name>Data, no description</name>
+      <Metadata>
+        <Data name="yourCoolData">
+          <displayName>The answer to your question is</displayName>
+          <value>42</value>
+        </Data>
+      </Metadata>
+      <Point>
+        <coordinates>-122.001,37.002</coordinates>
+      </Point>
+    </Placemark>
+    <!-- Supplying a description allows you to control the layout and
   appearance of the metadata. -->
-  <Placemark>
-    <name>Data, description</name>
-    <description><![CDATA[
-      $[YourCoolerData:displayName] is $[YourCoolerData]
-      <br/>
-    ]]></description>
-    <Metadata>
-      <Data name="YourCoolerData">
-        <displayName>The answer to your question is still</displayName>
-        <value>42</value>
-      </Data>
-    </Metadata>
-    <Point>
-      <coordinates>-122.001,37.001</coordinates>
-    </Point>
-  </Placemark>
-
-  <!-- BalloonStyle gives the most powerful control over mixing descriptive
+    <Placemark>
+      <name>Data, description</name>
+      <description>
+        <![CDATA[
+        $[YourCoolerData:displayName] is $[YourCoolerData]
+        <br/>
+        ]]>
+      </description>
+      <Metadata>
+        <Data name="YourCoolerData">
+          <displayName>The answer to your question is still</displayName>
+          <value>42</value>
+        </Data>
+      </Metadata>
+      <Point>
+        <coordinates>-122.001,37.001</coordinates>
+      </Point>
+    </Placemark>
+    <!-- BalloonStyle gives the most powerful control over mixing descriptive
   content specific to the feature and balloon templating. -->
-  <Placemark>
-    <name>Data, BalloonStyle</name>
-    <description><![CDATA[
-      This description is specific to the feature.
-    ]]></description>
-    <Metadata>
-      <Data name="YourCoolestData">
-        <displayName>The answer to your question will always be</displayName>
-        <value>42</value>
-      </Data>
-    </Metadata>
-    <styleUrl>#globalBalloonStyle</styleUrl>
-    <Point>
-      <coordinates>-122.001,37.000</coordinates>
-    </Point>
-  </Placemark>
-
-</Document>
+    <Placemark>
+      <name>Data, BalloonStyle</name>
+      <description>
+        <![CDATA[
+        This description is specific to the feature.
+        ]]>
+      </description>
+      <Metadata>
+        <Data name="YourCoolestData">
+          <displayName>The answer to your question will always be</displayName>
+          <value>42</value>
+        </Data>
+      </Metadata>
+      <styleUrl>#globalBalloonStyle</styleUrl>
+      <Point>
+        <coordinates>-122.001,37.000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>

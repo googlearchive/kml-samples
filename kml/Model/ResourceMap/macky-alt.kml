@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- 
 Same geometry as macky-normal.kml but with
 ResourcMap items mapping to image files in
 the photos directory.
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>SketchUp Model of Macky Auditorium</name>
     <description>University of Colorado, Boulder; model created by Noël Nemcik.</description>
@@ -118,7 +118,6 @@ the photos directory.
           <sourceHref>../files/roofnoCulling.jpg</sourceHref>
         </Alias>
       </ResourceMap>
-
     </Model>
   </Placemark>
 </kml>

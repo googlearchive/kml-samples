@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Continent screen labels</name>
     <Folder>
@@ -22,7 +22,7 @@
         <Icon>
           <href>pngs/europe.png</href>
         </Icon>
-        <screenXY x=".7" y=".7" xunits="fraction" yunits="fraction"/>
+        <screenXY x=".7" y=".7" xunits="fraction" yunits="fraction" />
       </ScreenOverlay>
       <ScreenOverlay>
         <name>africa</name>
@@ -41,7 +41,7 @@
         <Icon>
           <href>pngs/africa.png</href>
         </Icon>
-        <screenXY x=".7" y=".3" xunits="fraction" yunits="fraction"/>
+        <screenXY x=".7" y=".3" xunits="fraction" yunits="fraction" />
       </ScreenOverlay>
       <ScreenOverlay>
         <name>north-america</name>
@@ -60,7 +60,7 @@
         <Icon>
           <href>pngs/north-america.png</href>
         </Icon>
-        <screenXY x=".2" y=".7" xunits="fraction" yunits="fraction"/>
+        <screenXY x=".2" y=".7" xunits="fraction" yunits="fraction" />
       </ScreenOverlay>
       <ScreenOverlay>
         <name>south-america</name>
@@ -81,7 +81,7 @@
         <Icon>
           <href>pngs/south-america.png</href>
         </Icon>
-        <screenXY x=".2" y=".3" xunits="fraction" yunits="fraction"/>
+        <screenXY x=".2" y=".3" xunits="fraction" yunits="fraction" />
       </ScreenOverlay>
     </Folder>
     <Folder>
@@ -157,7 +157,8 @@
             -40.000000,60.000000
             -40.000000,10.000000
             -130.000000,10.000000
-            -130.000000,60.000000</coordinates>
+            -130.000000,60.000000
+          </coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -180,7 +181,7 @@
             -70.000000,10.000000
             -30.000000,10.000000
             -30.000000,-50.000000
-            -70.000000,-50.000000
+            -70.000000,-50.00000
             -70.000000,10.000000
           </coordinates>
         </LineString>

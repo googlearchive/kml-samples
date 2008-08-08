@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- 
   
   How to make a polygon "selectable"?
@@ -8,9 +8,8 @@
   and the Polygon and its border change color/transparency.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.1">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-
     <Style id="normal">
       <LabelStyle>
         <scale>0</scale>
@@ -24,7 +23,6 @@
         <color>7fff8080</color>
       </PolyStyle>
     </Style>
-
     <Style id="highlight">
       <LineStyle>
         <color>ff3f00ff</color>
@@ -35,7 +33,6 @@
         <color>7f808080</color>
       </PolyStyle>
     </Style>
-
     <StyleMap id="rollover">
       <Pair>
         <key>normal</key>
@@ -46,7 +43,6 @@
         <styleUrl>#highlight</styleUrl>
       </Pair>
     </StyleMap>
-
     <Placemark>
       <styleUrl>#rollover</styleUrl>
       <MultiGeometry>
@@ -56,7 +52,7 @@
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
-              <coordinates> 
+              <coordinates>
                 138.64,-34.93 138.64,-34.94 138.63,-34.94 138.62,-34.94
                 138.62,-34.95 138.62,-34.96 138.63,-34.96 138.62,-34.96
                 138.61,-34.97 138.60,-34.97 138.59,-34.97 138.58,-34.97
@@ -79,6 +75,5 @@
         </Polygon>
       </MultiGeometry>
     </Placemark>
-
   </Document>
 </kml>

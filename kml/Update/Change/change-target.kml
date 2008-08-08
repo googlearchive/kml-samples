@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
-<NetworkLinkControl>
-  <Update>
-    <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/target.kml</targetHref>
-    <Change>
-      <Placemark targetId="targetPlacemark">
-        <name>changed name</name>
-        <Snippet>changed snippet</Snippet>
-        <description>changed description</description>
-        <visibility>0</visibility>
-        <Point>
-          <coordinates>-122.001,37.001</coordinates>
-        </Point>
-      </Placemark>
-    </Change>
-  </Update>
-</NetworkLinkControl>
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLinkControl>
+    <Update>
+      <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/target.kml</targetHref>
+      <Change>
+        <Placemark targetId="targetPlacemark">
+          <name>changed name</name>
+          <Snippet>changed snippet</Snippet>
+          <description>changed description</description>
+          <visibility>0</visibility>
+          <Point>
+            <coordinates>-122.001,37.001</coordinates>
+          </Point>
+        </Placemark>
+      </Change>
+    </Update>
+  </NetworkLinkControl>
 </kml>
-

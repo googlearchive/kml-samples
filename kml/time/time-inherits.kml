@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- TimeSpan cascades down the Folder hiearchy -->
-<kml xmlns="http://earth.google.com/kml/2.1">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Folder>
     <Folder>
       <name>Blue Marble - Oct</name>
@@ -60,7 +60,6 @@
         </LatLonBox>
       </GroundOverlay>
     </Folder>
-
     <Folder>
       <name>Blue Marble - Dec</name>
       <TimeSpan>

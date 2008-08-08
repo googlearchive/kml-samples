@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
-<NetworkLink>
-  <name>Check to fetch</name>
-  <!-- Not "visible" to allow user check to trigger fetch -->
-  <visibility>0</visibility>
-  <Snippet maxLines="4">
-    Line one
-    Line two
-    Line three
-    Line four
-    Line five
-  </Snippet>
-  <Link>
-    <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLinkControl/link-snippet.kml</href>
-  </Link>
-</NetworkLink>
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLink>
+    <name>Check to fetch</name>
+    <!-- Not "visible" to allow user check to trigger fetch -->
+    <visibility>0</visibility>
+    <Snippet maxLines="4">Line one Line two Line three Line four Line five</Snippet>
+    <Link>
+      <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLinkControl/link-snippet.kml</href>
+    </Link>
+  </NetworkLink>
 </kml>

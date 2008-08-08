@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 
 KML 2.2 is beta. YMMV.
@@ -7,92 +7,97 @@ KML 2.2 is beta. YMMV.
 Click on the icon for each to obhserve behaviour.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.2">
-<Document>
-  <name>displayMode</name>
-  <open>1</open>
-  <Style id="displayModeDefault">
-    <BalloonStyle>
-      <text><![CDATA[
-        <b>$[name]</b><br/><br/>$[description]<br/>
-        (displayMode = default)
-      ]]></text>
-    <displayMode>default</displayMode>
-    </BalloonStyle>
-  </Style>
-  <Style id="displayModeHide">
-    <BalloonStyle>
-      <text><![CDATA[
-        <b>$[name]</b><br/><br/>$[description]<br/>
-        (displayMode = hide)
-      ]]></text>
-    <displayMode>hide</displayMode>
-    </BalloonStyle>
-  </Style>
-  <Style id="displayModeEmpty">
-    <BalloonStyle>
-      <text><![CDATA[
-        <b>$[name]</b><br/><br/>$[description]<br/>
-        (displayMode is empty)
-      ]]></text>
-    <displayMode>default</displayMode>
-    </BalloonStyle>
-  </Style>
-  <!-- no description supplied -->
-  <Folder>
-    <name>no description</name>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>displayMode</name>
     <open>1</open>
-    <Placemark>
-      <name>no-desc default</name>
-      <styleUrl>#displayModeDefault</styleUrl>
-      <Point>
-        <coordinates>-122.000,37.000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>no desc hide</name>
-      <styleUrl>#displayModeHide</styleUrl>
-      <Point>
-        <coordinates>-122.000,37.001</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>no desc empty</name>
-      <styleUrl>#displayModeEmpty</styleUrl>
-      <Point>
-        <coordinates>-122.000,37.002</coordinates>
-      </Point>
-    </Placemark>
-  </Folder>
-  <!-- description supplied -->
-  <Folder>
-    <name>description</name>
-    <open>1</open>
-    <Placemark>
-      <name>desc default</name>
-      <description>is default</description>
-      <styleUrl>#displayModeDefault</styleUrl>
-      <Point>
-        <coordinates>-122.001,37.000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>desc hide</name>
-      <description>is hide</description>
-      <styleUrl>#displayModeHide</styleUrl>
-      <Point>
-        <coordinates>-122.001,37.001</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>desc empty</name>
-      <description>is empty</description>
-      <styleUrl>#displayModeEmpty</styleUrl>
-      <Point>
-        <coordinates>-122.001,37.002</coordinates>
-      </Point>
-    </Placemark>
-  </Folder>
-
-</Document>
+    <Style id="displayModeDefault">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/><br/>$[description]<br/>
+          (displayMode = default)
+          ]]>
+          </text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="displayModeHide">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/><br/>$[description]<br/>
+          (displayMode = hide)
+          ]]>
+        </text>
+        <displayMode>hide</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="displayModeEmpty">
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/><br/>$[description]<br/>
+          (displayMode is empty)
+          ]]>
+        </text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <!-- no description supplied -->
+    <Folder>
+      <name>no description</name>
+      <open>1</open>
+      <Placemark>
+        <name>no-desc default</name>
+        <styleUrl>#displayModeDefault</styleUrl>
+        <Point>
+          <coordinates>-122.000,37.000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no desc hide</name>
+        <styleUrl>#displayModeHide</styleUrl>
+        <Point>
+          <coordinates>-122.000,37.001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no desc empty</name>
+        <styleUrl>#displayModeEmpty</styleUrl>
+        <Point>
+          <coordinates>-122.000,37.002</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <!-- description supplied -->
+    <Folder>
+      <name>description</name>
+      <open>1</open>
+      <Placemark>
+        <name>desc default</name>
+        <description>is default</description>
+        <styleUrl>#displayModeDefault</styleUrl>
+        <Point>
+          <coordinates>-122.001,37.000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>desc hide</name>
+        <description>is hide</description>
+        <styleUrl>#displayModeHide</styleUrl>
+        <Point>
+          <coordinates>-122.001,37.001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>desc empty</name>
+        <description>is empty</description>
+        <styleUrl>#displayModeEmpty</styleUrl>
+        <Point>
+          <coordinates>-122.001,37.002</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
 </kml>

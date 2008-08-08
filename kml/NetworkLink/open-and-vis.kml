@@ -1,44 +1,38 @@
-<kml xmlns="http://earth.google.com/kml/2.2">
-<Document>
-  <name>Open Document</name>
-  <open>1</open>
-
-  <NetworkLink>
-    <name>open=1, vis=1</name>
-    <visibility>1</visibility>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Open Document</name>
     <open>1</open>
-    <Link>
-      <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
-    </Link>
-  </NetworkLink>
-
-  <NetworkLink>
-    <name>open=0, vis=1</name>
-    <visibility>1</visibility>
-    <open>0</open>
-    <Link>
-      <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
-    </Link>
-  </NetworkLink>
-
-  <NetworkLink>
-    <name>open=1, vis=0</name>
-    <visibility>0</visibility>
-    <open>1</open>
-    <Link>
-      <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
-    </Link>
-  </NetworkLink>
-
-  <NetworkLink>
-    <name>open=0, vis=0</name>
-    <visibility>0</visibility>
-    <open>0</open>
-    <Link>
-      <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
-    </Link>
-  </NetworkLink>
-
-</Document>
+    <NetworkLink>
+      <name>open=1, vis=1</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>open=0, vis=1</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>open=1, vis=0</name>
+      <visibility>0</visibility>
+      <open>1</open>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>open=0, vis=0</name>
+      <visibility>0</visibility>
+      <open>0</open>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/kml/NetworkLink/placemark.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
 </kml>
-

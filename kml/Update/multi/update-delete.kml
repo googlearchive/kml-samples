@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <NetworkLinkControl>
     <Update>
       <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/multi/original.kml</targetHref>
       <Delete>
-        <Placemark targetId="original-placemark-0"/>
-        <Placemark targetId="original-placemark-2"/>
-        <Folder targetId="original-folder-2"/>
+        <Placemark targetId="original-placemark-0" />
+        <Placemark targetId="original-placemark-2" />
+        <Folder targetId="original-folder-2" />
         <!-- Delete of non-existent ID should do ??? -->
-        <Folder targetId="no-such-id"/>
+        <Folder targetId="no-such-id" />
       </Delete>
     </Update>
   </NetworkLinkControl>

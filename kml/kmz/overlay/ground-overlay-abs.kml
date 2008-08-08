@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<GroundOverlay xmlns="http://earth.google.com/kml/2.1">
-  <name>GroundOverlay http image</name>
-
-  <Icon>
-    <href>http://kml-samples.googlecode.com/svn/trunk/kml/kmz/overlay/img/NASA_KSC.jpg</href>
-  </Icon>
-
-  <LatLonBox>
-    <north>28.61950682000437</north>
-    <south>28.3816904168634</south>
-    <east>-80.50658750810825</east>
-    <west>-80.77730563832129</west>
-  </LatLonBox>
-
-</GroundOverlay>
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>GroundOverlay http image</name>
+    <Icon>
+      <href>http://kml-samples.googlecode.com/svn/trunk/kml/kmz/overlay/img/NASA_KSC.jpg</href>
+    </Icon>
+    <LatLonBox>
+      <north>28.61950682000437</north>
+      <south>28.3816904168634</south>
+      <east>-80.50658750810825</east>
+      <west>-80.77730563832129</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

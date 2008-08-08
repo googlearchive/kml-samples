@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- 
 
 TimeStamp is recommended for Point.
@@ -6,7 +6,7 @@ TimeStamp is recommended for Point.
 Each Point represents a sample from a GPS.
 
 -->
-<kml xmlns="http://earth.google.com/kml/2.1">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>TimeStamp'ed Points</name>
     <Style id="paddle-a">
@@ -14,7 +14,7 @@ Each Point represents a sample from a GPS.
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
         </Icon>
-        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels" />
       </IconStyle>
     </Style>
     <Style id="paddle-b">
@@ -22,7 +22,7 @@ Each Point represents a sample from a GPS.
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
         </Icon>
-        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        <hotSpot x="32" y="1" xunits="pixels" yunits="pixels" />
       </IconStyle>
     </Style>
     <Style id="hiker-icon">
@@ -30,7 +30,7 @@ Each Point represents a sample from a GPS.
         <Icon>
           <href>http://maps.google.com/mapfiles/ms/icons/hiker.png</href>
         </Icon>
-        <hotSpot x="0" y=".5" xunits="fraction" yunits="fraction"/>
+        <hotSpot x="0" y=".5" xunits="fraction" yunits="fraction" />
       </IconStyle>
     </Style>
     <Style id="check-hide-children">
@@ -2655,7 +2655,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.545384,37.85598900000001,0</coordinates>
+        <coordinates>-122.545384,37.855989,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2943,7 +2943,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.541184,37.85674700000001,0</coordinates>
+        <coordinates>-122.541184,37.856747,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -2970,7 +2970,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.54111,37.85694800000001,0</coordinates>
+        <coordinates>-122.54111,37.856948,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3006,7 +3006,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.540558,37.85690000000001,0</coordinates>
+        <coordinates>-122.540558,37.8569,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3015,7 +3015,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.540558,37.85690000000001,0</coordinates>
+        <coordinates>-122.540558,37.8569,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3060,7 +3060,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.539409,37.85629100000001,0</coordinates>
+        <coordinates>-122.539409,37.856291,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -3069,7 +3069,7 @@ Each Point represents a sample from a GPS.
       </TimeStamp>
       <styleUrl>#hiker-icon</styleUrl>
       <Point>
-        <coordinates>-122.539304,37.85630200000001,0</coordinates>
+        <coordinates>-122.539304,37.856302,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
