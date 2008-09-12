@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
+-->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Building and Wall</name>
+    <description>Building and Wall share textures</description>
+    <LookAt>
+      <longitude>-122.4517133643085</longitude>
+      <latitude>37.80565962914491</latitude>
+      <altitude>0</altitude>
+      <range>25.90180128676323</range>
+      <tilt>54.9531454664821</tilt>
+      <heading>-82.34248730008207</heading>
+    </LookAt>
+    <Placemark id="building">
+      <name>Building</name>
+      <LookAt>
+        <longitude>-122.4517356100782</longitude>
+        <latitude>37.80563618786606</latitude>
+        <altitude>0</altitude>
+        <range>26.3902309532964</range>
+        <tilt>62.13449005947708</tilt>
+        <heading>-45.66107020637173</heading>
+      </LookAt>
+      <Model>
+        <Location>
+          <longitude>-122.451703589982</longitude>
+          <latitude>37.80564180933</latitude>
+        </Location>
+        <Link>
+          <href>http://kml-samples.googlecode.com/svn/trunk/resources/bldg.dae</href>
+        </Link>
+        <ResourceMap>
+          <Alias>
+            <targetHref>textures/stone0noCulling.jpg</targetHref>
+            <sourceHref>../images/stone0noCulling.jpg</sourceHref>
+          </Alias>
+          <Alias>
+            <targetHref>textures/wood0noCulling.jpg</targetHref>
+            <sourceHref>../images/wood0noCulling.jpg</sourceHref>
+          </Alias>
+        </ResourceMap>
+      </Model>
+    </Placemark>
+    <Placemark id="wall">
+      <name>Wall</name>
+      <LookAt>
+        <longitude>-122.4516467177083</longitude>
+        <latitude>37.80570794130989</latitude>
+        <altitude>0</altitude>
+        <range>16.04792753907824</range>
+        <tilt>54.95314560624531</tilt>
+        <heading>152.8404649459777</heading>
+      </LookAt>
+      <Model>
+        <Location>
+          <longitude>-122.451703589982</longitude>
+          <latitude>37.80564180933</latitude>
+        </Location>
+        <Link>
+          <href>http://kml-samples.googlecode.com/svn/trunk/resources/wall.dae</href>
+        </Link>
+        <ResourceMap>
+          <Alias>
+            <targetHref>textures/wood0noCulling.jpg</targetHref>
+            <sourceHref>../images/stone0noCulling.jpg</sourceHref>
+          </Alias>
+          <Alias>
+            <targetHref>textures/stone0noCulling.jpg</targetHref>
+            <sourceHref>../images/wood0noCulling.jpg</sourceHref>
+          </Alias>
+        </ResourceMap>
+      </Model>
+    </Placemark>
+  </Folder>
+</kml>

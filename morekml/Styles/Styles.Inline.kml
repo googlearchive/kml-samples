@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BalloonStyle setting background color inline in the Placemark -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Placemark 1</name>
+    <Style>
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <colorMode>normal</colorMode>
+        <scale>2</scale>
+      </LabelStyle>
+    </Style>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+  </Placemark>
+</kml>

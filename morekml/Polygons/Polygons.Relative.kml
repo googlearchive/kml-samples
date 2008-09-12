@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="transGreenPoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Relative</name>
+      <visibility>1</visibility>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-112.3349463145932,36.14988705767721,100 -112.3354019540677,36.14941108398372,100 -112.3344428289146,36.14878490381308,100 -112.3331289492913,36.14780840132443,100 -112.3317019516947,36.14680755678357,100 -112.331131440106,36.1474173426228,100 -112.332616324338,36.14845453364654,100 -112.3339876620524,36.14926570522069,100 -112.3349463145932,36.14988705767721,100 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

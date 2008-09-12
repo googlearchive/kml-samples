@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Tessellated</name>
+    <visibility>1</visibility>
+    <description><![CDATA[If the <tessellate> tag has a value of 1, the line will contour to the underlying terrain]]></description>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+-112.0814237830345,36.10677870477137,0 -112.0870267752693,36.0905099328766,0 </coordinates>
+    </LineString>
+  </Placemark>
+</kml>

@@ -1,0 +1,17 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <description>Two NetworkLinks to the same KML parses one unique instance per NetworkLink.</description>
+    <NetworkLink>
+      <name>once</name>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/morekml/Network_Links/Targets/Network_Links.Targets.Simple.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>again</name>
+      <Link>
+        <href>http://kml-samples.googlecode.com/svn/trunk/morekml/Network_Links/Targets/Network_Links.Targets.Simple.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

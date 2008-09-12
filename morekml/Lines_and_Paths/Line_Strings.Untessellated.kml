@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Untessellated</name>
+    <visibility>1</visibility>
+    <description><![CDATA[If the <tessellate> tag has a value of 0, the line follow a simple straight-line path from point to point]]></description>
+    <LineString>
+      <coordinates>
+-112.080622229595,36.10673460007995,0 -112.085242575315,36.09049598612422,0 </coordinates>
+    </LineString>
+  </Placemark>
+</kml>

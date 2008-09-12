@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <ScreenOverlay>
+    <name>Simple crosshairs</name>
+    <visibility>1</visibility>
+    <description>This screen overlay uses fractional positioning to put the
+          image in the exact center of the screen</description>
+    <Icon>
+      <href>http://kml-samples.googlecode.com/svn/trunk/resources/crosshairs.png</href>
+    </Icon>
+    <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+    <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+    <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+    <size x="0" y="0" xunits="pixels" yunits="pixels"/>
+  </ScreenOverlay>
+</kml>

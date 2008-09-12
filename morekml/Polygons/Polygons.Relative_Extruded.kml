@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="transYellowPoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7d00ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Relative Extruded</name>
+      <visibility>1</visibility>
+      <styleUrl>#transYellowPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-112.3348783983763,36.1514008468736,100 -112.3372535345629,36.14888517553886,100 -112.3356068927954,36.14781612679284,100 -112.3350034807972,36.14846469024177,100 -112.3358353861232,36.1489624162954,100 -112.3345888301373,36.15026229372507,100 -112.3337937856278,36.14978096026463,100 -112.3331798208424,36.1504472788618,100 -112.3348783983763,36.1514008468736,100 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,124 @@
+@charset "ISO-8859-1";
+
+@media screen {
+  html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+  }
+  
+  #center, #right {
+    border: 1px solid #888;
+  }
+  
+  #top {
+    margin: 10px;
+  }
+
+  h1 {
+    font-weight: bold;
+  }
+  
+  #bottom {
+    margin: 10px;
+    color: #888;
+  }
+  
+  #left {
+    margin-right: 0;
+    margin-left: 10px;
+    border: 1px solid #888;
+    background-color: #fff;
+  }
+  
+  #right {
+    margin-right: 10px;
+  }
+  
+  #center {
+    margin-left: 0;
+    background-color: #fff;
+  }
+  
+  #sample-instructions {
+    max-height: 200px;
+    overflow-y: scroll;
+    height: expression(this.scrollHeight > 200 ? '200px' : 'auto');
+    padding: 8px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #sample-instructions * {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #sample-instructions h1 {
+    margin-bottom: 8px;
+  }
+  
+  #sample-instructions p,
+  #sample-instructions ol,
+  #sample-instructions ul {
+    margin-bottom: 8px;
+  }
+  
+  #sample-instructions ul,
+  #sample-instructions ol {
+    margin-left: 24px;
+  }
+  
+  #edit-toolbar {
+    background-color: #eee;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #update-button {
+    font-size: 150%;
+    font-weight: bold;
+  }
+
+  #editor-loading {
+    display: none;
+    background: transparent url(images/editor-loading.gif) no-repeat scroll center center;
+    background-color: #fff;
+  }
+  
+  #tree {
+    font-family: arial, helvetica, sans-serif;
+    font-size: small;
+  }
+  
+  #tree li {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  #tree .dijitTreeIcon.dijitLeaf {
+    background: transparent url(images/kml16.gif) no-repeat scroll top left;
+  }
+
+  #tree .dijitTreeLabel {
+    font-weight: bold;
+  }
+
+  #tree .dijitTreeLabel.leaf-label {
+    font-weight: normal !important;
+    cursor: pointer;
+    color: #0000aa;
+    text-decoration: underline;
+  }
+  
+  #container .dijitSplitterV {
+    width: 10px;
+    background: transparent none;
+  }
+  
+  #container .dijitSplitterThumb {
+    width: 10px;
+    background-position: center center;
+  }
+}
