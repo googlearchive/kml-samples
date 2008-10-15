@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- BalloonStyle setting background color inline in the Placemark -->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Style id="big-n-yellow">
@@ -9,6 +8,7 @@
         <scale>2</scale>
       </LabelStyle>
     </Style>
+    <!-- two Placemarks using the same style -->
     <Placemark>
       <name>Placemark 1</name>
       <styleUrl>#big-n-yellow</styleUrl>

@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
-KML 2.2 introduced ResourceMap (textures.txt is deprecated)
-  
-The .dae file texture file names are "../files/foo.jpg"
-each of which is stored in textures/foo.jpg in the file system.
-  
-targetHref references are relative to the .dae (not this .kml) hence the
-textures/foo.jpg.
--->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>SketchUp Model of Macky Auditorium</name>
@@ -16,9 +7,9 @@ textures/foo.jpg.
       <longitude>-105.2727379358738</longitude>
       <latitude>40.01000594412381</latitude>
       <altitude>0</altitude>
-      <range>127.2393107680517</range>
-      <tilt>65.74454495876547</tilt>
       <heading>-27.70337734057933</heading>
+      <tilt>65.74454495876547</tilt>
+      <range>127.2393107680517</range>
     </LookAt>
     <Model id="model_4">
       <altitudeMode>relativeToGround</altitudeMode>

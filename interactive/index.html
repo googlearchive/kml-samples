@@ -5,7 +5,7 @@
   <title>KML Interactive Samples</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAKkfkHb2nXsD0o1OX2TbdkRRaozj48i9kKhnMmF3N7B7M7uPI0BRRfUKwr6fFsCZXrI626zu0YJBiPQ"></script>
-  
+  <script type="text/javascript" src="kml-ref.js"></script>  
   <script type="text/javascript" src="ge-poly-fit-hack.js"></script>
   <script type="text/javascript" src="codemirror/js/codemirror.js"></script>
   <style type="text/css">
@@ -21,12 +21,13 @@ djConfig = { parseOnLoad: true };
 google.load('dojo', '1.1.1');
 
 google.load('maps', '2.x');
-google.load('earth', '1');
+google.load('earth', '1.x');
 
 var g_ge;
 var g_editor;
 var g_earthDisabled = false;
 var g_kmlObject;
+var g_infoBoxVisible = true;
 
 google.setOnLoadCallback(function() {
   dojo.require('dijit.layout.BorderContainer');
@@ -36,6 +37,8 @@ google.setOnLoadCallback(function() {
   dojo.require('dijit.Tree');
   dojo.require('dijit.form.Button');
   dojo.require('dojo.parser');
+  dojo.require('dojo.cookie');
+  dojo.require('dojo.fx');
 
   dojo.addOnLoad(function() { 
     // build earth
@@ -45,6 +48,8 @@ google.setOnLoadCallback(function() {
         g_ge = ge;
         g_ge.getWindow().setVisibility(true);
         g_ge.getNavigationControl().setVisibility(ge.VISIBILITY_AUTO);
+        g_ge.getLayerRoot().enableLayerById(g_ge.LAYER_BORDERS, true);
+        g_ge.getLayerRoot().enableLayerById(g_ge.LAYER_BUILDINGS, true);
       },
       function() {
         g_earthDisabled = true;
@@ -53,23 +58,82 @@ google.setOnLoadCallback(function() {
   
     // create code editor
     g_editor = CodeMirror.fromTextArea('editor', {
-      parserfile: "parsexml.js",
-      stylesheet: "codemirror/css/xmlcolors.css",
-      path: "codemirror/js/",
+      parserfile: 'parsexml.js',
+      stylesheet: 'codemirror/css/xmlcolors.css',
+      path: 'codemirror/js/',
       textWrapping: false,
       continuousScanning: 500,
       initCallback: function(obj) {
         //obj.setCode('test');
+        updateUsefulLinks();
       },
       saveFunction: function() {
         reloadKml();
       }
     });
+    
+    // show or hide infobox
+    if (dojo.cookie('show-info-box') == 'false') {
+      g_infoBoxVisible = false;
+      dojo.style('info-box', 'display', 'none');
+      dojo.addClass('info-box-toggle', 'off');
+      //dijit.byId('info-box').layout();
+      dijit.byId('center').layout();
+    }
   });
 });
 
+/* // NEEDS CODEMIRROR 0.58, BUT 0.58 HAS A BAD PARSE BUG
+var g_editorChangedTimeout = null;
+function onEditorChanged() {
+  if (g_editorChangedTimeout) {
+    clearTimeout(g_editorChangedTimeout);
+    g_editorChangedTimeout = null;
+  }
+  
+  g_editorChangedTimeout = setTimeout(updateUsefulLinks, 500);
+}
+*/
+
+function updateUsefulLinks() {
+  var re = /<([^\s]+?)(\s.*?)?>/;
+  var code = g_editor.getCode();
+  
+  var usedTags = {};
+  while ((m = re.exec(code)) !== null) {
+    usedTags[m[1]] = true;
+    code = code.substr(m[0].length);
+  }
+  
+  var usedTagsArr = [];
+  for (var tag in usedTags)
+    usedTagsArr.push(tag);
+  
+  var linksHtml = '';
+  var first = true;
+  
+  usedTagsArr.sort(function(a,b){ return (a.toLowerCase() < b.toLowerCase()) ? -1 : 1; });
+  for (var i = 0; i < usedTagsArr.length; i++) {
+    var tag = usedTagsArr[i];
+    var tagRef = getTagKmlRef(tag);
+    if (!tagRef)
+      continue;
+    
+    if (!first)
+      linksHtml += ', ';
+    
+    linksHtml += '<a href="' + tagRef.refLink + '" target="_blank">&lt;' + tagRef.tag + '&gt;</a>';
+    first = false;
+  }
+  
+  dojo.query('#useful-links div')[0].innerHTML = linksHtml;
+  
+  dijit.byId('center').layout();
+}
+
 function loadSample(path, descPath) {
-  dojo.query('iframe', 'center').style('display', 'none');
+  var editIframe = dojo.query('iframe', 'center');
+  editIframe.style('position', 'absolute');
   dojo.style('editor-loading', 'display', 'block');
 
   var sampleInstructions = dijit.byId('sample-instructions');
@@ -81,23 +145,25 @@ function loadSample(path, descPath) {
         sampleInstructions.setContent('Error: <em>Cannot load description.</em>');
       }
       
-      dojo.style('sample-instructions', 'display', 'block');
+      //dijit.byId('info-box').layout();
       dijit.byId('center').layout();
     });
   } else {
-    sampleInstructions.setContent('');
-    dojo.style('sample-instructions', 'display', 'none');
+    sampleInstructions.setContent('<em>No instructions provided.</em>');
+    //dijit.byId('info-box').layout();
     dijit.byId('center').layout();
   }
   
   google.maps.DownloadUrl('../morekml/' + path, function(data, httpResponseCode) {
     if (data && httpResponseCode == 200) {
       g_editor.setCode(data);
+      updateUsefulLinks();
       if (!g_earthDisabled)
         reloadKml(data);
       
       dojo.style('editor-loading', 'display', 'none');
-      dojo.query('iframe', 'center').style('display', 'block');
+      editIframe.style('position', 'static');
+      editIframe.style('left', '0');
     } else {
       alert('Error loading KML: HTTP ' + httpResponseCode.toString());
     }
@@ -128,8 +194,47 @@ function reloadKml(kmlString) {
   
   var aspectRatio = dojo.coords('right').w * 1.0 / dojo.coords('right').h;
   var la = computeFitLookAt(g_ge, g_kmlObject, aspectRatio);
-  g_ge.getView().setAbstractView(la);
+  if (la)
+    g_ge.getView().setAbstractView(la);
 }
+
+function toggleInfoBox() {
+  g_infoBoxVisible = !g_infoBoxVisible;
+  dojo.cookie('show-info-box', g_infoBoxVisible ? 'true' : 'false');
+  if (!g_infoBoxVisible) {
+    dojo.fx.wipeOut({ node: 'info-box', onEnd: function() {
+      dojo.addClass('info-box-toggle', 'off');
+      //dijit.byId('info-box').layout();      
+      dijit.byId('center').layout();
+    } }).play();
+  } else {
+    dojo.fx.wipeIn({ node: 'info-box', onEnd: function() {
+      dojo.removeClass('info-box-toggle', 'off');
+      //dijit.byId('info-box').layout();
+      dijit.byId('center').layout();
+    } }).play();
+  }
+}
+
+var interactiveSampler = {
+  flyTo: function(lat, lng, options) {
+    var la = g_ge.createLookAt('');
+    la.setLatitude(lat);
+    la.setLongitude(lng);
+    
+    if ('range' in options)
+      la.setRange(options.range);
+    
+    if ('heading' in options)
+      la.setHeading(options.heading);
+    
+    if ('tilt' in options)
+      la.setTilt(options.tilt);
+    
+    g_ge.getView().setAbstractView(la);
+  }
+
+};
 
 // ]]>
 </script>
@@ -176,10 +281,18 @@ function reloadKml(kmlString) {
   
     <div id="center" dojoType="dijit.layout.BorderContainer" region="center">
       <div id="edit-toolbar" dojoType="dijit.layout.ContentPane" region="top">
-        <div dojoType="dijit.layout.ContentPane" id="sample-instructions">
-          <p style="font-style: italic; font-weight: bold; color: #00aa00;">Instructions will appear here if available.</p>
+        <div id="info-box" dojoType="dijit.layout.ContentPane">
+          <div id="useful-links" dojoType="dijit.layout.ContentPane">
+            <h3>Useful links</h3>
+            <div></div>
+          </div>
+          <div id="sample-instructions" dojoType="dijit.layout.ContentPane">
+            <p style="font-style: italic; font-weight: bold; color: #00aa00;">Instructions and useful links will appear here if available.</p>
+          </div>
+          <div style="clear: both; position: relative;"></div>
         </div>
         <button id="update-button" dojoType="dijit.form.Button" onclick="reloadKml();">Update Earth!</button>
+        <a id="info-box-toggle" href="#" title="Toggle Info" onclick="toggleInfoBox(); return false;"></a>
       </div>
       <div dojoType="dijit.layout.ContentPane" region="center">
 <div id="editor-loading" style="width: 100%; height: 100%;">

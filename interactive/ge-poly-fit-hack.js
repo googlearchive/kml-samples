@@ -127,31 +127,31 @@ function computeFitLookAt(ge, obj, aspectRatio) {
       var latSpan = new google.maps.LatLng(sw.lat(), center.lng()).
         distanceFrom(new google.maps.LatLng(ne.lat(), center.lng()));
     
-  		if (!aspectRatio)
-  		  aspectRatio = 1.0;
+      if (!aspectRatio)
+        aspectRatio = 1.0;
     
-  		var PAD_FACTOR = 1.1; // add 10% to the computed range for padding
+      var PAD_FACTOR = 1.5; // add 50% to the computed range for padding
       var beta;
       
       var aspectUse = Math.max(aspectRatio, Math.min(1.0, lngSpan / latSpan));
       var alpha = (45.0 / (aspectUse + 0.4) - 2.0) * DEGREES; // computed experimentally;
       
-  		// create LookAt using distance formula
-  		if (lngSpan > latSpan) {
-  		  // polygon is wide
-  		  beta = Math.min(90 * DEGREES, alpha + lngSpan / 2 / EARTH_RADIUS);
-  	  } else {
-  	    // polygon is taller
-  	    beta = Math.min(90 * DEGREES, alpha + latSpan / 2 / EARTH_RADIUS);
+      // create LookAt using distance formula
+      if (lngSpan > latSpan) {
+        // polygon is wide
+        beta = Math.min(90 * DEGREES, alpha + lngSpan / 2 / EARTH_RADIUS);
+      } else {
+        // polygon is taller
+        beta = Math.min(90 * DEGREES, alpha + latSpan / 2 / EARTH_RADIUS);
       }
     
-  		range = PAD_FACTOR * EARTH_RADIUS * (Math.sin(beta) *
-  		  Math.sqrt(1 / Math.pow(Math.tan(alpha),2) + 1) - 1);
-		}
-		
-		var la = ge.createLookAt('');
-		la.set(center.lat(), center.lng(), coordData.maxAltitude, coordData.altitudeMode, 0, 0, range);
-		return la;
+      range = PAD_FACTOR * EARTH_RADIUS * (Math.sin(beta) *
+        Math.sqrt(1 / Math.pow(Math.tan(alpha),2) + 1) - 1);
+    }
+    
+    var la = ge.createLookAt('');
+    la.set(center.lat(), center.lng(), coordData.maxAltitude, coordData.altitudeMode, 0, 0, range);
+    return la;
   }
   
   return null;

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  LinearRing as a "standalone" geometry
--->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>Tessellated</name>
     <visibility>1</visibility>
     <description><![CDATA[If the <tessellate> tag has a value of 1, the line will contour to the underlying terrain]]></description>
+    <!-- LinearRing as a "standalone" geometry -->
     <LinearRing>
       <tessellate>1</tessellate>
       <coordinates>

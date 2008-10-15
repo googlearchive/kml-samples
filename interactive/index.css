@@ -42,13 +42,40 @@
     background-color: #fff;
   }
   
-  #sample-instructions {
+  #info-box {
+    background-color: #f8f8f8;
     max-height: 200px;
     overflow-y: scroll;
     height: expression(this.scrollHeight > 200 ? '200px' : 'auto');
-    padding: 8px;
-    background-color: #f8f8f8;
     border-bottom: 1px solid #ccc;
+  }
+  
+  #useful-links {
+    border-left: 1px solid #ccc;
+    padding: 8px;
+    
+    float: right;
+    width: 184px;
+  }
+  
+  #useful-links h3 {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #useful-links ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #useful-links ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #sample-instructions {
+    padding: 8px;
   }
   
   #sample-instructions * {
@@ -72,8 +99,23 @@
   }
   
   #edit-toolbar {
+    position: relative;
     background-color: #eee;
     border-bottom: 1px solid #ccc;
+    z-index: 100;
+  }
+  
+  #info-box-toggle {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    width: 32px;
+    height: 24px;
+    background: transparent url(images/info-box-toggle.gif) no-repeat scroll 0 100%;
+  }
+  
+  #info-box-toggle.off {
+    background-position: 0 0;
   }
   
   #update-button {

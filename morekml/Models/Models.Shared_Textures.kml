@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
--->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Folder>
     <name>Building and Wall</name>
@@ -10,9 +7,9 @@ Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
       <longitude>-122.4517133643085</longitude>
       <latitude>37.80565962914491</latitude>
       <altitude>0</altitude>
-      <range>25.90180128676323</range>
-      <tilt>54.9531454664821</tilt>
       <heading>-82.34248730008207</heading>
+      <tilt>54.9531454664821</tilt>
+      <range>25.90180128676323</range>
     </LookAt>
     <Placemark id="building">
       <name>Building</name>
@@ -20,9 +17,9 @@ Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
         <longitude>-122.4517356100782</longitude>
         <latitude>37.80563618786606</latitude>
         <altitude>0</altitude>
-        <range>26.3902309532964</range>
-        <tilt>62.13449005947708</tilt>
         <heading>-45.66107020637173</heading>
+        <tilt>62.13449005947708</tilt>
+        <range>26.3902309532964</range>
       </LookAt>
       <Model>
         <Location>
@@ -50,9 +47,9 @@ Two Models sharing textures.  Note swapped textures in Wall's ResourceMap.
         <longitude>-122.4516467177083</longitude>
         <latitude>37.80570794130989</latitude>
         <altitude>0</altitude>
-        <range>16.04792753907824</range>
-        <tilt>54.95314560624531</tilt>
         <heading>152.8404649459777</heading>
+        <tilt>54.95314560624531</tilt>
+        <range>16.04792753907824</range>
       </LookAt>
       <Model>
         <Location>

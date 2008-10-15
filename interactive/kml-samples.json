@@ -1,315 +1,310 @@
 {
   "items": [
     {
-      "source": ".\/Balloons", 
+      "source": "./Balloons", 
       "name": "Balloons", 
       "children": [
         {
-          "source": ".\/Balloons\/Balloons.Background_Color.kml", 
+          "source": "./Balloons/Balloons.Background_Color.kml", 
           "name": "Background Color", 
-          "descSource": ".\/Balloons\/Balloons.Background_Color.kml.html"
+          "descSource": "./Balloons/Balloons.Background_Color.kml.html"
         }, 
         {
-          "source": ".\/Balloons\/Balloons.Display_Modes.kml", 
-          "name": "Display Modes"
+          "source": "./Balloons/Balloons.Display_Modes.kml", 
+          "name": "Display Modes", 
+          "descSource": "./Balloons/Balloons.Display_Modes.kml.html"
         }, 
         {
-          "source": ".\/Balloons\/Balloons.Feature_Anchors.kml", 
-          "name": "Feature Anchors", 
-          "descSource": ".\/Balloons\/Balloons.Feature_Anchors.kml.html"
-        }, 
-        {
-          "source": ".\/Balloons\/Balloons.No_Balloon.kml", 
-          "name": "No Balloon", 
-          "descSource": ".\/Balloons\/Balloons.No_Balloon.kml.html"
-        }, 
-        {
-          "source": ".\/Balloons\/Balloons.Simple.kml", 
+          "source": "./Balloons/Balloons.Simple.kml", 
           "name": "Simple", 
-          "descSource": ".\/Balloons\/Balloons.Simple.kml.html"
+          "descSource": "./Balloons/Balloons.Simple.kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Extended_Data", 
+      "source": "./Extended_Data", 
       "name": "Extended Data", 
       "children": [
         {
-          "source": ".\/Extended_Data\/Extended_Data.Balloon_Substitution.kml", 
+          "source": "./Extended_Data/Extended_Data.Balloon_Substitution.kml", 
           "name": "Balloon Substitution", 
-          "descSource": ".\/Extended_Data\/Extended_Data.Balloon_Substitution.kml.html"
+          "descSource": "./Extended_Data/Extended_Data.Balloon_Substitution.kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Ground_Overlays", 
+      "source": "./Ground_Overlays", 
       "name": "Ground Overlays", 
       "children": [
         {
-          "source": ".\/Ground_Overlays\/Ground_Overlays.Large_Ground_Overlay.kml", 
+          "source": "./Ground_Overlays/Ground_Overlays.Large_Ground_Overlay.kml", 
           "name": "Large Ground Overlay"
         }
       ]
     }, 
     {
-      "source": ".\/Lines_and_Paths", 
+      "source": "./Lines_and_Paths", 
       "name": "Lines and Paths", 
       "children": [
         {
-          "source": ".\/Lines_and_Paths\/Line_Strings.Absolute.kml", 
+          "source": "./Lines_and_Paths/Line_Strings.Absolute.kml", 
           "name": "Absolute"
         }, 
         {
-          "source": ".\/Lines_and_Paths\/Line_Strings.Absolute_Extruded.kml", 
+          "source": "./Lines_and_Paths/Line_Strings.Absolute_Extruded.kml", 
           "name": "Absolute Extruded"
         }, 
         {
-          "source": ".\/Lines_and_Paths\/Line_Strings.Relative.kml", 
+          "source": "./Lines_and_Paths/Line_Strings.Relative.kml", 
           "name": "Relative"
         }, 
         {
-          "source": ".\/Lines_and_Paths\/Line_Strings.Relative_Extruded.kml", 
+          "source": "./Lines_and_Paths/Line_Strings.Relative_Extruded.kml", 
           "name": "Relative Extruded"
         }, 
         {
-          "source": ".\/Lines_and_Paths\/Line_Strings.Tessellated.kml", 
+          "source": "./Lines_and_Paths/Line_Strings.Tessellated.kml", 
           "name": "Tessellated"
         }, 
         {
-          "source": ".\/Lines_and_Paths\/Line_Strings.Untessellated.kml", 
+          "source": "./Lines_and_Paths/Line_Strings.Untessellated.kml", 
           "name": "Untessellated"
         }, 
         {
-          "source": ".\/Lines_and_Paths\/Lines_and_Paths.Linear_Ring.kml", 
-          "name": "Linear Ring", 
-          "descSource": ".\/Lines_and_Paths\/Lines_and_Paths.Linear_Ring.kml.html"
+          "source": "./Lines_and_Paths/Lines_and_Paths.Linear_Ring.kml", 
+          "name": "Linear Ring"
         }
       ]
     }, 
     {
-      "source": ".\/Models", 
+      "source": "./Models", 
       "name": "Models", 
       "children": [
         {
-          "source": ".\/Models\/Models.Macky_Auditorium_(ResourceMap).kml", 
+          "source": "./Models/Models.Macky_Auditorium_(ResourceMap).kml", 
           "name": "Macky Auditorium (ResourceMap)", 
-          "descSource": ".\/Models\/Models.Macky_Auditorium_(ResourceMap).kml.html"
+          "descSource": "./Models/Models.Macky_Auditorium_(ResourceMap).kml.html"
         }, 
         {
-          "source": ".\/Models\/Models.Shared_Textures.kml", 
+          "source": "./Models/Models.Shared_Textures.kml", 
           "name": "Shared Textures", 
-          "descSource": ".\/Models\/Models.Shared_Textures.kml.html"
+          "descSource": "./Models/Models.Shared_Textures.kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Multi-Geometries", 
+      "source": "./Multi-Geometries", 
       "name": "Multi-Geometries", 
       "children": [
         {
-          "source": ".\/Multi-Geometries\/Multi-Geometries.Line_Strings.kml", 
+          "source": "./Multi-Geometries/Multi-Geometries.Line_Strings.kml", 
           "name": "Line Strings"
         }, 
         {
-          "source": ".\/Multi-Geometries\/Multi-Geometries.Rollover.kml", 
-          "name": "Rollover", 
-          "descSource": ".\/Multi-Geometries\/Multi-Geometries.Rollover.kml.html"
+          "source": "./Multi-Geometries/Multi-Geometries.Rollover.kml", 
+          "name": "Rollover"
         }, 
         {
-          "source": ".\/Multi-Geometries\/Multi-Geometries.Simple.kml", 
+          "source": "./Multi-Geometries/Multi-Geometries.Simple.kml", 
           "name": "Simple", 
-          "descSource": ".\/Multi-Geometries\/Multi-Geometries.Simple.kml.html"
+          "descSource": "./Multi-Geometries/Multi-Geometries.Simple.kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Network_Links", 
+      "source": "./Network_Links", 
       "name": "Network Links", 
       "children": [
         {
-          "source": ".\/Network_Links\/Network_Links.Feature_Anchors.kml", 
-          "name": "Feature Anchors"
+          "source": "./Network_Links/Network_Links.Fly-to-View.kml", 
+          "name": "Fly-to-View", 
+          "descSource": "./Network_Links/Network_Links.Fly-to-View.kml.html"
         }, 
         {
-          "source": ".\/Network_Links\/Network_Links.Fly-to-View.kml", 
-          "name": "Fly-to-View"
+          "source": "./Network_Links/Network_Links.Multiple_Instances.kml", 
+          "name": "Multiple Instances", 
+          "descSource": "./Network_Links/Network_Links.Multiple_Instances.kml.html"
         }, 
         {
-          "source": ".\/Network_Links\/Network_Links.Multiple_Instances.kml", 
-          "name": "Multiple Instances"
+          "source": "./Network_Links/Network_Links.Simple.kml", 
+          "name": "Simple", 
+          "descSource": "./Network_Links/Network_Links.Simple.kml.html"
         }, 
         {
-          "source": ".\/Network_Links\/Targets", 
+          "source": "./Network_Links/Targets", 
           "name": "Targets", 
           "children": [
             {
-              "source": ".\/Network_Links\/Targets\/Network_Links.Targets.Simple.kml", 
+              "source": "./Network_Links/Targets/Network_Links.Targets.Simple.kml", 
               "name": "Simple"
             }, 
             {
-              "source": ".\/Network_Links\/Targets\/Network_Links.Targets.With_LookAt.kml", 
+              "source": "./Network_Links/Targets/Network_Links.Targets.With_LookAt.kml", 
               "name": "With LookAt", 
-              "descSource": ".\/Network_Links\/Targets\/Network_Links.Targets.With_LookAt.kml.html"
+              "descSource": "./Network_Links/Targets/Network_Links.Targets.With_LookAt.kml.html"
             }
           ]
         }
       ]
     }, 
     {
-      "source": ".\/Point_Placemarks", 
+      "source": "./Point_Placemarks", 
       "name": "Point Placemarks", 
       "children": [
         {
-          "source": ".\/Point_Placemarks\/Point_Placemarks.Descriptive_HTML.kml", 
+          "source": "./Point_Placemarks/Point_Placemarks.Descriptive_HTML.kml", 
           "name": "Descriptive HTML"
         }, 
         {
-          "source": ".\/Point_Placemarks\/Point_Placemarks.Extruded.kml", 
-          "name": "Extruded"
+          "source": "./Point_Placemarks/Point_Placemarks.Extruded.kml", 
+          "name": "Extruded", 
+          "descSource": "./Point_Placemarks/Point_Placemarks.Extruded.kml.html"
         }, 
         {
-          "source": ".\/Point_Placemarks\/Point_Placemarks.Floating.kml", 
+          "source": "./Point_Placemarks/Point_Placemarks.Floating.kml", 
           "name": "Floating"
         }, 
         {
-          "source": ".\/Point_Placemarks\/Point_Placemarks.Simple.kml", 
+          "source": "./Point_Placemarks/Point_Placemarks.Simple.kml", 
           "name": "Simple"
         }
       ]
     }, 
     {
-      "source": ".\/Polygons", 
+      "source": "./Polygons", 
       "name": "Polygons", 
       "children": [
         {
-          "source": ".\/Polygons\/Polygons.Absolute.kml", 
+          "source": "./Polygons/Polygons.Absolute.kml", 
           "name": "Absolute"
         }, 
         {
-          "source": ".\/Polygons\/Polygons.Absolute_Extruded.kml", 
+          "source": "./Polygons/Polygons.Absolute_Extruded.kml", 
           "name": "Absolute Extruded"
         }, 
         {
-          "source": ".\/Polygons\/Polygons.Extruded.kml", 
+          "source": "./Polygons/Polygons.Extruded.kml", 
           "name": "Extruded"
         }, 
         {
-          "source": ".\/Polygons\/Polygons.Google_Campus.kml", 
+          "source": "./Polygons/Polygons.Google_Campus.kml", 
           "name": "Google Campus"
         }, 
         {
-          "source": ".\/Polygons\/Polygons.Relative.kml", 
+          "source": "./Polygons/Polygons.Relative.kml", 
           "name": "Relative"
         }, 
         {
-          "source": ".\/Polygons\/Polygons.Relative_Extruded.kml", 
+          "source": "./Polygons/Polygons.Relative_Extruded.kml", 
           "name": "Relative Extruded"
         }
       ]
     }, 
     {
-      "source": ".\/Regions", 
+      "source": "./Regions", 
       "name": "Regions", 
       "children": [
         {
-          "source": ".\/Regions\/Regions.Polygon_Fade.kml", 
-          "name": "Polygon Fade"
+          "source": "./Regions/Regions.Polygon_Fade.kml", 
+          "name": "Polygon Fade", 
+          "descSource": "./Regions/Regions.Polygon_Fade.kml.html"
         }, 
         {
-          "source": ".\/Regions\/Regions.Scale.kml", 
+          "source": "./Regions/Regions.Scale.kml", 
           "name": "Scale", 
-          "descSource": ".\/Regions\/Regions.Scale.kml.html"
+          "descSource": "./Regions/Regions.Scale.kml.html"
         }, 
         {
-          "source": ".\/Regions\/Regions.Swap_Polygons_(Fade).kml", 
-          "name": "Swap Polygons (Fade)"
+          "source": "./Regions/Regions.Swap_Polygons_(Fade).kml", 
+          "name": "Swap Polygons (Fade)", 
+          "descSource": "./Regions/Regions.Swap_Polygons_(Fade).kml.html"
         }, 
         {
-          "source": ".\/Regions\/Regions.Swap_Polygons_(Pop).kml", 
-          "name": "Swap Polygons (Pop)"
+          "source": "./Regions/Regions.Swap_Polygons_(Pop).kml", 
+          "name": "Swap Polygons (Pop)", 
+          "descSource": "./Regions/Regions.Swap_Polygons_(Pop).kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Screen_Overlays", 
+      "source": "./Screen_Overlays", 
       "name": "Screen Overlays", 
       "children": [
         {
-          "source": ".\/Screen_Overlays\/Screen_Overlays.Absolute_TopLeft.kml", 
+          "source": "./Screen_Overlays/Screen_Overlays.Absolute_TopLeft.kml", 
           "name": "Absolute TopLeft"
         }, 
         {
-          "source": ".\/Screen_Overlays\/Screen_Overlays.Crosshairs.kml", 
+          "source": "./Screen_Overlays/Screen_Overlays.Crosshairs.kml", 
           "name": "Crosshairs"
         }, 
         {
-          "source": ".\/Screen_Overlays\/Screen_Overlays.Dynamic_Right.kml", 
+          "source": "./Screen_Overlays/Screen_Overlays.Dynamic_Right.kml", 
           "name": "Dynamic Right"
         }
       ]
     }, 
     {
-      "source": ".\/Sky", 
+      "source": "./Sky", 
       "name": "Sky", 
       "children": [
         {
-          "source": ".\/Sky\/Sky.Leo.kml", 
+          "source": "./Sky/Sky.Leo.kml", 
           "name": "Leo", 
-          "descSource": ".\/Sky\/Sky.Leo.kml.html"
+          "descSource": "./Sky/Sky.Leo.kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Styles", 
+      "source": "./Styles", 
       "name": "Styles", 
       "children": [
         {
-          "source": ".\/Styles\/Styles.Inline.kml", 
+          "source": "./Styles/Styles.Inline.kml", 
           "name": "Inline", 
-          "descSource": ".\/Styles\/Styles.Inline.kml.html"
+          "descSource": "./Styles/Styles.Inline.kml.html"
         }, 
         {
-          "source": ".\/Styles\/Styles.Rollover_(StyleMap).kml", 
+          "source": "./Styles/Styles.Rollover_(StyleMap).kml", 
           "name": "Rollover (StyleMap)"
         }, 
         {
-          "source": ".\/Styles\/Styles.Shared.kml", 
-          "name": "Shared", 
-          "descSource": ".\/Styles\/Styles.Shared.kml.html"
+          "source": "./Styles/Styles.Shared.kml", 
+          "name": "Shared"
         }, 
         {
-          "source": ".\/Styles\/Styles.Style_Merging.kml", 
+          "source": "./Styles/Styles.Style_Merging.kml", 
           "name": "Style Merging", 
-          "descSource": ".\/Styles\/Styles.Style_Merging.kml.html"
+          "descSource": "./Styles/Styles.Style_Merging.kml.html"
         }
       ]
     }, 
     {
-      "source": ".\/Views_(Camera_and_LookAt)", 
+      "source": "./Views_(Camera_and_LookAt)", 
       "name": "Views (Camera and LookAt)", 
       "children": [
         {
-          "source": ".\/Views_(Camera_and_LookAt)\/Camera", 
+          "source": "./Views_(Camera_and_LookAt)/Camera", 
           "name": "Camera", 
           "children": [
             {
-              "source": ".\/Views_(Camera_and_LookAt)\/Camera\/Views_(Camera_and_LookAt).Camera.Ground_Level.kml", 
+              "source": "./Views_(Camera_and_LookAt)/Camera/Views_(Camera_and_LookAt).Camera.Ground_Level.kml", 
               "name": "Ground Level"
             }, 
             {
-              "source": ".\/Views_(Camera_and_LookAt)\/Camera\/Views_(Camera_and_LookAt).Camera.Looking_Down.kml", 
+              "source": "./Views_(Camera_and_LookAt)/Camera/Views_(Camera_and_LookAt).Camera.Looking_Down.kml", 
               "name": "Looking Down"
             }, 
             {
-              "source": ".\/Views_(Camera_and_LookAt)\/Camera\/Views_(Camera_and_LookAt).Camera.Looking_Up.kml", 
+              "source": "./Views_(Camera_and_LookAt)/Camera/Views_(Camera_and_LookAt).Camera.Looking_Up.kml", 
               "name": "Looking Up"
             }, 
             {
-              "source": ".\/Views_(Camera_and_LookAt)\/Camera\/Views_(Camera_and_LookAt).Camera.Roll_Left.kml", 
+              "source": "./Views_(Camera_and_LookAt)/Camera/Views_(Camera_and_LookAt).Camera.Roll_Left.kml", 
               "name": "Roll Left"
             }, 
             {
-              "source": ".\/Views_(Camera_and_LookAt)\/Camera\/Views_(Camera_and_LookAt).Camera.Tilt.kml", 
+              "source": "./Views_(Camera_and_LookAt)/Camera/Views_(Camera_and_LookAt).Camera.Tilt.kml", 
               "name": "Tilt"
             }
           ]

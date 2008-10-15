@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <name>KmlFile</name>
-    <Style id="downArrowIcon">
+  <Placemark>
+    <name>Floating placemark</name>
+    <visibility>1</visibility>
+    <description>Floats a defined distance above the ground.</description>
+    <LookAt>
+      <longitude>-122.084075</longitude>
+      <latitude>37.4220033612141</latitude>
+      <altitude>45</altitude>
+      <heading>0</heading>
+      <tilt>90</tilt>
+      <range>100</range>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+    <Style>
       <IconStyle>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Placemark>
-      <name>Floating placemark</name>
-      <visibility>1</visibility>
-      <description>Floats a defined distance above the ground.</description>
-      <styleUrl>#downArrowIcon</styleUrl>
-      <Point>
-        <altitudeMode>relativeToGround</altitudeMode>
-        <coordinates>-122.084075,37.4220033612141,50</coordinates>
-      </Point>
-    </Placemark>
-  </Document>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>-122.084075,37.4220033612141,50</coordinates>
+    </Point>
+  </Placemark>
 </kml>

@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-A client fetching this file with a NetworkLink with flyToView=1
-will fly to the LookAt in the NetworkLinkControl (and _not_
-the LookAt of the Placemark).  Of course, a UI action on the
-Placemark icon or list view will honor the Placemark's LookAt.
--->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <NetworkLinkControl>
     <LookAt>

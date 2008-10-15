@@ -1,4 +1,11 @@
 <p>KML 2.2 introduced <code>ResourceMap</code> (textures.txt is deprecated)</p>
-<p>The .dae file texture file names are "../files/foo.jpg"
-each of which is stored in textures/foo.jpg in the file system.</p>
-<p><code>targetHref</code> references are relative to the .dae (not this .kml) hence the textures/foo.jpg.</p>
+<p>Because COLLADA (.dae) files don't contain textures, but instead simply
+  reference them on the filesystem, it is sometimes necessary to re-map these
+  references to their correct locations. <code>ResourceMap</code> allows for
+  exactly that.</p>
+<p>For example, if the model file references "../files/foo.jpg" but the actual
+  texture is located at "textures/foo.jpg" (relative to the .dae file), you can
+  use a <code>ResourceMap</code> with "../files/foo.jpg" as the <code>sourceHref</code>
+  and "textures/foo.jpg" as the <code>targetHref</code>.
+<p><em>Remember, the <code>targetHref</code> references are relative to the
+  .dae, not the KML.</em></p>

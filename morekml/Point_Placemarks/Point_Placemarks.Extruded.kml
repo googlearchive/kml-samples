@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <name>KmlFile</name>
-    <Style id="globeIcon">
+  <Placemark>
+    <name>Extruded placemark</name>
+    <visibility>1</visibility>
+    <description>Tethered to the ground by a customizable
+        "tail"</description>
+    <LookAt>
+      <longitude>-122.0857667006183</longitude>
+      <latitude>37.42156927867553</latitude>
+      <altitude>50</altitude>
+      <heading>0</heading>
+      <tilt>45</tilt>
+      <range>50</range>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+    <Style>
       <IconStyle>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
@@ -12,17 +24,10 @@
         <width>2</width>
       </LineStyle>
     </Style>
-    <Placemark>
-      <name>Extruded placemark</name>
-      <visibility>1</visibility>
-      <description>Tethered to the ground by a customizable
-          "tail"</description>
-      <styleUrl>#globeIcon</styleUrl>
-      <Point>
-        <extrude>1</extrude>
-        <altitudeMode>relativeToGround</altitudeMode>
-        <coordinates>-122.0857667006183,37.42156927867553,50</coordinates>
-      </Point>
-    </Placemark>
-  </Document>
+    <Point>
+      <extrude>1</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>-122.0857667006183,37.42156927867553,50</coordinates>
+    </Point>
+  </Placemark>
 </kml>

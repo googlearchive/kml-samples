@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-<SchemaData> is a power tool...
-
-The following shows how Feature is extended
-    <TrailHeadType>
-       <TrailHeadName>...</TrailHeadName>
-       <TrailLength>...</TrailLength>
-       <ElevationGain>...</ElevationGain>
-    </TrailHeadType>
--->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>ExtendedData+SchemaData</name>
-<!-- Create a balloon template referring to the user-defined type -->
+    <!-- Create a balloon template referring to the user-defined type -->
     <Style id="trailhead-balloon-template">
       <BalloonStyle>
         <text><![CDATA[
@@ -26,7 +16,7 @@ The following shows how Feature is extended
           ]]></text>
       </BalloonStyle>
     </Style>
-<!-- Declare the type "TrailHeadType" with 3 fields -->
+    <!-- Declare the type "TrailHeadType" with 3 fields -->
     <Schema name="TrailHeadType" id="TrailHeadTypeId">
       <SimpleField type="string" name="TrailHeadName">
         <displayName><![CDATA[<b>Trail Head Name</b>]]></displayName>
@@ -38,7 +28,7 @@ The following shows how Feature is extended
         <displayName><![CDATA[<i>change in altitude</i>]]></displayName>
       </SimpleField>
     </Schema>
-<!-- Instantiate some Placemarks extended with TrailHeadType fields -->
+    <!-- Instantiate some Placemarks extended with TrailHeadType fields -->
     <Placemark>
       <name>Easy trail</name>
       <styleUrl>#trailhead-balloon-template</styleUrl>

@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
-  
-  How to make a polygon "selectable"?
-  You don't.  You associate a Point (icon) with
-  the Polygon and use StyleMap to give the Polygon
-  rollover behavior.  User rolls over the icon
-  and the Polygon and its border change color/transparency.
-
--->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Style id="normal">
       <LabelStyle>
         <scale>0</scale>
       </LabelStyle>
-<!-- This hides all lines in non-highlight -->
+      <!-- This hides all lines in non-highlight -->
       <LineStyle>
         <color>00000000</color>
-<!-- a==00: fully transparent Polygon outline -->
+        <!-- a==00: fully transparent Polygon outline -->
       </LineStyle>
       <PolyStyle>
         <color>7fff8080</color>
@@ -26,7 +17,7 @@
     <Style id="highlight">
       <LineStyle>
         <color>ff3f00ff</color>
-<!-- solid black Polygon outline -->
+        <!-- solid black Polygon outline -->
         <width>2</width>
       </LineStyle>
       <PolyStyle>

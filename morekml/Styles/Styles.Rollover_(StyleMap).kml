@@ -4,30 +4,39 @@
     <name>Highlighted Icon</name>
     <description>Place your mouse over the icon to see it display the new
           icon</description>
-    <Style id="normalPlacemark">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="highlightPlacemark">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <StyleMap id="exampleStyleMap">
       <Pair>
         <key>normal</key>
-        <styleUrl>#normalPlacemark</styleUrl>
+        <!-- you could also use a <styleUrl> here instead of inlining -->
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>7fffffff</color>
+            <colorMode>normal</colorMode>
+          </LabelStyle>
+        </Style>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#highlightPlacemark</styleUrl>
+        <!-- you could also use a <styleUrl> here instead of inlining -->
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+            </Icon>
+          </IconStyle>
+          <LabelStyle>
+            <color>ff8888ff</color>
+            <colorMode>normal</colorMode>
+          </LabelStyle>
+        </Style>
       </Pair>
     </StyleMap>
+    <!-- and now, a Placemark that uses the StyleMap -->
     <Placemark>
       <name>Roll over this icon</name>
       <visibility>1</visibility>
