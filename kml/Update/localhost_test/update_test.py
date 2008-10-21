@@ -96,7 +96,7 @@ class UpdateHandler(BaseHTTPServer.BaseHTTPRequestHandler):
 def main():
   try:
     server = BaseHTTPServer.HTTPServer(('', 8080), UpdateHandler)
-    print 'Started http server in port 8080. ^C to terminate'
+    print 'Started http server on port 8080. ^C to terminate'
     server.serve_forever()
   except KeyboardInterrupt:
     print 'Shutting down server'
