@@ -48,6 +48,7 @@ def GenerateKml():
     '<Link>\n'
     '<href>http://localhost:8080/update</href>\n'
     '<refreshMode>onInterval</refreshMode>\n'
+    '<refreshInterval>10</refreshInterval>\n'
     '</Link>\n'
     '</NetworkLink>\n'
     '</Document>')
@@ -60,6 +61,7 @@ def UpdateKml():
   """
   lon = -122.0 + random.random()
   lat = 37.0 + random.random()
+  heading = random.randrange(-179, 180)
   kml = (
     '<NetworkLinkControl>\n'
     '<Update>\n'
@@ -73,10 +75,11 @@ def UpdateKml():
     '<LookAt>\n'
     '<longitude>%0.6f</longitude>\n'
     '<latitude>%0.6f</latitude>\n'
-    '<range>10000</range>\n'
-    '<tilt>0</tilt>\n'
+    '<range>1000</range>\n'
+    '<tilt>70</tilt>\n'
+    '<heading>%d</heading>\n'
     '</LookAt>\n'
-    '</NetworkLinkControl>') % (lon, lat, lon, lat)
+    '</NetworkLinkControl>') % (lon, lat, lon, lat, heading)
   return kml
 
 class UpdateHandler(BaseHTTPServer.BaseHTTPRequestHandler):
