@@ -7,7 +7,7 @@
  * See manual.html for more info about the parser interface.
  */
 
-Editor.Parser = (function() {
+var JSParser = Editor.Parser = (function() {
   // Token types that can be considered to be atoms.
   var atomicTypes = {"atom": true, "number": true, "variable": true, "string": true, "regexp": true};
   // Constructor for the lexical context objects.
@@ -45,7 +45,7 @@ Editor.Parser = (function() {
   }
 
   // The parser-iterator-producing function itself.
-  function parseJS(input) {
+  function parseJS(input, basecolumn) {
     // Wrap the input in a token stream
     var tokens = tokenizeJavaScript(input);
     // The parser state. cc is a stack of actions that have to be
@@ -59,7 +59,7 @@ Editor.Parser = (function() {
     // variables defined in that, and the scopes above it.
     var context = null;
     // The lexical scope, used mostly for indentation.
-    var lexical = new JSLexical(-2, 0, "block", false);
+    var lexical = new JSLexical((basecolumn || 0) - 2, 0, "block", false);
     // Current column, and the indentation at the start of the current
     // line. Used to create lexical scope objects.
     var column = 0;
@@ -105,8 +105,8 @@ Editor.Parser = (function() {
         lexical.align = true;
 
       // Execute actions until one 'consumes' the token and we can
-      // return it. Marked is used to 
-      while(true){
+      // return it.
+      while(true) {
         consume = marked = false;
         // Take and execute the topmost action.
         cc.pop()(token.type, token.content);
@@ -116,7 +116,7 @@ Editor.Parser = (function() {
             token.style = marked;
           // Here we differentiate between local and global variables.
           else if (token.type == "variable" && inScope(token.content))
-            token.style = "localvariable";
+            token.style = "js-localvariable";
           return token;
         }
       }
@@ -132,7 +132,7 @@ Editor.Parser = (function() {
     function copy(){
       var _context = context, _lexical = lexical, _cc = cc.concat([]), _tokenState = tokens.state;
   
-      return function(input){
+      return function copyParser(input){
         context = _context;
         lexical = _lexical;
         cc = _cc.concat([]); // copies the array
@@ -164,8 +164,7 @@ Editor.Parser = (function() {
       marked = style;
     }
 
-    // Push a new scope. Will automatically link the the current
-    // scope.
+    // Push a new scope. Will automatically link the current scope.
     function pushcontext(){
       context = {prev: context, vars: {"this": true, "arguments": true}};
     }
@@ -176,7 +175,7 @@ Editor.Parser = (function() {
     // Register a variable in the current scope.
     function register(varname){
       if (context){
-        mark("variabledef");
+        mark("js-variabledef");
         context.vars[varname] = true;
       }
     }
@@ -211,7 +210,7 @@ Editor.Parser = (function() {
     // Creates an action that discards tokens until it finds one of
     // the given type.
     function expect(wanted){
-      return function(type){
+      return function expecting(type){
         if (type == wanted) cont();
         else cont(arguments.callee);
       };
@@ -232,6 +231,7 @@ Editor.Parser = (function() {
       else if (type == "for") cont(pushlex("form"), expect("("), pushlex(")"), forspec1, expect(")"), poplex, statement, poplex);
       else if (type == "variable") cont(pushlex("stat"), maybelabel);
       else if (type == "case") cont(expression, expect(":"));
+      else if (type == "default") cont(expect(":"));
       else if (type == "catch") cont(pushlex("form"), pushcontext, expect("("), funarg, expect(")"), statement, poplex, popcontext);
       else pass(pushlex("stat"), expression, expect(";"), poplex);
     }
@@ -250,9 +250,9 @@ Editor.Parser = (function() {
     // is found.
     function maybeoperator(type){
       if (type == "operator") cont(expression);
-      else if (type == "(") cont(pushlex(")"), expression, commasep(expression), expect(")"), poplex);
+      else if (type == "(") cont(pushlex(")"), expression, commasep(expression), expect(")"), poplex, maybeoperator);
       else if (type == ".") cont(property, maybeoperator);
-      else if (type == "[") cont(pushlex("]"), expression, expect("]"), poplex);
+      else if (type == "[") cont(pushlex("]"), expression, expect("]"), poplex, maybeoperator);
     }
     // When a statement starts with a variable name, it might be a
     // label. If no colon follows, it's a regular statement.
@@ -261,13 +261,13 @@ Editor.Parser = (function() {
       else pass(maybeoperator, expect(";"), poplex);
     }
     // Property names need to have their style adjusted -- the
-    // tokenizer think they are variables.
+    // tokenizer thinks they are variables.
     function property(type){
-      if (type == "variable") {mark("property"); cont();}
+      if (type == "variable") {mark("js-property"); cont();}
     }
     // This parses a property and its value in an object literal.
     function objprop(type){
-      if (type == "variable") mark("property");
+      if (type == "variable") mark("js-property");
       if (atomicTypes.hasOwnProperty(type)) cont(expect(":"), expression);
     }
     // Parses a comma-separated list of the things that are recognized
@@ -276,7 +276,7 @@ Editor.Parser = (function() {
       function proceed(type) {
         if (type == ",") cont(what, proceed);
       };
-      return function() {
+      return function commaSeparated() {
         pass(what, proceed);
       };
     }

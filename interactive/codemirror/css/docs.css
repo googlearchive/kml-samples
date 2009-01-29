@@ -25,8 +25,8 @@ div.border {
 
 code {
   font-family: courier, monospace;
-  font-size: 80%;
-  color: #448888;
+  font-size: 90%;
+  color: #155;
 }
 
 pre.code {
@@ -35,4 +35,8 @@ pre.code {
   color: black;
   padding: .4em;
   font-family: courier, monospace;
+}
+
+.warn {
+  color: #C00;
 }

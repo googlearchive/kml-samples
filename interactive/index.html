@@ -26,6 +26,7 @@ google.load('earth', '1.x');
 var g_ge;
 var g_editor;
 var g_earthDisabled = false;
+var g_editorDirty = false;
 var g_kmlObject;
 var g_infoBoxVisible = true;
 
@@ -69,7 +70,8 @@ google.setOnLoadCallback(function() {
       },
       saveFunction: function() {
         reloadKml();
-      }
+      },
+      onChange: onEditorChanged
     });
     
     // show or hide infobox
@@ -80,12 +82,19 @@ google.setOnLoadCallback(function() {
       //dijit.byId('info-box').layout();
       dijit.byId('center').layout();
     }
+    
+    window.onbeforeunload = function() {
+      if (g_editorDirty) {
+        return "You've made changes to the KML. Press OK if you're sure " +
+               "you want to exit.";
+      }
+    };
   });
 });
 
-/* // NEEDS CODEMIRROR 0.58, BUT 0.58 HAS A BAD PARSE BUG
 var g_editorChangedTimeout = null;
 function onEditorChanged() {
+  g_editorDirty = true;
   if (g_editorChangedTimeout) {
     clearTimeout(g_editorChangedTimeout);
     g_editorChangedTimeout = null;
@@ -93,7 +102,6 @@ function onEditorChanged() {
   
   g_editorChangedTimeout = setTimeout(updateUsefulLinks, 500);
 }
-*/
 
 function updateUsefulLinks() {
   var re = /<([^\s]+?)(\s.*?)?>/;
@@ -132,6 +140,13 @@ function updateUsefulLinks() {
 }
 
 function loadSample(path, descPath) {
+  if (g_editorDirty) {
+    if (!confirm("You've made changes to the KML. Press OK if you're sure " +
+                 "you want to load a new sample."))
+      return false;
+  }
+
+  g_editorDirty = false;
   var editIframe = dojo.query('iframe', 'center');
   editIframe.style('position', 'absolute');
   dojo.style('editor-loading', 'display', 'block');
@@ -292,6 +307,7 @@ var interactiveSampler = {
           <div style="clear: both; position: relative;"></div>
         </div>
         <button id="update-button" dojoType="dijit.form.Button" onclick="reloadKml();">Update Earth!</button>
+        <span>(Ctrl + S)</span>
         <a id="info-box-toggle" href="#" title="Toggle Info" onclick="toggleInfoBox(); return false;"></a>
       </div>
       <div dojoType="dijit.layout.ContentPane" region="center">
