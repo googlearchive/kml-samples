@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Style id="pushpin">
+      <IconStyle id="myiconstyle">
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <scale>1.0</scale>
+        <color>ffffffff</color>
+      </IconStyle>
+      <LabelStyle id="mylabelstyle">
+        <color>ffffffff</color>
+      </LabelStyle>
+    </Style>
+
+    <Placemark id="pm1">
+      <name>First Placemark</name>
+      <description>First Balloon Text or HTML</description>
+      <styleUrl>#pushpin</styleUrl>
+      <Point>
+        <coordinates>-78.17408862860144,35.30477101636992,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Our tour. The Playlist inside contains the sequence of actions that compose the tour. -->
+    <gx:Tour>
+      <name>Example Tour</name>
+      <gx:Playlist>
+
+        <!-- Fly to the view of the placemark in 5.2 seconds. -->
+        <gx:FlyTo>
+          <gx:flyToMode>bounce</gx:flyToMode>
+          <gx:duration>5.2</gx:duration>
+          <LookAt>
+            <longitude>-78.19074499027175</longitude>
+            <latitude>35.31730443852049</latitude>
+             <altitude>0</altitude>
+            <range>10704.41142132794</range>
+            <tilt>58.57687432675979</tilt>
+            <heading>-76.75532143327891</heading>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+
+        <!-- Open the balloon of the placemark. -->
+        <gx:AnimatedUpdate>
+          <gx:duration>0.0</gx:duration>
+          <Update>
+            <targetHref/> <!-- Left empty to refer to the current file -->
+            <Change>
+              <Placemark targetId="pm1">
+                <gx:balloonVisibility>1</gx:balloonVisibility>
+              </Placemark>
+            </Change>
+          </Update>
+        </gx:AnimatedUpdate>
+
+        <!-- Wait for 4 seconds, to allow the user to read the balloon -->
+        <gx:Wait>
+          <gx:duration>4.0</gx:duration>
+        </gx:Wait>
+
+        <!-- Close the balloon. -->
+        <gx:AnimatedUpdate>
+          <gx:duration>0.0</gx:duration>
+          <Update>
+            <targetHref/>
+            <Change>
+              <Placemark targetId="pm1">
+                <gx:balloonVisibility>0</gx:balloonVisibility>
+              </Placemark>
+            </Change>
+          </Update>
+        </gx:AnimatedUpdate>
+
+        <!-- Start animating the sclae of the placemark icons and
+             the color of the placemark text. -->
+        <gx:AnimatedUpdate>
+          <gx:duration>2.0</gx:duration>
+          <Update>
+            <targetHref/>
+            <Change>
+              <IconStyle targetId="myiconstyle">
+                <scale>5.5</scale>
+              </IconStyle>
+            </Change>
+            <Change>
+              <LabelStyle targetId="mylabelstyle">
+                <color>ff6060ff</color>
+              </LabelStyle>
+            </Change>
+          </Update>
+        </gx:AnimatedUpdate>
+
+        <!-- Wait for the animation to complete (see the touring
+             tutorial for an explanation of how AnimatedUpdate's
+             duration isn't enough to guarantee this). -->
+        <gx:Wait>
+          <gx:duration>2.0</gx:duration>
+        </gx:Wait>
+
+      </gx:Playlist>
+    </gx:Tour>
+  </Document>
+</kml>
