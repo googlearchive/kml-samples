@@ -1,0 +1,2267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns = "http://www.w3.org/2005/Atom">
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009gbaw.8.20090501T005456.437Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-05-01T00:54:56+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009gbaw.7.20090430T101530.199Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.6 Zahedan, Iran - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.6 occurred near Zahedan, Iran at 10:04:26.79 UTC on Apr 30, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009gbaw.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-30T10:04:26+00:00</parameter>
+<parameter>EventIDKey=us2009gbaw</parameter>
+<parameter>Version=8</parameter>
+<parameter>Magnitude=5.6</parameter>
+<parameter>Depth=68.8 km (42.8 miles)</parameter>
+<parameter>HorizontalError=6.1 km</parameter>
+<parameter>NumStations=67</parameter>
+<parameter>NumPhases=67</parameter>
+<parameter>MinDistance=527.2 km</parameter>
+<parameter>RMSTimeError=0.93 seconds</parameter>
+<parameter>AzimuthalGap=70 degrees</parameter>
+<area>
+<areaDesc>128 miles (206 km) SSE of Zahedan, Iran; 157 miles (252 km) NW of Turbat, Pakistan; 189 miles (304 km) NNE of Chabahar, Iran; 337 miles (542 km) NNE of MUSCAT, Oman</areaDesc>
+<circle>27.756,61.492 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009gbad.Q.20090501T010831.688Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-05-01T01:08:32+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009gbad.6.20090430T010033.102Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 4.8 Raba, Sumbawa, Indonesia - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 4.8 occurred near Raba, Sumbawa, Indonesia at 00:44:49.30 UTC on Apr 30, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009gbad.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-30T00:44:49+00:00</parameter>
+<parameter>EventIDKey=us2009gbad</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=4.8</parameter>
+<parameter>Depth=538.0 km (334.3 miles)</parameter>
+<parameter>HorizontalError=9.8 km</parameter>
+<parameter>NumStations=44</parameter>
+<parameter>NumPhases=44</parameter>
+<parameter>MinDistance=256.6 km</parameter>
+<parameter>RMSTimeError=0.91 seconds</parameter>
+<parameter>AzimuthalGap=69 degrees</parameter>
+<area>
+<areaDesc>124 miles (199 km) NE of Raba, Sumbawa, Indonesia; 150 miles (241 km) NW of Ende, Flores, Indonesia; 156 miles (251 km) SSE of Ujung Pandang, Sulawesi, Indonesia; 383 miles (617 km) WNW of DILI, East Timor</areaDesc>
+<circle>-7.303,120.136 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fzbe.Q.20090429T151233.849Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-29T15:12:33+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fzbe.8.20090429T145823.219Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Moderate</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.6 REYKJAVIK, Iceland - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.6 occurred near REYKJAVIK, Iceland at 19:54:34.82 UTC on Apr 28, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fzbe.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-28T19:54:34+00:00</parameter>
+<parameter>EventIDKey=us2009fzbe</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=5.6</parameter>
+<parameter>Depth=10.0 km (6.2 miles)</parameter>
+<parameter>HorizontalError=9.7 km</parameter>
+<parameter>NumStations=115</parameter>
+<parameter>NumPhases=115</parameter>
+<parameter>MinDistance=1,561.8 km</parameter>
+<parameter>RMSTimeError=1.33 seconds</parameter>
+<parameter>AzimuthalGap=81 degrees</parameter>
+<area>
+<areaDesc>921 miles (1483 km) SW of REYKJAVIK, Iceland</areaDesc>
+<circle>52.615,-34.950 12.5</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fzax.Q.20090428T164038.765Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-28T16:40:38+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fzax.6.20090428T160858.085Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.2 Puerto Aisen, Chile - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.2 occurred near Puerto Aisen, Chile at 15:29:32.40 UTC on Apr 28, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fzax.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-28T15:29:32+00:00</parameter>
+<parameter>EventIDKey=us2009fzax</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=5.2</parameter>
+<parameter>Depth=39.9 km (24.8 miles)</parameter>
+<parameter>HorizontalError=30.2 km</parameter>
+<parameter>VerticalError=29.5 km</parameter>
+<parameter>NumStations=26</parameter>
+<parameter>NumPhases=26</parameter>
+<parameter>MinDistance=947.4 km</parameter>
+<parameter>RMSTimeError=0.92 seconds</parameter>
+<parameter>AzimuthalGap=157 degrees</parameter>
+<area>
+<areaDesc>243 miles (392 km) SW of Puerto Aisen, Chile; 400 miles (644 km) NW of Punta Arenas, Chile; 836 miles (1345 km) W of STANLEY, Falkland Islands</areaDesc>
+<circle>-48.315,-75.973 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-at00091768.1.20090428T113104.169Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#at</sender>
+<sent>2009-04-28T11:31:04+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>West Coast and Alaska Tsunami Warning Center/NOAA/NWS</senderName>
+<headline>EQ 5.7 Kushiro, Hokkaido, Japan - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.7 occurred near Kushiro, Hokkaido, Japan at 11:21:22.00 UTC on Apr 28, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsus/Quakes/at00091768.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#at</contact>
+<parameter>EventTime=2009-04-28T11:21:22+00:00</parameter>
+<parameter>EventIDKey=at00091768</parameter>
+<parameter>Version=1</parameter>
+<parameter>Magnitude=5.7</parameter>
+<parameter>Depth=54.0 km (33.6 miles)</parameter>
+<parameter>HorizontalError=0.0 km</parameter>
+<parameter>VerticalError=0.0 km</parameter>
+<parameter>NumStations=26</parameter>
+<parameter>NumPhases=26</parameter>
+<parameter>MinDistance=265.2 km</parameter>
+<parameter>RMSTimeError=0.92 seconds</parameter>
+<parameter>AzimuthalGap=133 degrees</parameter>
+<area>
+<areaDesc>44 miles (71 km) SE of Kushiro, Hokkaido, Japan; 158 miles (255 km) ESE of Asahikawa, Hokkaido, Japan; 190 miles (306 km) E of Sapporo, Hokkaido, Japan; 551 miles (886 km) NNE of TOKYO, Japan</areaDesc>
+<circle>42.517,145.015 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fzap.7.20090429T150603.739Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-29T15:06:03+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fzap.6.20090428T113927.855Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Moderate</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.2 Kushiro, Hokkaido, Japan - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.2 occurred near Kushiro, Hokkaido, Japan at 11:21:18.27 UTC on Apr 28, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fzap.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-28T11:21:18+00:00</parameter>
+<parameter>EventIDKey=us2009fzap</parameter>
+<parameter>Version=7</parameter>
+<parameter>Magnitude=5.2</parameter>
+<parameter>Depth=10.0 km (6.2 miles)</parameter>
+<parameter>HorizontalError=4.0 km</parameter>
+<parameter>NumStations=268</parameter>
+<parameter>NumPhases=268</parameter>
+<parameter>MinDistance=165.2 km</parameter>
+<parameter>RMSTimeError=0.70 seconds</parameter>
+<parameter>AzimuthalGap=79 degrees</parameter>
+<area>
+<areaDesc>33 miles (54 km) SE of Kushiro, Hokkaido, Japan; 149 miles (239 km) ESE of Asahikawa, Hokkaido, Japan; 184 miles (296 km) E of Sapporo, Hokkaido, Japan; 559 miles (900 km) NNE of TOKYO, Japan</areaDesc>
+<circle>42.692,144.941 0.2</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fyb9.R.20090429T013926.610Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-29T01:39:26+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fyb9.Q.20090429T013616.529Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.0 Mito, Honshu, Japan - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.0 occurred near Mito, Honshu, Japan at 21:37:36.56 UTC on Apr 27, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fyb9.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-27T21:37:36+00:00</parameter>
+<parameter>EventIDKey=us2009fyb9</parameter>
+<parameter>Version=R</parameter>
+<parameter>Magnitude=5.0</parameter>
+<parameter>Depth=48.7 km (30.3 miles)</parameter>
+<parameter>HorizontalError=5.2 km</parameter>
+<parameter>NumStations=119</parameter>
+<parameter>NumPhases=118</parameter>
+<parameter>MinDistance=249.7 km</parameter>
+<parameter>RMSTimeError=0.69 seconds</parameter>
+<parameter>AzimuthalGap=119 degrees</parameter>
+<area>
+<areaDesc>28 miles (45 km) E of Mito, Honshu, Japan; 49 miles (79 km) S of Iwaki, Honshu, Japan; 84 miles (135 km) NE of TOKYO, Japan</areaDesc>
+<circle>36.362,140.980 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fybw.6.20090427T202338.525Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-27T20:23:38+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Moderate</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.2 Talas, Kyrgyzstan - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.2 occurred near Talas, Kyrgyzstan at 20:04:13.85 UTC on Apr 27, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fybw.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-27T20:04:13+00:00</parameter>
+<parameter>EventIDKey=us2009fybw</parameter>
+<parameter>Version=6</parameter>
+<parameter>Magnitude=5.2</parameter>
+<parameter>Depth=10.0 km (6.2 miles)</parameter>
+<parameter>HorizontalError=7.1 km</parameter>
+<parameter>NumStations=79</parameter>
+<parameter>NumPhases=79</parameter>
+<parameter>MinDistance=105.8 km</parameter>
+<parameter>RMSTimeError=0.98 seconds</parameter>
+<parameter>AzimuthalGap=61 degrees</parameter>
+<area>
+<areaDesc>27 miles (44 km) NNE of Talas, Kyrgyzstan; 55 miles (89 km) E of Taraz (Dzhambul), Kazakhstan; 115 miles (185 km) W of BISHKEK (Frunze), Kyrgyzstan</areaDesc>
+<circle>42.837,72.503 0.2</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-at00085079.1.20090427T165318.727Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#at</sender>
+<sent>2009-04-27T16:53:18+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>West Coast and Alaska Tsunami Warning Center/NOAA/NWS</senderName>
+<headline>EQ 5.6 Chilpancingo, Guerrero, Mexico - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.6 occurred near Chilpancingo, Guerrero, Mexico at 16:46:32.00 UTC on Apr 27, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsus/Quakes/at00085079.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#at</contact>
+<parameter>EventTime=2009-04-27T16:46:32+00:00</parameter>
+<parameter>EventIDKey=at00085079</parameter>
+<parameter>Version=1</parameter>
+<parameter>Magnitude=5.6</parameter>
+<parameter>Depth=44.0 km (27.3 miles)</parameter>
+<parameter>HorizontalError=0.0 km</parameter>
+<parameter>VerticalError=0.0 km</parameter>
+<parameter>NumStations=31</parameter>
+<parameter>NumPhases=31</parameter>
+<parameter>MinDistance=226.6 km</parameter>
+<parameter>RMSTimeError=1.33 seconds</parameter>
+<parameter>AzimuthalGap=140 degrees</parameter>
+<area>
+<areaDesc>17 miles (28 km) S of Chilpancingo, Guerrero, Mexico; 20 miles (32 km) S of Tixtla, Guerrero, Mexico; 24 miles (39 km) S of Zumpango, Guerrero, Mexico; 43 miles (69 km) NE of Acapulco, Guerrero, Mexico</areaDesc>
+<circle>17.299,-99.472 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fya9.U.20090429T181859.116Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-29T18:18:59+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fya9.T.20090428T185457.258Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.8 San Marcos, Guerrero, Mexico - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.8 occurred near San Marcos, Guerrero, Mexico at 16:46:28.80 UTC on Apr 27, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fya9.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-27T16:46:28+00:00</parameter>
+<parameter>EventIDKey=us2009fya9</parameter>
+<parameter>Version=U</parameter>
+<parameter>Magnitude=5.8</parameter>
+<parameter>Depth=35.0 km (21.7 miles)</parameter>
+<parameter>HorizontalError=4.0 km</parameter>
+<parameter>NumStations=263</parameter>
+<parameter>NumPhases=263</parameter>
+<parameter>MinDistance=1,223.3 km</parameter>
+<parameter>RMSTimeError=0.90 seconds</parameter>
+<parameter>AzimuthalGap=86 degrees</parameter>
+<area>
+<areaDesc>19 miles (30 km) NNW of San Marcos, Guerrero, Mexico; 34 miles (55 km) SSE of Chilpancingo, Guerrero, Mexico; 35 miles (57 km) S of Tixtla, Guerrero, Mexico; 38 miles (62 km) ENE of Acapulco, Guerrero, Mexico</areaDesc>
+<circle>17.069,-99.386 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fyai.Q.20090427T210925.077Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-27T21:09:25+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fyai.6.20090427T054246.648Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.0 Visokoi Island, South Sandwich Islands - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.0 occurred near Visokoi Island, South Sandwich Islands at 04:34:42.27 UTC on Apr 27, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fyai.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-27T04:34:42+00:00</parameter>
+<parameter>EventIDKey=us2009fyai</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=5.0</parameter>
+<parameter>Depth=10.0 km (6.2 miles)</parameter>
+<parameter>HorizontalError=11.4 km</parameter>
+<parameter>NumStations=49</parameter>
+<parameter>NumPhases=49</parameter>
+<parameter>MinDistance=2,045.3 km</parameter>
+<parameter>RMSTimeError=1.06 seconds</parameter>
+<parameter>AzimuthalGap=80 degrees</parameter>
+<area>
+<areaDesc>28 miles (46 km) NNE of Visokoi Island, South Sandwich Islands; 182 miles (293 km) NNW of Bristol Island, South Sandwich Islands; 1287 miles (2071 km) ESE of STANLEY, Falkland Islands; 1891 miles (3043 km) SE of Mar del Plata, Argentina</areaDesc>
+<circle>-56.369,-26.850 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fxbh.Q.20090428T234234.343Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-28T23:42:34+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fxbh.6.20090427T001307.794Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.2 Osh, Kyrgyzstan - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.2 occurred near Osh, Kyrgyzstan at 23:54:12.67 UTC on Apr 26, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fxbh.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-26T23:54:12+00:00</parameter>
+<parameter>EventIDKey=us2009fxbh</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=5.2</parameter>
+<parameter>Depth=27.0 km (16.8 miles)</parameter>
+<parameter>HorizontalError=5.2 km</parameter>
+<parameter>NumStations=95</parameter>
+<parameter>NumPhases=95</parameter>
+<parameter>MinDistance=1,171.1 km</parameter>
+<parameter>RMSTimeError=0.81 seconds</parameter>
+<parameter>AzimuthalGap=83 degrees</parameter>
+<area>
+<areaDesc>25 miles (40 km) NNE of Osh, Kyrgyzstan; 32 miles (52 km) ENE of Andijon (Andizhan), Uzbekistan; 67 miles (108 km) E of Namangan, Uzbekistan; 162 miles (261 km) SW of BISHKEK (Frunze), Kyrgyzstan</areaDesc>
+<circle>40.959,72.966 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fxa4.7.20090426T183335.245Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-26T18:33:35+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.1 General Santos, Mindanao, Philippines - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.1 occurred near General Santos, Mindanao, Philippines at 18:14:20.66 UTC on Apr 26, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fxa4.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-26T18:14:20+00:00</parameter>
+<parameter>EventIDKey=us2009fxa4</parameter>
+<parameter>Version=7</parameter>
+<parameter>Magnitude=5.1</parameter>
+<parameter>Depth=35.0 km (21.7 miles)</parameter>
+<parameter>HorizontalError=10.1 km</parameter>
+<parameter>NumStations=37</parameter>
+<parameter>NumPhases=37</parameter>
+<parameter>MinDistance=357.0 km</parameter>
+<parameter>RMSTimeError=0.85 seconds</parameter>
+<parameter>AzimuthalGap=123 degrees</parameter>
+<area>
+<areaDesc>175 miles (281 km) SSE of General Santos, Mindanao, Philippines; 210 miles (338 km) NE of Manado, Sulawesi, Indonesia; 223 miles (358 km) SSE of Davao, Mindanao, Philippines; 594 miles (955 km) WSW of KOROR, Palau</areaDesc>
+<circle>3.996,126.565 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fxa3.7.20090426T182715.129Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-26T18:27:15+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-pt09116001.A.20090426T182637.659Z/PT</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.0 Lae, New Guinea, PNG - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.0 occurred near Lae, New Guinea, PNG at 18:11:04.03 UTC on Apr 26, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fxa3.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-26T18:11:04+00:00</parameter>
+<parameter>EventIDKey=us2009fxa3</parameter>
+<parameter>Version=7</parameter>
+<parameter>Magnitude=5.0</parameter>
+<parameter>Depth=185.4 km (115.2 miles)</parameter>
+<parameter>HorizontalError=9.2 km</parameter>
+<parameter>VerticalError=14.9 km</parameter>
+<parameter>NumStations=37</parameter>
+<parameter>NumPhases=37</parameter>
+<parameter>MinDistance=429.1 km</parameter>
+<parameter>RMSTimeError=0.80 seconds</parameter>
+<parameter>AzimuthalGap=74 degrees</parameter>
+<area>
+<areaDesc>90 miles (145 km) NNE of Lae, New Guinea, PNG; 115 miles (186 km) E of Madang, New Guinea, PNG; 147 miles (237 km) ENE of Goroka, New Guinea, PNG; 272 miles (438 km) N of PORT MORESBY, Papua New Guinea</areaDesc>
+<circle>-5.540,147.486 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fxaq.7.20090426T082409.893Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-26T08:24:09+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.2 Mendoza, Argentina - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.2 occurred near Mendoza, Argentina at 08:03:38.83 UTC on Apr 26, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fxaq.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-26T08:03:38+00:00</parameter>
+<parameter>EventIDKey=us2009fxaq</parameter>
+<parameter>Version=7</parameter>
+<parameter>Magnitude=5.2</parameter>
+<parameter>Depth=133.8 km (83.1 miles)</parameter>
+<parameter>HorizontalError=10.5 km</parameter>
+<parameter>VerticalError=3.6 km</parameter>
+<parameter>NumStations=162</parameter>
+<parameter>NumPhases=162</parameter>
+<parameter>MinDistance=444.8 km</parameter>
+<parameter>RMSTimeError=0.94 seconds</parameter>
+<parameter>AzimuthalGap=129 degrees</parameter>
+<area>
+<areaDesc>24 miles (39 km) W of Mendoza, Argentina; 96 miles (154 km) ENE of SANTIAGO, Chile; 97 miles (156 km) SSW of San Juan, Argentina</areaDesc>
+<circle>-32.814,-69.229 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fxab.U.20090428T142841.301Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-28T14:28:41+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fxab.S.20090428T142811.290Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 6.1 Raoul Island, Kermadec Islands - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 6.1 occurred near Raoul Island, Kermadec Islands at 00:06:54.36 UTC on Apr 26, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fxab.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-26T00:06:54+00:00</parameter>
+<parameter>EventIDKey=us2009fxab</parameter>
+<parameter>Version=U</parameter>
+<parameter>Magnitude=6.1</parameter>
+<parameter>Depth=142.0 km (88.2 miles)</parameter>
+<parameter>HorizontalError=6.6 km</parameter>
+<parameter>NumStations=168</parameter>
+<parameter>NumPhases=168</parameter>
+<parameter>MinDistance=132.1 km</parameter>
+<parameter>RMSTimeError=0.92 seconds</parameter>
+<parameter>AzimuthalGap=31 degrees</parameter>
+<area>
+<areaDesc>84 miles (135 km) SSW of Raoul Island, Kermadec Islands; 665 miles (1070 km) SSW of NUKU'ALOFA, Tonga; 2026 miles (3260 km) WSW of PAPEETE, Tahiti, French Polynesia</areaDesc>
+<circle>-30.289,-178.595 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-at00070440.1.20090426T001758.497Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#at</sender>
+<sent>2009-04-26T00:17:58+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>West Coast and Alaska Tsunami Warning Center/NOAA/NWS</senderName>
+<headline>EQ 6.0 Raoul Island, Kermadec Islands - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 6.0 occurred near Raoul Island, Kermadec Islands at 00:06:48.00 UTC on Apr 26, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsus/Quakes/at00070440.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#at</contact>
+<parameter>EventTime=2009-04-26T00:06:48+00:00</parameter>
+<parameter>EventIDKey=at00070440</parameter>
+<parameter>Version=1</parameter>
+<parameter>Magnitude=6.0</parameter>
+<parameter>Depth=70.0 km (43.5 miles)</parameter>
+<parameter>HorizontalError=0.0 km</parameter>
+<parameter>VerticalError=0.0 km</parameter>
+<parameter>NumStations=21</parameter>
+<parameter>NumPhases=21</parameter>
+<parameter>MinDistance=999.9 km</parameter>
+<parameter>RMSTimeError=1.17 seconds</parameter>
+<parameter>AzimuthalGap=115 degrees</parameter>
+<area>
+<areaDesc>68 miles (110 km) SSW of Raoul Island, Kermadec Islands; 650 miles (1045 km) SSW of NUKU'ALOFA, Tonga; 2013 miles (3240 km) WSW of PAPEETE, Tahiti, French Polynesia</areaDesc>
+<circle>-30.095,-178.451 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fwba.Q.20090425T204705.836Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-25T20:47:05+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fwba.6.20090425T173821.556Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.3 Buzau, Romania - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.3 occurred near Buzau, Romania at 17:18:48.53 UTC on Apr 25, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fwba.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-25T17:18:48+00:00</parameter>
+<parameter>EventIDKey=us2009fwba</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=5.3</parameter>
+<parameter>Depth=101.3 km (62.9 miles)</parameter>
+<parameter>HorizontalError=3.7 km</parameter>
+<parameter>NumStations=196</parameter>
+<parameter>NumPhases=196</parameter>
+<parameter>MinDistance=201.3 km</parameter>
+<parameter>RMSTimeError=0.97 seconds</parameter>
+<parameter>AzimuthalGap=30 degrees</parameter>
+<area>
+<areaDesc>39 miles (63 km) NNW of Buzau, Romania; 46 miles (73 km) E of Brasov, Romania; 74 miles (120 km) WNW of Galati, Romania; 89 miles (144 km) NNE of BUCHAREST, Romania</areaDesc>
+<circle>45.676,26.528 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fwat.7.20090425T141215.934Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-25T14:12:16+00:00</sent>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.0 Hachinohe, Honshu, Japan - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.0 occurred near Hachinohe, Honshu, Japan at 13:54:32.02 UTC on Apr 25, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fwat.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-25T13:54:32+00:00</parameter>
+<parameter>EventIDKey=us2009fwat</parameter>
+<parameter>Version=7</parameter>
+<parameter>Magnitude=5.0</parameter>
+<parameter>Depth=50.7 km (31.5 miles)</parameter>
+<parameter>HorizontalError=9.7 km</parameter>
+<parameter>VerticalError=6.2 km</parameter>
+<parameter>NumStations=45</parameter>
+<parameter>NumPhases=45</parameter>
+<parameter>MinDistance=207.2 km</parameter>
+<parameter>RMSTimeError=0.59 seconds</parameter>
+<parameter>AzimuthalGap=157 degrees</parameter>
+<area>
+<areaDesc>38 miles (62 km) ESE of Hachinohe, Honshu, Japan; 69 miles (111 km) NE of Morioka, Honshu, Japan; 85 miles (137 km) ESE of Aomori, Honshu, Japan; 347 miles (558 km) NNE of TOKYO, Japan</areaDesc>
+<circle>40.304,142.180 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fvaq.Q.20090424T063544.338Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-24T06:35:44+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fvaq.7.20090424T055733.556Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Moderate</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.2 Raoul Island, Kermadec Islands - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.2 occurred near Raoul Island, Kermadec Islands at 05:37:35.37 UTC on Apr 24, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fvaq.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-24T05:37:35+00:00</parameter>
+<parameter>EventIDKey=us2009fvaq</parameter>
+<parameter>Version=Q</parameter>
+<parameter>Magnitude=5.2</parameter>
+<parameter>Depth=10.0 km (6.2 miles)</parameter>
+<parameter>HorizontalError=13.8 km</parameter>
+<parameter>NumStations=34</parameter>
+<parameter>NumPhases=34</parameter>
+<parameter>MinDistance=870.9 km</parameter>
+<parameter>RMSTimeError=1.16 seconds</parameter>
+<parameter>AzimuthalGap=127 degrees</parameter>
+<area>
+<areaDesc>169 miles (273 km) S of Raoul Island, Kermadec Islands; 744 miles (1197 km) S of NUKU'ALOFA, Tonga; 2009 miles (3233 km) SW of PAPEETE, Tahiti, French Polynesia</areaDesc>
+<circle>-31.697,-177.669 0.2</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+<identifier>USGS-earthquakes-us2009fsa1.R.20090424T051647.785Z</identifier>
+<sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
+<sent>2009-04-24T05:16:47+00:00</sent>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<references>USGS-earthquakes-us2009fsa1.Q.20090421T103348.328Z/http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</references>
+<info>
+<category>Geo</category>
+<event>Earthquake</event>
+<urgency>Past</urgency>
+<severity>Unknown</severity>
+<certainty>Likely</certainty>
+<senderName>U.S. Geological Survey</senderName>
+<headline>EQ 5.4 Atka, AK - PRELIMINARY REPORT</headline>
+<description>An earthquake with magnitude 5.4 occurred near Atka, AK at 08:37:30.11 UTC on Apr 21, 2009. (This event has been reviewed by a seismologist.)</description>
+<web>http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009fsa1.php</web>
+<contact>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</contact>
+<parameter>EventTime=2009-04-21T08:37:30+00:00</parameter>
+<parameter>EventIDKey=us2009fsa1</parameter>
+<parameter>Version=R</parameter>
+<parameter>Magnitude=5.4</parameter>
+<parameter>Depth=76.3 km (47.4 miles)</parameter>
+<parameter>HorizontalError=5.5 km</parameter>
+<parameter>VerticalError=2.6 km</parameter>
+<parameter>NumStations=277</parameter>
+<parameter>NumPhases=277</parameter>
+<parameter>MinDistance=43.7 km</parameter>
+<parameter>RMSTimeError=0.79 seconds</parameter>
+<parameter>AzimuthalGap=87 degrees</parameter>
+<area>
+<areaDesc>34 miles (54 km) E of Atka, AK; 139 miles (224 km) ENE of Adak, AK; 197 miles (317 km) WSW of Nikolski, AK; 1079 miles (1736 km) WSW of Anchorage, AK</areaDesc>
+<circle>52.269,-173.423 0.0</circle>
+</area>
+</info>
+</alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081215T194706</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081215T194706.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>flash flood warning</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for the Santiago Fire in Orange County</headline>
+    <description>At 10:14 AM, December, 15, 2008, the National Weather Service in San Diego issued a Flash Flood Warning for the area burned by the Santiago Fire in Orange County California.  Areas potentially affected by this warning include the area burned by the 2007 Santiago Fire, Silverado Canyon, Fremont Canyon, the towns of Silverado and Modjeska, and the cities of Tustin Foothills, Tustin, and Mission Viejo.  Debris flows issuing from burned basins can impact roads travelling up Silverado Creek, Williams Canyon, Harding Canyon and Modjeska Creek.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>the area burned by the Santiago Fire in Orange County, California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081215T171517</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081215T171517.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for Southwestern San Bernardino, North-Central Orange, and Northwestern Riverside Counties in Southwest California</headline>
+    <description>At 6:30 AM, December, 15, 2008, the National Weather Service in San Diego issued a Flash Flood Warning for the area burned by the Freeway Complex.  Areas potentially affected by debris flows are Olinda Village near Brea, Carbon Canyon, Brush Canyon, Box Canyon and San Antonio near Yorba Linda, and the Cascade apartments in Anaheim.  Residents and motorists in, and below the recently burned areas should be alert to debris flows that may block roads and culverts.  </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Area burned by the Freeway Complex in San Bernardino, Orange, and Riverside Counties, California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081215T171316</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081215T171316.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for the Burned Areas in eastern Ventura, and western Los Angeles Counties, California</headline>
+    <description>At 3:20 AM, December, 15, 2008, the National Weather Service in Oxnard issued Flash Flood Warnings for the areas burned by the Corral, Sesnon, Sayre, Marek, Griffith Park, Barham, Ranch, Buckweed, Magic, Santa Anita, and North Fires in eastern Ventura and western Los Angeles Counties.  Doppler radar has indicated that heavy rainfall is moving east towards the burned areas.  Rainfall may meet or exceed USGS thresholds for rainfall conditions that may trigger debris flows in burned areas.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Areas burned by the Corral, Sesnon, Sayre, Marek, Griffith Park, Barham, Ranch, Buckweed, Magic, Santa Anita, and North fires in Ventura and Los Angeles Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081215T171057</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081215T171057.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for the Burned Areas in Santa Barbara County, California</headline>
+    <description>At 12:21 AM, December, 15, 2008, the National Weather Service in Oxnard issued a Flash Flood Warnings for the areas burned by the Gap and Tea fires.  Locations in the warning include, but are not limited to, locations near and downstream of the burned areas burned by the Gap and Tea fires.   </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Areas burned by the Gap and Tea Fires in Santa Barbara County, California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081126T163623</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081126T163623.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for Santa Barbara County</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for Santa Barbara County</headline>
+    <description>At 10:58 PM, Nov. 25, 2008, the National Weather Service issued a Flash Flood Warning for the area burned by the Tea Fire.  Areas potentially affected include the city of Montecito, highway 192 and Mountain Drive in the vicinity of Westmont College.  </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Area burned by the Tea Fire in Santa Barbara County</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081126T163327</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081126T163327.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for Los Angeles County</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for Los Angeles County</headline>
+    <description>Between 1:23 AM and 2:20 AM, Nov. 26, 2008, the National Weather Service in Oxnard, CA, issued a Flash Flood Warnings for areas burned by the Sayre, Marek, Sesnon, and Santa Anita fires in Los Angeles County.  </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Areas burned by the Sayre, Marek, Sesnon, and Santa Anita fires in Los Angeles County</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20081126T162948</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20081126T162948.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for Los Angeles County</event>
+    <urgency>Immediate</urgency>
+    <severity>Extreme</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for San Bernardino, Orange, and Riverside Counties</headline>
+    <description>At 3:28 AM, Nov. 26, 2008, the National Weather Service in San Diego, CA, issued a Flash Flood Warning for the area burned by the Freeway Complex in southwestern San Bernardino, north-central Orange, and northwestern Riverside Counties in Southern California.  Areas prone to debris flow include the cities of Yorba Linda, San Antonio, Brea, Olinda Village, and portions of Anaheim (Cascade Apartments).  Carbon Canyon, Brush Canyon, Box Canyon are also prone to debris flow and mandatory evacuations have occurred in some of these canyons in the Yorba Linda area.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Area burned by the Freeway Complex in southwestern San Bernardino, north-central Orange, and northwestern Riverside Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20080522T201150</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20080522T201150.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for North-Central San Diego County, in Southwest California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joe Gartner</senderName>
+    <headline>Flash Flood Warning for North-Central San Diego County, in Southwest California</headline>
+    <description>On Thursday, May 22, 2008, the National Weather Service issued a flash flood warning for North Central San Diego County in Southwest California.  Locations in the warning include but are not limited to: Fallbrook, Rainbow, Pauma Valley, Palomar Mountain, Rincon and Valley Center.  Areas burned by the Rice and Poomacha Fires will also be affected.  </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>North-Central San Diego County in Southwest California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20080522T191306</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20080522T191306.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warning</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joe Gartner</senderName>
+    <headline>Flash Flood Warning for the Santiago and Sierra Burned Areas in San Bernardino, Riverside and Orange Counties, CA</headline>
+    <description>On Thursday, May 22, 2008 the National Weather Service issued a flash flood warning for Southwestern San Bernardino County, Northeastern Orange County, and Western Riverside Counties, in Southwest California.  This includes the cities of Yorba Linda and Corona.  In addition to flash flooding, rainfall is expected to cause debris flows in the areas burned by the Santiago and Sierra fires.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Burned areas in Southwestern San Bernardino County, Northeastern Orange County, and Western Riverside Counties, in Southwest California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20071207T172254</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20071207T172254.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for Western San Diego County and the Poomacha, Rice and Witch Burned Areas</headline>
+    <description>On Friday, December 07, 2007, the National Weather Service issued a flash flood warning for western San Diego County in Southwest California.  This includes the cities of Ramona, Poway, Escondido, El Cajon, Valley Center, Santee and Lakeside.  In addition to flash flooding, rainfall is expected to cause debris flows in the Poomacha, Rice, and Witch fire burned areas. </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <area>
+      <areaDesc>Burned areas in western San Diego County, CA</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20071130T235305</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20071130T235305.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood Warning for the Poomacha, Rice, Santiago, Grass Valley, Slide, Pinnacles and Emerald Burn Areas in San Diego and San Bernardino Counties, CA</headline>
+    <description>On Friday, November 30, 2007, the National Weather Service issued flash flood warnings for the Poomacha, Rice, Santiago, Grass Valley, Slide, Pinnacles and Emerald  burn areas in San Diego and San Bernardino Counties.  The watch is in effect until 5:30 pm pst.  Heavy rain capable of producing significant mud and debris flows was occurring over the warned area.  Locations in the warning include, but are not limited to, Palomar Mountain.  Debris flows and rock slides are expected with this storm.  These can potentially trap and kill people caught in their path.  Excessive runoff from heavy rainfall will cause flooding of small creeks and streams, country roads and farmland along the banks of creeks and streams.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20071130T211526</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20071130T211526.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for the Poomacha and Rice Burn Areas in San Diego County, CA</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joe Gartner</senderName>
+    <headline>Flash Flood Warning for the Poomacha and Rice Burn Areas in San Diego County, CA</headline>
+    <description>On Friday, November 30, 2007, the National Weather Service issued a flash flood warning for the Poomacha and Rice burn areas in north-central San Diego County.  The watch is in effect until 11:45 am pst.  At 9:32 am, heavy rain capable of producing significant mud and debris flows was occurring over the warned area.  Locations in the warning include, but are not limited to, Palomar Mountain.  Debris flows and rock slides are expected with this storm.  These can potentially trap and kill people caught in their path.  Excessive runoff from heavy rainfall will cause flooding of small creeks and streams, country roads and farmland along the banks of creeks and streams.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20071130T192344</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20071130T192344.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for the Poomacha and Rice Burn Areas in San Diego County, CA</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for the Poomacha and Rice Burn Areas in San Diego County, CA</headline>
+    <description>On Friday, November 30, 2007, the National Weather Service issued a flash flood warning for the Poomacha and Rice burn areas in north-central San Diego County.  The watch is in effect until 11:45 am pst.  At 9:32 am, heavy rain capable of producing significant mud and debris flows was occurring over the warned area.  Locations in the warning include, but are not limited to, Palomar Mountain.  Debris flows and rock slides are expected with this storm.  These can potentially trap and kill people caught in their path.  Excessive runoff from heavy rainfall will cause flooding of small creeks and streams, country roads and farmland along the banks of creeks and streams.</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <area>
+      <areaDesc>The Poomacha and Rice burned areas in North Central San Diego county in Southwest California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20070831T220147</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20070831T220147.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for South Central San Bernardino County, California</event>
+    <urgency>Immediate</urgency>
+    <severity>Extreme</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for South Central San Bernardino County, California</headline>
+    <description>On Friday, August 31, 2007, the National Weather Service issued a flash flood warning for South Central San Bernardino County in Southeast California.  This warning includes the areas near Big Bear Lake and Lake Arrowhead, Big Bear city and the watersheds burned by the Pinnacles and Millard-Heart-Sawtooth Complex fires and is in effect until 4:30 pm pdt.  State highway 173, north of Lake Arrowhead and the neigborhoods of Morongo Valley, Yucca Valley and Pioneertown will be subject to flash flooding and debris flows.  Roads within the burned areas, including Big Morongo Canyon Rd, may also be impacted</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>South Central San Bernardino County in Southeast California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20070831T215151</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20070831T215151.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for western Riverside County, California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for western Riverside County, California</headline>
+    <description>On Friday, August 31, 2007 the National Weather Service issued a flash flood warning for western Riverside county in southwest California.  This warning includes the cities of Beaumont, Banning, Temecula and Hemet, and is in effect until 4:30 pm pdt.  At 2:22 pm pdt, flash flooding was reported from a thunderstorm over the warned area.  
+
+The watersheds recently burned by the Esperanza fire will be particularly susceptible to flash floods and debris flows during the rainstorms.  Communities of Beaumont and Banning, located adjacent to the burned area, including Smith canyon and Potrero creek may be affected by these events.  Roads that cross burned drainages are also susceptible to flash flooding and debris flows.  These include, but are not limited to; Beaumont ave., Circle C rd., Castille Cyn rd., Highland Springs ave., Old Banning Idyllwild rd., shirleon dr., Poppet Flats rd., state Highway 243, Cryer drive and Mt. Edna rd.
+</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Western Riverside County in Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20070815T185348</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20070815T185348.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>cap:alert</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash flood Warning for South Central San Bernardino, Western Riverside, and North Central San Diego Counties in Southwest California</headline>
+    <description>On Tuesday, Aug. 14, 2007 the National Weather Service issued a flash flood warning for south central San Bernardino county and western Riverside county and north central San Diego county in Southwest California.  This warning includes, but is not limited to, the cities of East Hemet, Forest Falls, Idyllwild, Valle Vista, Cherry Valley, Beaumont and Banning.  The warning is effective until 4:30 pm pdt.
+
+The watersheds recently burned by the Esperanza fire will be particularly susceptible to flash floods and debris flows during the rainstorms.  Communities of Beaumont and Banning, located adjacent to the burned area, includeing Smith canyon and Potrero creek may be affected by these events.  Roads that cross burned drainages are also susceptible to flash flooding and debris flows.  These include, but are not limited to; Beaumont ave., Circle C rd., Castille Cyn rd., Highland Springs ave., Old Banning Idyllwild rd., shirleon dr., Poppet Flats rd., state Highway 243, Cryer drive and Mt. Edna rd.
+</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <web>http://landslides.usgs.gov/index.php</web>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>South Central San Bernardino, Western Riverside, and North Central San Diego Counties, Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20070815T172303</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20070815T172303.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warning</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash flood Warning for South Central San Bernardino, Western Riverside, and North Central San Diego Counties in Southwest California</headline>
+    <description>On Tuesday, Aug. 14, 2007 the National Weather Service issued a flash flood warning for south central San Bernardino county and western Riverside county and north central San Diego county in Southwest California.  This warning includes, but is not limited to, the cities of East Hemet, Forest Falls, Idyllwild, Valle Vista, Cherry Valley, Beaumont and Banning.  The warning is effective until 4:30 pm pdt.
+
+The watersheds recently burned by the Esperanza fire will be particularly susceptible to flash floods and debris flows during the rainstorms.  Communities of Beaumont and Banning, located adjacent to the burned area, includeing Smith canyon and Potrero creek may be affected by these events.  Roads that cross burned drainages are also susceptible to flash flooding and debris flows.  These include, but are not limited to; Beaumont ave., Circle C rd., Castille Cyn rd., Highland Springs ave., Old Banning Idyllwild rd., shirleon dr., Poppet Flats rd., state Highway 243, Cryer drive and Mt. Edna rd.
+</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <area>
+      <areaDesc>South Central San Bernardino, Western Riverside, and North Central San Diego Counties, Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20061222T180629</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20061222T180629.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warning for Southwestern San Bernardino County in Southern California</event>
+    <urgency>Past</urgency>
+    <severity>Moderate</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Warning for Southwestern San Bernardino County in Southern California</headline>
+    <description>On Saturday, December 16, 2006 the National Weather Service issued a Flash Flood Warning for the cities of Yucaipa, Redlands, Highland and particularly Plunge Creek north of Highland.  Doppler radar indicated flash flooding for a stationary thunderstorm near Plunge Creek.  In addition to flash flooding, rainfall is expected to cause debris flows in recently burned areas.  Residents and motorists in and below burned areas should be alert to heavy mud and debris flows which may block roads and culverts.  Potentially dangerous flooding and property loss could result in areas where runoff is restricted or blocked.  This warning was cancelled at 8:00 pm December, 16, 2006</description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20061211T180338</identifier>
+  <sender>jegartner@usgs.gov</sender>
+  <sent>20061211T180338.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warnings for Recently Burned Areas in Southern California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Warnings for Recently Burned Areas in Southern California</headline>
+    <description>On Saturday, December, 9, 2006 the National Weather Service issued Flash Flood Warnings for specific burned areas in Southern California.  Areas in, or below steep slopes in the Topanga, Shekell, Day, and School fire burn areas are at risk and are susceptible to flash flooding, mud slides, rock slides and debris flows.  Residents and motorists in and below burned areas should be alert to heavy mud and debris flows which may block roads and culverts.  Potentially dangerous flooding and property loss could result in areas where runoff is restricted or blocked.  </description>
+    <instruction>A flash flood warning means that flooding is imminent or occurring.  If you are in the warning area, move to higher ground immediately.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Los Angeles and Ventura Counties in Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060831T184846</identifier>
+  <sender>gwieczor@usgs.gov</sender>
+  <sent>20060831T184846.000Z</sent>
+  <status>Test</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Hurricane Ernesto</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>Gerald F. Wieczorek</senderName>
+    <headline>USGS Issues Landslide Alert for Hurricane Ernesto in Mountainous Eastern United States</headline>
+    <description>Recent rainfall has soaked hillsides in the mountainous areas of the southeastern United States. In the Appalachian Mountains of North Carolina and the Blue Ridge Mountains of Virginia, 4.5 to 5.3 inches of rain has already occurred in the last several days before August 31, 2006. This preliminary rainfall soaking the soil and rock of hillsides can make these regions highly susceptible to landslides if major rainfall occurs when Hurricane or Tropical Storm Ernesto reaches these areas in the next couple of days, which is the predicted direction of the major rainfall of the continuing path of the hurricane. Rain is expected to persist throughout the central and northern Eastern United States beginning soon and continuing through this weekend. If the rainfall is intense, fast moving landslides, e.g. debris flows and rock falls, may be initiated. With less intense rainfall, but consistent heavy rain lasting for several days, more slowly moving landslides, such as earth slumps and block slides, are likely to initiate. Based on previous damaging hurricanes and heavy storms, parts of the mountainous Eastern United States, specifically Virginia, are particularly prone to landslides including the areas in the Appalachians and Blue Ridge Mountains. Such landslides can occur on hillsides that have slope as little as approximately 15 degrees. The combination of saturated soil and rock, heavy rainfall (perhaps the approximately maximum predicted 6.9 inches in 24 hours), could possibly trigger rapidly moving landslides from steep hillside slopes that contain weakened geologic materials.</description>
+    <instruction>See instructions at http://landslides.usgs.gov/learningeducation/hazards.php</instruction>
+    <web>http://landslides.usgs.gov/learningeducation/hazards.php</web>
+    <contact>Gerald F. Wieczorek</contact>
+    <area>
+      <areaDesc>The principal target area of the landslide alert from the heavy rainfall is the mountainous region of Virginia</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060721T154051</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060721T154051.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Warning for North Central Los Angeles County in Southwest California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood Warning for North Central Los Angeles County in Southwest California</headline>
+    <description>At 4:52 pm, Thursday, July 20,2006 the National Weather Service in Oxnard issued a Flash Flood Warning for North Central Los Angeles County in Southwest California.  This warning is in effect until 6:15 pm, and includes the Antelope Valley cities of Lancaster and Palmdale.  At 4:48 pm local law enforcement officials reported flash flooding between Highway 138 and Avenue K to the Kern County line.  Excessive runoff from heavy rainfall will cause flooding of small low water crossings, urban areas, highways, streets, underpasses and other drainage areas and low lying spots. </description>
+    <instruction>Do not drive your vehicle into areas where the water covers the roadway.  The water depth may be too great to allow your car to cross safely.  Move to higher ground.  Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire.</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>North Central Los Angeles County in Southwest California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060720T201808</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060720T201808.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 11:43 am, Thursday, July 20, 2006 the National Weather Service of San Diego issued a Flash Flood Watch.  Areas in, or below steep slopes in the Sawtooth and Millard Burn areas and are especially at risk and are the most susceptible to flash flooding, mud slides, rock slides and debris flows.  A flow of monsoon moisture into Southern California will continue to bring scattered showers and thunderstorms today.  Thunderstorms this afternoon and evening will have the potential to produce locally heavy rainfall rates of up to three quarters of an inch per hour. </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire.</instruction>
+    <contact>jegartner@yahoo.com</contact>
+    <area>
+      <areaDesc>Southern California, San Diego County and Recently Burned Areas</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060720T161849</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060720T161849.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 3:57 am, Thursday, July 20, 2006 the National Weather Service for Los Angeles and Oxnard, California issued a flash flood watch for the mountains of Los Angeles, Ventura and Santa Barbara Counties.  An influx of deep subtropical moisture into Southwestern California will cause an increasing chance of showers and thunderstorms today.  The chance of thunderstorms will be greatest this afternoon and evening across the Cuyama Valley, Antelope Valley and the Santa Barbara Mountains, Ventura and Los Angeles Counties excluding the Santa Monica Mountains.  The mid and upper level winds which will be steering any thunderstorms will be very weak.  Therefore thunderstorms and heavy showers could linger over any particular area for a while, producing heavy rainfall and a threat of flash flooding and debris flows.  The Perkins Burn Area is a recent fire that will be particularly vulnerable to flash flooding with debris flows should thunderstorms develop over that region this afternoon through this evening.</description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire.  Campers, hikers and others spending time in the mountains should avoid narrow canyon areas that could flood rapidly in response to even distant thunderstorms.  Keep escape routes in mind and be prepared to climb to higher ground with little or no notice.  </instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Southern California, including the Cuyama Valley, Antelope Valley and the Santa Barbara Mountains, Ventura and Los Angeles Counties excluding the Santa Monica Mountains</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060720T160742</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060720T160742.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California has been canceled</event>
+    <urgency>Past</urgency>
+    <severity>Minor</severity>
+    <certainty>Unlikely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California has been canceled</headline>
+    <description>The flash flood watch for the Antelope Valley, Cuyama Valley, Los Angeles County Mountains excluding the Santa Monica Range, San Luis Obispo County Interior Valleys, San Luis Obispo Mountains, Santa Barbara County Mountains and Ventura County Mountains of Southern California has been cancelled.  Shower and thunderstorm activity was greatly inhibited across the region this afternoon and any isolated showers that develop through the early evening are not expected to produce flash flooding.  </description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Southern California, includeing portions of Los Angeles, Ventura, Santa Barbara and San Luis Obispo Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060720T160202</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060720T160202.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 10:20 am, Wednesday, July 19, 2006 the National Weather Service for Los Angeles and Oxnard, California issued a flash flood watch for portions of Los Angeles, Ventura, Santa Barbara and San Luis Obispo Counties.  A moist tropical airmass over the region has produced the potential for thunderstorms with heavy downpours that could produce flash flooding.  This threat will develop this afternoon and continue through the evening hours and this watch is in effect from 1 pm to 8 pm.  The flash flood watch includes the following areas in southwest California; Antelope Valley, Cuyama Valley, Los Angeles County Mountains excluding the Santa Monica Range, San Luis Obispo County Interior Valleys, San Luis Obispo Mountains, Santa Barbara County Mountains and Ventura County Mountains.  The Perkins Burn Area is a recent fire that will be particularly vulnerable to flash flooding with debris flows should thunderstorms develop over that region later in the day.   </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire.  Campers, hikers and others spending time in the mountains should avoid narrow canyon areas that could flood rapidly in response to even distant thunderstorms.  Keep escape routes in mind and be prepared to climb to higher ground with little or no notice.  </instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Portions of Los Angeles, Ventura, Santa Barbara and San Luis Obispo Counties, and recently burned areas</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060719T153717</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060719T153717.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California has been cancelled</event>
+    <urgency>Past</urgency>
+    <severity>Minor</severity>
+    <certainty>Unlikely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern Canlifornia has been cancelled</headline>
+    <description>At 5:32 pm, Tuesday, July 18, 2006, th National Weather Service cancelled the Flash Flood and Debris Flow Watch for the Sawtooth and Millard burned areas, including portions of Apple and Lucerne Valleys, Coachella Valley and San Bernardino and Riverside County mountains.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Southern California; Sawtooth and Millard burned areas, including portions of Apple and Lucerne Valleys, Coachella Valley and San Bernardino and Riverside County mountains</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060719T152725</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060719T152725.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California has been cancelled</event>
+    <urgency>Past</urgency>
+    <severity>Moderate</severity>
+    <certainty>Unlikely</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California has been cancelled</headline>
+    <description>The flash flood watch for the Cuyama Valley, San Luis Obispo County Mountains, Santa Barbara County Mountains and Ventura County Mountains was cancelled at 7:22 pm, Tuesday, July 18, 2006.  Thunderstorm activity dissipated or moved out of the region</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Southern California; Cuyama Valley, San Luis Obispo County Mountains, Santa Barbara County Mountains and Ventura County Mountains</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060718T213923</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060718T213923.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 2:08 pm on Tuesday July 18, 2006 the National Weather Service issued a flash flood watch for portions of Ventura, Santa Barbara and San Luis Obispo counties.  Of particular concern is the Perkins burn area in Santa Barbara County that would be prone to mud and debris flows if heavy showers develop over the region.  A moist, tropical airmass over the region today has produced the potential for thunderstorms with heavy downpours that could produce flash flooding.  This threat will develop as the afternoon progresses and will continue through the early evening hours until 8:00 pm.  Thunderstorms this afternoon and early evening have the potential for producing heavy downpours with flash flooding.  Flash flooding could result in flooded rural roadways and debris flows near and downstream of the Perkins burn area.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Southwestern California; Portions of Ventura, Santa Barbara and San Luis Obispo Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060718T193716</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060718T193716.000Z</sent>
+  <status>Actual</status>
+  <msgType>Update</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 11:24 am PDT on Tuesday, July 18, 2006, the National Weather Service extended the Flash Flood and Debris Flow Watch for the Sawtooth and Millard burned areas until 9:00 pm PDT.  A flow of monsoonal moisture into southern California will bring favorable conditions for showers and thunderstorms.  Storms will have the potential to produce locally heavy rain and thus flash flooding and debris flows from the Sawtooth and Millard burn areas.  Locally heavy rainfall rates up to two thirds of an inch per hour will be possible. </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Southwestern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060717T220303</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060717T220303.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Sue Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 2:08 pm PDT on Monday, July 17, 2006, the National Weather Service issued a Flash Flood and Debris Flow Watch for the Sawtooth and Millard burned areas, including portions of Apple and Lucerne Valleys, Coachella Valley and San Bernardino and Riverside County mountains.  The Watch remains in effect through Tuesday evening.  A flow of monsoonal moisture will continue into southern California through this week and will bring favorable conditions for showers and thunderstorms.  Storms will have the potential to produce locally heavy rain and thus flash flooding and debris flows from the Sawtooth and Millard burn areas.  Locally heavy rainfall rates up to two thirds of an inch per hour will be possible. </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>Cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Southwestern California </areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060522T153745</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060522T153745.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Cancelled</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Cancelled</headline>
+    <description>At 6:02 am PST on Monday May 22, 2006 the flash flood watch for the recently burned areas in Santa Barbara, Ventura and Los Angeles Counties was cancelled.    The bulk of the heavy showers and isolated thunderstorms have moved to the east of Los Angeles and Ventura Counties.  There will still be a chance of showers through the afternoon but rainfall rates will be well below the rainfall thresholds for flash floods and debris flows from recently burned areas. </description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Santa Barbara, Ventura and Los Angeles Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060522T144154</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060522T144154.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 8:41 pm PDT on Saturday May 20, 2006, the National Weather Service issued a Flash Flood and Debris Flow Watch for recently burned areas in Santa Barbara, Ventura and Los Angeles Counties.  The Watch remains in effect for Monday morning, May 22, 2006.  A strong Pacific storm system could bring rainfall rates of one half of an inch per hour; these rates exceed USGS rainfall thresholds for flash floods and debris flows from recently burned areas.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Santa Barbara, Ventura and Los Angeles Counties in southwestern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060406T213015</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060406T213015.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Expired flash flood watch for recently burned areas in southern California</event>
+    <urgency>Unknown</urgency>
+    <severity>Unknown</severity>
+    <certainty>Unknown</certainty>
+    <senderName>Joseph Gartner</senderName>
+    <headline>FLASH FLOOD WATCH WILL EXPIRE AT 2 PM PDT THIS AFTERNOON</headline>
+    <description>THE FLASH FLOOD WATCH FOR THE BURN AREAS OF SOUTHWEST CALIFORNIA
+WILL EXPIRE AT 2 PM PDT THIS AFTERNOON.
+
+SCATTERED SHOWERS ARE EXPECTED TO CONTINUE THROUGH THE EARLY
+EVENING HOURS. SOME SHOWERS MAY PRODUCE BRIEF HEAVY RAIN.
+HOWEVER...THE SHOWERS ARE MOVING RAPIDLY EAST AND ANY HEAVY RAIN
+THAT DOES FALL IS NOT EXPECTED TO LINGER OVER ANY ONE AREA FOR
+MORE THAN A FEW MINUTES. AS A RESULT...BURN AREA MUD AND DEBRIS
+FLOWS ARE NO LONGER EXPECTED.</description>
+    <contact>jegartner@usgs.gov</contact>
+    <area>
+      <areaDesc>Recently burned areas in Ventura and Los Angeles Counties, Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060403T214057</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060403T214057.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Landslide Alert for San Francisco Bay Area, California</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Likely</certainty>
+    <headline>Landslide Alert for San Francisco Bay Area, California</headline>
+    <description>Description: Recent almost continuous rainfall has soaked hillsides in the San Francisco Bay area making them highly susceptible to landslides. Large slow-moving landslides have already recently occurred in San Mateo and Marin Counties. Rain is expected to continue throughout this week and more slow moving landslides are expected to initiate and start moving during the next several weeks even after the rain stops. Parts of the Bay Area particularly prone to landslides include the areas in or near the Santa Cruz Mountains, Mount Tamalpais and the East Bay hills.  Such landslides can occur on hillsides that slope as little as 5-8 degrees. Heavy rainfall, perhaps 5 inches in 24 hours, could also trigger rapidly moving debris flows from steep slopes.</description>
+    <instruction>See instructions at http://landslides.usgs.gov/learningeducation/hazards.php</instruction>
+    <web>http://landslides.usgs.gov/learningeducation/docs/sfbayfs97.pdf</web>
+    <contact>Gerald Wieczorek, gwieczor@usgs.gov </contact>
+    <area>
+      <areaDesc>Marin, Napa, Alameda, Contra Costa, Santa Cruz, San Mateo, Sonoma, , Solano, and Santa Clara counties, and San Francisco City and County, California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060403T190431</identifier>
+  <sender>gwieczor@usgs.gov</sender>
+  <sent>20060403T190431.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Landslide alert for San Francisco Bay Area, California</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Likely</certainty>
+    <senderName>gwieczor@usgs.gov </senderName>
+    <headline>USGS issues Landslide Alert for San Francisco Bay Area, California</headline>
+    <description>Recent, almost continuous rainfall has soaked hillsides in the San Francisco Bay area making them highly susceptible to landslides. Large slow-moving landslides have already recently occurred in San Mateo and Marin Counties. Rain is expected to continue throughout this week and more slow moving landslides are expected to initiate and start moving during the next several weeks even after the rain stops. Parts of the Bay Area particularly prone to landslides include the areas in or near the Santa Cruz Mountains, Mount Tamalpais and the East Bay hills.  Such landslides can occur on hillsides that slope as little as 5-8 degrees. Heavy rainfall, perhaps 5 inches in 24 hours, could also trigger rapidly moving debris flows from steep slopes.</description>
+    <instruction>See instructions at http://landslides.usgs.gov/learningeducation/hazards.php</instruction>
+    <web>http://landslides.usgs.gov/learningeducation/docs/sfbayfs97.pdf</web>
+    <contact>Gerald Wieczorek</contact>
+    <area>
+      <areaDesc>Marin, Napa, Alameda, Contra Costa, Santa Cruz, San Mateo, Sonoma, Solano, and Santa Clara counties, and San Francisco City and County, California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060403T170312</identifier>
+  <sender>dakinner@usgs.gov</sender>
+  <sent>20060403T170312.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>David Kinner</senderName>
+    <headline>Flash Flood Watch for Recently Burned Areas in Southern California</headline>
+    <description>A Flash Flood and Debris Flow Watch issued by the National Weather Service for recently burned areas in Ventura and Los Angeles Counties for Monday April 3 through Wednesday morning, April 5.  There could be rainfall rates of one half inches per hour; these rates exceed USGS rainfall thresholds for flash floods and debris flows from recently burned areas.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>David Kinner</contact>
+    <area>
+      <areaDesc>Recently burned areas in Ventura and Los Angeles Counties, Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060329T173921</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060329T173921.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Expires</event>
+    <urgency>Unknown</urgency>
+    <severity>Unknown</severity>
+    <certainty>Unknown</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Expires</headline>
+    <description>At 10:00 am PST on Wednesday March 29, the flash flood watch for the recently burn areas in Orange, Riverside, San Bernardino and San Diego Counties expired.    The threat of flash floods and debris flows no longer exists for the burned areas. </description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Orange, Riverside, San Bernardino and San Diego Counties in southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060329T154011</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060329T154011.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>A Flash Flood and Debris Flow Watch issued by the National Weather Service for recently burned areas in San Bernardino, Orange, Riverside, and San Diego Counties remains in effect until 10:00 am PST, Wednesday March 29, 2006.  There could be rainfall rates of one third to two thirds of an inch per hour; these rates exceed USGS rainfall thresholds for flash floods and debris flows from recently burned areas.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>San Bernardino, Riverside, Orange and San Diego Counties in southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060329T152520</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060329T152520.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warning for the Harvard Burned Area in Southern California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Warning for the Harvard Burned Area in Southern California</headline>
+    <description>At 1:42 am PST on Wednesday, March 29, the National Weather Service issued a Warning for flash flood and debris-flow activity from the Harvard burned area above Burbank, Central Los Angeles County, California.  NWS Doppler radar indicated heavy showers moving into the Harvard burned area.  Automated rain gages reported more than one third of an inch of rain in one half hour.  Rainfall at these rates will likely result in flash floods and debris flows in and below the Harvard burned area.  The Warning is in effect until 2:45 am PST. </description>
+    <instruction>If you are in the warning area, move immediately to higher ground.  Residents living along streams and creeks should take immediate precautions to protect life and property.  Do not attempt to cross swiftly flowing waters or waters of unknown depth by foot or by automobile.  For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Verdugo Hills above the city of Burbank, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060329T151523</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060329T151523.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Cancelled</event>
+    <urgency>Unknown</urgency>
+    <severity>Unknown</severity>
+    <certainty>Unknown</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Cancelled</headline>
+    <description>At 9:47 pm PST on Tuesday March 28, the National Weather Service cancelled the flash flood watch of the recent burn areas in Los Angeles and Ventura Counties in southwest California.  The frontal system responsible for producing heavy rain across southwestern California during the past day has moved eastward out of the area.  The threat of flash floods and debris flows no longer exists for the burned areas.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>south western California, including Ventura and Los Angeles Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060328T212426</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060328T212426.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch Remains in Effect for Recently Burned Areas in Southern California</event>
+    <urgency>Future</urgency>
+    <severity>Unknown</severity>
+    <certainty>Possible</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch Remains in Effect for Recently Burned Areas in Southern California</headline>
+    <description>The Flash Flood and Debris Flow Watch issued by the National Weather Service for areas of Ventura and Los Angeles Counties burned in 2005 remains in effect as of 12:33 PST, Tuesday March 28, 2006.  Burned areas include the School Canyon, Topanga, Harvard, Tovey and Gorman Fires.  Rainfall intensities could exceed one half an inch per hour; these rates exceed USGS rainfall thresholds for flash floods and debris flows from recently burned areas.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>southwestern California, including Ventura and Los Angeles Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060327T182752</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060327T182752.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 9:59 am PST on Monday, March 27, the National Weather Service issued a Watch for flash flood and debris flows from areas of Ventura and Los Angeles Counties burned in 2005.  These include the School Canyon, Topanga, Harvard, Tovey and Gorman Fires.  Rainfall rates could reach one half to three quarters of an inch per hour; these rates exceed USGS rainfall thresholds for flash floods and debris flows from recently burned areas.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should monitor later forecasts and be prepared to take protective action should flash flood warnings be issued.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <area>
+      <areaDesc>south western California, including Ventura and Los Angeles Counties </areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060327T144239</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060327T144239.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 4:09 am PST on Monday, March 27, the National Weather Service issued a Watch for flash flood and debris flows from recently burned areas of Ventura and Los Angeles Counties.  These include the School Canyon, Topanga, Harvard, Tovey and Gorman Fires.  Rainfall rates could exceed two thirds of an inch per hour, which exceeds USGS rainfall thresholds for recently burned areas.  </description>
+    <instruction>Residents or persons with interests near and especially downstream of the burned areas should be prepared to take protective action should flash floods and debris flows develop.  For more information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>southwest California, including Ventura and Los Angeles Counties</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060313T151136</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060313T151136.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern Californi</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>cannon@usgs.gov</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern Californi</headline>
+    <description>At 2:35 am PST on Friday, March 10, the National Weather Service issued a Watch for flash flood and debris-flow activity from recently burned areas of Ventura and Los Angeles Counties.  These include the School Canyon, Topanga, Harvard, Piru, Simi, and Foothill Fires.  There was the potential for brief heavy rain along with isolated thunderstorms.  Rainfall intensities could exceed USGS thresholds, especially for the 2005 burned areas.  The Watch was allowed to expire on 5:46 pm PST on Saturday, March 11.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Ventura and Los Angeles Counties in southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060303T195928</identifier>
+  <sender>cannon@usgs.gov</sender>
+  <sent>20060303T195928.000Z</sent>
+  <status>Actual</status>
+  <msgType>Cancel</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Cancelled</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California Cancelled</headline>
+    <description>At 11:26 am PST on Friday March 3, the National Weather Service cancelled the flash flood watch of the recent burn areas in Los Angeles and Ventura Counties in southwest California.  The heavy rain showers that occurred earlier in the day have rapidly decreased in coverage and the threat of flash floods and debris flows no longer exists for the burned areas. </description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Ventura and Los Angeles Counties, southwest California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060303T162017</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060303T162017.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warning for the Harvard Burned Area in Southern California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Warning for the Harvard Burned Area in Southern California</headline>
+    <description>At 8:00 am PST on Friday, March 3, the National Weather Service issued a Warning for flash flood and debris-flow activity from the Harvard burned area above Burbank, Central Los Angeles County, California.  At 7:55 NWS Doppler radar indicated heavy showers over the Hollywood Hills moving northeast at approximately 30 mph.  Rainfall rates with these showers exceed one half inch per hour.  Based on thresholds provided by the USGS, these rainfall rates are sufficient to trigger flash flooding and debris flows in and below the recently burned area.  These showers will be in the vicinity of the Harvard burned area by 8:15am.    The Warning is in effect until 10:00am.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Central Los Angeles County, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060303T160746</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060303T160746.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 7:51 am on Friday, March 3, the National Weather Service issued a Watch for flash flood and debris-flow activity from recently burned areas of Santa Ventura and Los Angeles Counties.  These include the School Canyon, Topanga, Harvard, Tovey, and Gorman Fires.  There is a potential that rainfall rates will exceed one half inch per hour across Ventura and Los Angeles Counties.  From thresholds provided by the USGS, rainfall at these rates could result in flash flooding and debris flows in and below recently burned areas until 6 pm March 3.  The watch issued at 1:45 am for Santa Barbara County and the Gaviota burned area has been cancelled.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Ventura and Los Angeles Counties, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060303T145610</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060303T145610.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in Southern California</headline>
+    <description>At 1:34 pm on Friday, March 3, the National Weather Service issued a Watch for flash flood and debris-flow activity from recently burned areas of Santa Barbara, Ventura and Los Angeles Counties.  These include the Gaviota, School Canyon, Topanga, Harvard, Tovey, and Gorman Fires.  There is a potential that rainfall rates will exceed one inch per hour across Santa Barbara County and one half inch per hour across Ventura and Los Angeles Counties.  From thresholds provided by the USGS, rainfall at these rates could result in flash flooding and debris flows in and below recently burned areas through the afternoon of March 3.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/research/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Santa Barabara, Ventura, and Los Angeles Counties, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060301T181711</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060301T181711.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Warning for Topanga Burned Area in Southern California</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Very Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Warning for Topanga Burned Area in Southern California</headline>
+    <description>At 6:08 pm on Monday, February 27 the National Weather Service issued a Warning for flash flood and debris-flow activity from the Topanga burned area in Ventura County. Areas that could be impacted include State Highway 118 near Santa Susana Pass, Santa Susana Pass Road and residences in and below the burned area.  The Warning is based on a comparison of forecast and measured precipitation with rainfall thresholds provided by the USGS. </description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/reserach/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Santa Monica Mountians, Ventura County, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060301T181339</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060301T181339.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood and Debris Flow Watches for Recently Burned Areas in Southern California</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watches for Recently Burned Areas in Southern California</headline>
+    <description>Between 2:37 pm on Saturday, February 25 and 9:14 pm on Monday, February 27, the National Weather Service issued Watches for flash flood and debris-flow activity for the recently burned areas in Ventura and Los Angeles Counties. Watches were issued for the Gaviota, School Canyon, Topanga, Harvard, Gorman, and Tovey burned areas. The Watches are based on a comparison of forecast and measured precipitation with rainfall thresholds provided by the USGS. The final Watch was cancelled at 3:14 am, Tuesday, February 28, 2006.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and more information on post-fire debris flow flows: http://landslides.usgs.gov/reserach/wildfire</instruction>
+    <contact>cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Ventura and Los Angeles Counties, Southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060221T151908</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060221T151908.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash floods and debris flows</event>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in southern California</headline>
+    <description>Between 4:05 am on Saturday, February 18 and 3:41 am on Sunday, February 19, the National Weather Service issued Watches for flash flood and debris-flow activity for the recently burned areas in Ventura and Los Angeles Counties.  Watches were issued for the School Canyon, Topanga, Harvard and Tovey burned areas.  The Watches are based on a comparison of forecast and measured precipitation with rainfall thresholds provided by the USGS.  The final Watch was cancelled at 9:05 am, Sunday, February 19. </description>
+    <instruction>For information on what to do if you live mear a recenlty burned area, and more information on post-fire debris flow flows:
+http://landslides.usgs.gov/reserach/wildfire</instruction>
+    <contact>Susan Cannon, cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Ventura and Los Angeles Counties, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060221T151719</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060221T151719.000Z</sent>
+  <status>System</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <urgency>Expected</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Watch for Recently Burned Areas in southern California</headline>
+    <description>Between 4:05 am on Saturday, February 18 and 3:41 am on Sunday, February 19, the National Weather Service issued Watches for flash flood and debris-flow activity for the recently burned areas in Ventura and Los Angeles Counties.  Watches were issued for the School Canyon, Topanga, Harvard and Tovey burned areas.  The Watches are based on a comparison of forecast and measured precipitation with rainfall thresholds provided by the USGS.  The final Watch was cancelled at 9:05 am, Sunday, February 19. </description>
+    <instruction>For information on what to do if you live mear a recenlty burned area, and more information on post-fire debris flow flows:
+http://landslides.usgs.gov/reserach/wildfire</instruction>
+    <area>
+      <areaDesc>Ventura and Los Angeles Counties, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060216T194637</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060216T194637.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash flood and debris flow Outlook for Sierra Fire</event>
+    <urgency>Future</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>Susan Cannon</senderName>
+    <headline>Flash Flood and Debris Flow Outlook for Sierra Fire</headline>
+    <description>Watersheds burned by the Sierra Fire in Orange County are susceptible to flash floods and debris flows during rainstorms.  Drainageways in Featherly Regional Park, stream crossings on State Highways 91 and 241 and Gypsum Canyon Road, and Santiago Reservoir could be impacted by these events.  A short period of moderate rainfall on the burned watersheds can lead to flash floods and debris flows.  Rainfall that is normally absorbed by vegetation can run off almost instantly.  This causes creeks and drainage areas to flood much sooner during a storm, and with more water than is normal.    In addition, the soils in a burn scar are highly erodible so flood waters can contain significant amounts of ash, mud, boulders, and vegetation.  Within the burned area and downstream, the powerful force of rushing water, soil, and rock can destroy culverts, bridges, roadways, and structures, and can cause injury or death if care is not taken.</description>
+    <instruction>For information on what to do if you live near a recently burned area, and mmore information on post-fire debris flows:  http://landslides.usgs.gov/research/wildfire/</instruction>
+    <web>http://www.usgs.gov/hazard_alert/alerts/landslides.rss</web>
+    <contact>Susan Cannon, cannon@usgs.gov</contact>
+    <area>
+      <areaDesc>Anahiem Hills, south of State Highway 91 and east of State Highway 214, Orange County, southern California</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060129T215754</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060129T215754.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Message from USGS Landslides Program</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>USGS Landslides Program, Paula Gori</senderName>
+    <headline>USGS Issues Alert of Landslide Dangers Near Seattle, Washington</headline>
+    <description>Date:  Sunday, January 29, 2006, 1:00 p.m., PST
+
+The U.S. Geological Survey advises that wet soil conditions and continuing rainfall are likely to result in additional landslides during the next several days. Given the wet soil conditions, landslides are highly probable during intense rainfall or when rainfall amounts exceed 1.5 inches in 24 hours.  Steep coastal bluffs and other steep hillsides are particularly susceptible to landslides under present conditions.  
+
+For more information about current conditions, see the following web pages:
+http://www.wrh.noaa.gov/sew/</description>
+    <instruction>For landslide safety information, see the following web sites and publications:
+
+http://landslides.usgs.gov/learningeducation/hazards.php
+http://www.ecy.wa.gov/programs/sea/landslides/
+U.S. Geological Survey Fact Sheet 71-00 http://pubs.usgs.gov/fs/fs-0071-00/</instruction>
+    <web>http://pubs.usgs.gov/fs/fs-0071-00/</web>
+    <contact>Rex Baum 1-303-273-8610</contact>
+    <area>
+      <areaDesc>Western parts of King, Snohomish and Pierce Counties, Washington</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060117T183555</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060117T183555.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Flood/Debris Flows Watches for So. CA</event>
+    <urgency>Past</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>Paula L. Gori</senderName>
+    <headline>Flash Flood/Debris Flow Watches and Warnings for Southern California burned areas</headline>
+    <description>Between 2:25 pm on Thursday January 12 and 3:51 am Saturday January 14, 2006, the National Weather Service issued Flash Flood Watches for the recently burned areas in Ventura and Los Angeles Counties.  Watches were issued for the Topanga, Harvard, School Canyon, Gorman, Tovey, Pine, Crown, Foothill, Piru, Simi, and Padua burned areas.  The Watches indicated that these areas are susceptible to debris flows and flash floods.  The Watches were based on comparison of predicted rainfall amounts with rainfall thresholds provided by the USGS.  The final Flash Flood Watch was cancelled at 7:14 am Saturday January 14, 2006.</description>
+    <instruction>If you are in an area that is susceptible to flooding or debris flow (or has experienced flooding or debris flow in the past), consider leaving if it is safe to do so.  </instruction>
+    <web>http://landslides.usgs.gov/research/wildfire</web>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060106T211312</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060106T211312.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Message from USGS Landslides Program</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>USGS Landslides Program, Paula Gori</senderName>
+    <headline>USGS Issues Alert of Landslide Dangers Near Seattle, Washington</headline>
+    <description>The U.S. Geological Survey advises that wet soil conditions and continuing rainfall are likely to result in additional landslides during the next several days. Given the wet soil conditions, landslides are highly probable during intense rainfall or when rainfall amounts exceed one inch in 24 hours.  Steep coastal bluffs and other steep hillsides are particularly susceptible to landslides under present conditions.</description>
+    <instruction>Advice for residents in affected areas: Before the storm (1) Become familiar with the land around you. Learn whether landslides have occurred in your area.  Slopes where landslides have occurred in the past are likely to experience them in the future. (2) Watch the patterns of storm-water drainage on slopes near your home, and note especially the places where runoff water converges, increasing flow over soil-covered slopes. Watch the hillsides around your home for any signs of land movement, such as small landslides or debris flows or progressively tilting trees. (3) Contact your local authorities to learn about the emergency-response and evacuation plans for your area and develop your own emergency plans for your family and business. During the storm: (1) Stay alert and stay awake. Many landslide fatalities occur when people are sleeping. Listen to a radio for warnings of intense rainfall. Be aware that intense short bursts of rain may be particularly dangerous, especially after longer periods of heavy rainfall and damp weather. (2) If you are in areas susceptible to landslides, consider leaving if it is safe to do so. Remember that driving during an intense storm can itself be hazardous. (3) Listen for any unusual sounds that might indicate moving debris, such as trees cracking or boulders knocking together. A trickle of flowing or falling mud or debris may precede larger flows. If you are near a stream or channel, be alert for any sudden increase or decrease in water flow and for a change from clear to muddy water. Such changes may indicate landslide activity upstream, so be prepared to move quickly. Don't delay. Save yourself, not your belongings. (4) Be especially alert when driving. Embankments along roadsides are particularly susceptible to landslides. Watch the road for collapsed pavement, mud, fallen rocks, and other indications of possible debris flows. Never drive across a flooded road.</instruction>
+    <web>http://pubs.usgs.gov/fs/fs-0071-00/</web>
+    <contact>Rex Baum 1-303-273-8610</contact>
+    <resource>
+      <resourceDesc>Image file</resourceDesc>
+      <uri>http://landslides.usgs.gov/monitoring/seattle/rtd/forecast.php</uri>
+    </resource>
+    <area>
+      <areaDesc>Western parts of King, Snohomish and Pierce Counties, Washington</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060103T175910</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060103T175910.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flood and Debris Flow Watches and Warnings for Burned Areas in So. CA</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>Paula Gori</senderName>
+    <headline>National Weather Service issues Flash Flood Watches and Warnings for Burned Areas in So. CA</headline>
+    <description>Between 3:16 am on Friday December 30, 2005 and 1:35 pm Monday January 2, 2006, the NWS issued Flash Flood Watches and Warnings for the recently burned areas in Santa Barbara, Ventura, and Los Angeles Counties.  Watches and Warnings were issued for the Gaviota, Topanga, Harvard, School Canyon, Gorman, Tovey, Pine, Crown Foothill, Piru, Simi, and Padua burned areas and indicated that these areas are susceptible to debris flows and flash floods.  The Watches and Warnings were based on comparison of predicted and measured rainfall amounts with rainfall thresholds provided by the USGS.  The final Flash Flood Watch was cancelled at 6:31 pm Monday January 2, 2006.
+</description>
+    <instruction>Flash Flood and debris flow watches mean that conditions may develop that lead to flash flooding and debris flows.  These are dangerous situations. You should monitor later forecasts and be prepared to take action should warnings be issued. Before a storm, avoid drainage areas near your home and places where runoff water converges increasing flow in channels. During a storm, if you are in an area that is susceptible to flooding or debris flow, consider leaving if it is safe to do so.  </instruction>
+    <web>http://landslides.usgs.gov/research/wildfire,http://nhss.cr.usgs.gov/</web>
+    <contact>Paula Gori, pgori@usgs.gov, 703-648-6707</contact>
+    <area>
+      <areaDesc>Santa Barbara, Ventura, and Los Angeles Counties, CA</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+    <entry><content type="text/xml"><cap:alert xmlns:cap="http://www.incident.com/cap/1.0">
+  <identifier>USGS-landslides.20060103T173359</identifier>
+  <sender>pgori@usgs.gov</sender>
+  <sent>20060103T173359.000Z</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>en-US</language>
+    <category>Geo</category>
+    <event>Flash Floods and Debris Flows</event>
+    <urgency>Expected</urgency>
+    <severity>Moderate</severity>
+    <certainty>Possible</certainty>
+    <senderName>Paula Gori</senderName>
+    <headline>National Weather Service issues Flash Flood Watches and Warnings for  Burned Areas in So. CA</headline>
+    <description>Between 3:16 am on Friday December 30, 2005 and 1:35 pm Monday January 2, 2006, the NWS issued Flash Flood Watches and Warnings for the recently burned areas in Santa Barbara, Ventura, and Los Angeles Counties.  Watches and Warnings were issued for the Gaviota, Topanga, Harvard, School Canyon, Gorman, Tovey, Pine, Crown Foothill, Piru, Simi, and Padua burned areas and indicated that these areas are susceptible to debris flows and flash floods.  The Watches and Warnings were based on comparison of predicted and measured rainfall amounts with rainfall thresholds provided by the USGS.  The final Flash Flood Watch was cancelled at 6:31 pm Monday January 2, 2006.</description>
+    <instruction>What Can You Do If You Live Near A Recently Burned Area?
+Before a Storm:
+1.	Watch the patterns of storm-water drainage near your home, and note the places where runoff water converges, increasing flow in channels.  These are areas to avoid during a storm.
+2.	Contact your local authorities to learn about the emergency-response and evacuation plans for your area.  Develop your own emergency plan for your family or business.
+
+During a Storm:
+1.	If you are in an area that is susceptible to flooding or debris flow (or has experienced flooding or debris flow in the past), consider leaving if it is safe to do so.  Remember that driving during heavy rainstorms can be hazardous.
+2.	Stay alert and stay awake!  Many debris-flow and flash-flood fatalities occur when people are sleeping.  Listen to the radio for warnings of intense rainfall.  NOAA Weather Radio All Hazards tone alert will let you know of hazards in your area.  Be aware that intense bursts of rain may be particularly dangerous, especially after longer periods of heavy rainfall.
+3.	If you are near a stream or a channel, listen for any unusual sounds that might indicate moving debris, such as trees cracking or boulders knocking together.  A trickle of flowing mud or debris may precede larger flows.  Be alert for any sudden increases or decreases in water flow and for a change from clear to muddy water.  Such changes may indicate debris-flow activity upstream, so be prepared to move quickly.  Don't delay! Save yourself, not your belongings.  
+4.	Keep in mind that during flash floods and debris flows water may rise much faster and much higher that it would if the watershed was not burned.
+5.	Be particularly alert when driving.  Bridges may be washed out, and culverts overtopped.  Do not cross flooding streams!! Turn Around, Don't Drown ®!  Embankments along roadsides are particularly susceptible to landsliding.  Watch the road for collapsed pavement, mud, fallen rocks, and other indications of debris flow and flash floods.
+</instruction>
+    <web>http://landslides.usgs.gov/research/wildfire,http://nhss.cr.usgs.gov/</web>
+    <contact>Paula Gori, pgori@usgs.gov, 703 648-6707</contact>
+    <area>
+      <areaDesc>Santa Barbara, Ventura, and Los Angeles Counties in CA</areaDesc>
+    </area>
+  </info>
+</cap:alert></content></entry>
+  
+</feed>
