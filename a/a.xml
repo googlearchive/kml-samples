@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns = "http://www.w3.org/2005/Atom">
   
-    <entry><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
+    <entry>
+<title>title0</title><content type="text/xml"><alert xmlns="http://www.incident.com/cap/1.0">
 <identifier>USGS-earthquakes-us2009gbaw.8.20090501T005456.437Z</identifier>
 <sender>http://earthquake.usgs.gov/recenteqsUS/contacts.htm#us</sender>
 <sent>2009-05-01T00:54:56+00:00</sent>
