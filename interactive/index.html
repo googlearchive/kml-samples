@@ -4,35 +4,31 @@
 <head>
   <title>KML Interactive Sampler</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-  <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAKkfkHb2nXsD0o1OX2TbdkRRaozj48i9kKhnMmF3N7B7M7uPI0BRRfUKwr6fFsCZXrI626zu0YJBiPQ"></script>
-  <script type="text/javascript" src="kml-ref.js"></script>  
-  <script type="text/javascript" src="ge-poly-fit-hack.js"></script>
-  <script type="text/javascript" src="codemirror/js/codemirror.js"></script>
+  <script type="text/javascript" src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22maps%22%2C%22version%22%3A%222%22%7D%2C%7B%22name%22%3A%22earth%22%2C%22version%22%3A%221%22%7D%2C%7B%22name%22%3A%22dojo%22%2C%22version%22%3A%221.2.3%22%7D%5D%7D&key=ABQIAAAAKkfkHb2nXsD0o1OX2TbdkRRaozj48i9kKhnMmF3N7B7M7uPI0BRRfUKwr6fFsCZXrI626zu0YJBiPQ"></script>
+  <script type="text/javascript" src="kml-ref.js"></script>
+  <script type="text/javascript" src="lib/ge-poly-fit-hack.js"></script>
+  <script type="text/javascript" src="lib/kmldomwalk.js"></script>
+  <script type="text/javascript" src="lib/codemirror/js/codemirror.js"></script>
   <style type="text/css">
-    @import "http://ajax.googleapis.com/ajax/libs/dojo/1.1.1/dijit/themes/soria/soria.css";
-    @import "http://ajax.googleapis.com/ajax/libs/dojo/1.1.1/dojo/resources/dojo.css";
+    @import "http://ajax.googleapis.com/ajax/libs/dojo/1.2.3/dijit/themes/nihilo/nihilo.css";
+    @import "http://ajax.googleapis.com/ajax/libs/dojo/1.2.3/dojo/resources/dojo.css";
   </style>
   
   <style type="text/css">@import "index.css";</style>
 <script type="text/javascript">
-// <![CDATA[
-
-djConfig = { parseOnLoad: true };
-google.load('dojo', '1.1.1');
-
-google.load('maps', '2.x');
-google.load('earth', '1.x');
+/* <![CDATA[ */
 
 var g_ge;
 var g_editor;
+var g_editorReady = false;
 var g_earthDisabled = false;
 var g_editorDirty = false;
 var g_kmlObject;
 var g_infoBoxVisible = true;
+var g_startNode = null;
 
 google.setOnLoadCallback(function() {
   dojo.require('dijit.layout.BorderContainer');
-  dojo.require('dijit.layout.SplitContainer');
   dojo.require('dijit.layout.ContentPane');
   dojo.require('dojo.data.ItemFileReadStore');
   dojo.require('dijit.Tree');
@@ -42,6 +38,47 @@ google.setOnLoadCallback(function() {
   dojo.require('dojo.fx');
 
   dojo.addOnLoad(function() { 
+    // http://www.alexatnet.com/node/69
+  	dojo.declare(
+  		"AutoExpandRootTree",
+  		dijit.Tree,
+  	{
+  		_createTreeNode: function()
+  		{
+  			var node = dijit.Tree.prototype._createTreeNode.apply(this, arguments);
+  			var itemIdentity = this.model.getIdentity(node.item);
+  			if (itemIdentity) {
+          // expand sections
+    			if (itemIdentity.match(/^section:/)) {
+    			  this._expandNode(node);
+    			}
+  			
+    			// expand parents of the sample anchor, and select the sample anchor
+    			var anchor = document.location.hash.substr(1); // drop hash character
+    			if (anchor && anchor.substr(0, itemIdentity.length) == itemIdentity) {
+    			  this._expandNode(node);
+    			  
+    			  if (anchor == itemIdentity) {
+      			  g_startNode = node;
+    			  }
+    		  }
+  		  }
+  			
+  		  return node;
+  		}
+  	});
+  	
+    if (dojo.cookie('width-left')) {
+      dojo.byId('left').style.width = dojo.cookie('width-left');
+    }
+    
+    if (dojo.cookie('width-right')) {
+      dojo.byId('right').style.width = dojo.cookie('width-right');
+    }
+  	
+    dojo.parser.parse();
+    dojo.byId('container').style.visibility = 'visible';
+  	
     // build earth
     google.earth.createInstance(
       'map3d',
@@ -51,6 +88,8 @@ google.setOnLoadCallback(function() {
         g_ge.getNavigationControl().setVisibility(ge.VISIBILITY_AUTO);
         g_ge.getLayerRoot().enableLayerById(g_ge.LAYER_BORDERS, true);
         g_ge.getLayerRoot().enableLayerById(g_ge.LAYER_BUILDINGS, true);
+        
+        tryOpenStartNode();
       },
       function() {
         g_earthDisabled = true;
@@ -60,18 +99,32 @@ google.setOnLoadCallback(function() {
     // create code editor
     g_editor = CodeMirror.fromTextArea('editor', {
       parserfile: 'parsexml.js',
-      stylesheet: 'codemirror/css/xmlcolors.css',
-      path: 'codemirror/js/',
+      stylesheet: 'xmlcolors.css',
+      path: 'lib/codemirror/js/',
       textWrapping: false,
       continuousScanning: 500,
+      lineNumbers: true,
+      tabMode: 'shift',
       initCallback: function(obj) {
         //obj.setCode('test');
         updateUsefulLinks();
+        
+        g_editorReady = true;
+        tryOpenStartNode();
       },
       saveFunction: function() {
         reloadKml();
       },
       onChange: onEditorChanged
+    });
+    
+    // watch splitter resize and set layout cookies
+    dojo.connect(dijit.byId('container').getSplitter('left'), '_stopDrag', null, function() {
+      dojo.cookie('width-left', dojo.byId('left').style.width);
+    });
+    
+    dojo.connect(dijit.byId('container').getSplitter('right'), '_stopDrag', null, function() {
+      dojo.cookie('width-right', dojo.byId('right').style.width);
     });
     
     // show or hide infobox
@@ -89,8 +142,26 @@ google.setOnLoadCallback(function() {
                "you want to exit.";
       }
     };
+    
+    tryOpenStartNode();
   });
 });
+
+function tryOpenStartNode() {
+  if (!g_editorReady || !g_ge)
+    return;
+  
+  // load start node if its defined
+  if (g_startNode) {
+	  // faux select
+	  var tree = dijit.byId('tree');
+		tree._publish("execute", { item: g_startNode.item, node: g_startNode} );
+		tree.onClick(g_startNode.item, g_startNode);
+		tree.focusNode(g_startNode);
+		
+		g_startNode = null;
+  }
+}
 
 var g_editorChangedTimeout = null;
 function onEditorChanged() {
@@ -192,25 +263,40 @@ function reloadKml(kmlString) {
   if (g_kmlObject)
     g_ge.getFeatures().removeChild(g_kmlObject);
   
+  var tourFound = false;
+
   try {
     g_kmlObject = g_ge.parseKml(kmlString);
     g_ge.getFeatures().appendChild(g_kmlObject);
+
+    // see if we should show sky
+    // TODO: better parsing!
+    if (kmlString.indexOf('target=sky') >= 0)
+      g_ge.getOptions().setMapType(g_ge.MAP_TYPE_SKY);
+    else
+      g_ge.getOptions().setMapType(g_ge.MAP_TYPE_EARTH);
+    
+    // Walk the loaded KML object hierarchy looking for a <gx:Tour>.
+    walkKmlDom(g_kmlObject, function(context) {
+      if (this.getType() == 'KmlTour') {
+        tourFound = true;
+        g_ge.getTourPlayer().setTour(this);
+        g_ge.getTourPlayer().play();
+        return false;
+      }
+    });
+    
   } catch (ex) {
     alert('Error parsing KML!');
     return;
   }
 
-  // see if we should show sky
-  // TODO: better parsing!
-  if (kmlString.indexOf('target=sky') >= 0)
-    g_ge.getOptions().setMapType(g_ge.MAP_TYPE_SKY);
-  else
-    g_ge.getOptions().setMapType(g_ge.MAP_TYPE_EARTH);
-  
-  var aspectRatio = dojo.coords('right').w * 1.0 / dojo.coords('right').h;
-  var la = computeFitLookAt(g_ge, g_kmlObject, aspectRatio);
-  if (la)
-    g_ge.getView().setAbstractView(la);
+  if (!tourFound) {
+    var aspectRatio = dojo.coords('right').w * 1.0 / dojo.coords('right').h;
+    var la = computeFitLookAt(g_ge, g_kmlObject, aspectRatio);
+    if (la)
+      g_ge.getView().setAbstractView(la);
+  }
 }
 
 function toggleInfoBox() {
@@ -251,25 +337,29 @@ var interactiveSampler = {
 
 };
 
-// ]]>
+/* ]]> */
 </script>
 </head>
-<body class="soria">
-  <div id="container" dojoType="dijit.layout.BorderContainer" region="center" style="height: 100%">
+<body class="nihilo">
+  <div id="container" dojoType="dijit.layout.BorderContainer" region="center"
+    style="visibility: hidden; height: 100%">
   
     <div id="top" dojoType="dijit.layout.ContentPane" region="top">
       <h1 style="margin:0; padding:0">KML Interactive Sampler</h1>
       <p style="margin:0; padding:0">Explore the samples below or enter your own KML to get started. You can then make changes and see them in action by clicking 'Update Earth'!<br/>
-      <em>This sampler requires the <a href="http://code.google.com/apis/earth">Google Earth Browser Plug-in</a></em>.</p>
+      <em>This sampler requires the <a href="http://code.google.com/apis/earth">Google Earth Plug-in</a></em>.</p>
     </div>
     
     <div id="left" dojoType="dijit.layout.ContentPane" region="left"
-      splitter="true" minsize="200" style="width: 200px;">
+      splitter="true" minsize="200" style="width: 250px;">
+      <script type="dojo/method" event="onResized">
+        alert('hey');
+      </script>
       
       <div dojoType="dojo.data.ItemFileReadStore" jsid="samplesStore"
         url="kml-samples.json"></div>
       
-      <div id="tree" dojoType="dijit.Tree"
+      <div id="tree" dojoType="AutoExpandRootTree"
         labelAttr="name"
         store="samplesStore"
         style="height: 100%;">
@@ -281,6 +371,8 @@ var interactiveSampler = {
             
             if (source && !children)
               loadSample(source, descSource);
+            
+            document.location.hash = '#' + samplesStore.getIdentity(item);
           }
         </script>
         <script type="dojo/method" event="getLabelClass" args="item">
@@ -310,14 +402,16 @@ var interactiveSampler = {
         <span>(Ctrl + S)</span>
         <a id="info-box-toggle" href="#" title="Toggle Info" onclick="toggleInfoBox(); return false;"></a>
       </div>
-      <div dojoType="dijit.layout.ContentPane" region="center">
+      <div dojoType="dijit.layout.ContentPane" region="center" id="editor-container">
 <div id="editor-loading" style="width: 100%; height: 100%;">
 
 </div>
 <textarea id="editor" style="width: 100%; height: 100%">
 &lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;kml xmlns="http://www.opengis.net/kml/2.2"&gt;
-
+  &lt;Document&gt;
+    
+  &lt;/Document&gt;
 &lt;/kml&gt;
 </textarea>
       </div>

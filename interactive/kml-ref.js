@@ -16,9 +16,12 @@ var g_kmlRefLinks = {
   'alias': [ 'Alias', '#alias' ],
   'altitude': [ 'altitude', '#coordinates' ],
   'altitudemode': [ 'altitudeMode', '#altitudemode' ],
+  
+  // atom
   'atom:author': [ 'atom:author', '#atomauthor' ],
   'atom:link': [ 'atom:link', '#atomlink' ],
   'atom:name': [ 'atom:name', '#atomname' ],
+  
   'balloonstyle': [ 'BalloonStyle', '#balloonstyle' ],
   'begin': [ 'begin', '#begin' ],
   'bgcolor': [ 'bgColor', '#bgcolor' ],
@@ -51,6 +54,25 @@ var g_kmlRefLinks = {
   'geomscale': [ 'geomScale', '#geomscale' ],
   'gridorigin': [ 'gridOrigin', '#gridorigin' ],
   'groundoverlay': [ 'GroundOverlay', '#groundoverlay' ],
+
+  // Google KML extensions
+  'gx:altitudemode': [ 'gx:altitudeMode', '#gxaltitudemode' ],
+  'gx:animatedupdate': [ 'gx:AnimatedUpdate', '#gxanimatedupdate' ],
+  'gx:balloonvisibility': [ 'gx:balloonVisibility', '#gxballoonvisibility' ],
+  'gx:duration': [ 'gx:duration', '#gxduration' ],
+  'gx:flyto': [ 'gx:FlyTo', '#gxflyto' ],
+  'gx:flytomode': [ 'gx:flyToMode', '#gxflytomode' ],
+  'gx:latlonquad': [ 'gx:LatLonQuad', '#gxlatlonquad' ],
+  'gx:playlist': [ 'gx:Playlist', '#gxplaylist' ],
+  'gx:playmode': [ 'gx:playMode', '#gxplaymode' ],
+  'gx:soundcue': [ 'gx:SoundCue', '#gxsoundcue' ],
+  'gx:timespan': [ 'gx:TimeSpan', '#gxtimespan' ],
+  'gx:timestamp': [ 'gx:TimeStamp', '#gxtimestamp' ],
+  'gx:tour': [ 'gx:Tour', '#gxtour' ],
+  'gx:tourcontrol': [ 'gx:TourControl', '#gxtourcontrol' ],
+  'gx:tourprimitive': [ 'gx:TourPrimitive', '#gxtourprimitive' ],
+  'gx:wait': [ 'gx:Wait', '#gxwait' ],
+
   'h': [ 'h', '#h' ],
   'heading': [ 'heading', '#heading' ],
   'href': [ 'href', '#href' ],

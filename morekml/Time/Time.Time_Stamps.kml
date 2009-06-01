@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<!-- 
+TimeStamp is recommended for Point.
+Each Point represents a sample from a GPS.
+-->
+  <Document>
+    <name>Points with TimeStamps</name>
+    
+    <!-- Placemark A -->
+    <Placemark>
+      <TimeStamp>
+        <when>2007-01-01T00:00:00Z</when>
+      </TimeStamp>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/A.png</href>
+          </Icon>
+          <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122,37</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Placemark B -->
+    <Placemark>
+      <TimeStamp>
+        <when>2007-01-02T00:00:00Z</when>
+      </TimeStamp>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
+          </Icon>
+          <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.1,37</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Placemark C -->
+    <Placemark>
+      <TimeStamp>
+        <when>2007-01-03T00:00:00Z</when>
+      </TimeStamp>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+          </Icon>
+          <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.2,37</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

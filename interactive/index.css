@@ -9,8 +9,15 @@
     background-color: #eee;
   }
   
-  #center, #right {
-    border: 1px solid #888;
+  #top, #center, #bottom {
+    border: 0;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #left, #right {
+    padding: 0;
+    margin: 0;
   }
   
   #top {
@@ -29,7 +36,6 @@
   #left {
     margin-right: 0;
     margin-left: 10px;
-    border: 1px solid #888;
     background-color: #fff;
   }
   
@@ -101,14 +107,15 @@
   #edit-toolbar {
     position: relative;
     background-color: #eee;
-    border-bottom: 1px solid #ccc;
+    padding: 0;
+    margin: 0;
     z-index: 100;
   }
   
   #info-box-toggle {
     position: absolute;
     right: 8px;
-    bottom: 8px;
+    bottom: 4px;
     width: 32px;
     height: 24px;
     background: transparent url(images/info-box-toggle.gif) no-repeat scroll 0 100%;
@@ -162,5 +169,49 @@
   #container .dijitSplitterThumb {
     width: 10px;
     background-position: center center;
+  }
+  
+  .dijitTreeIsRoot > .dijitTreeRow .dijitTreeExpando,
+  .dijitTreeIsRoot > .dijitTreeRow .dijitTreeIcon {
+    display: none;
+  }
+  
+  .dijitTreeIsRoot > .dijitTreeContainer > .dijitTreeNode {
+    margin-left: 0;
+  }
+  
+  .dijitTreeIsRoot > .dijitTreeRow {
+    background-color: #eee;
+    color: #888;
+  }
+  
+  .dijitTreeIsRoot > .dijitTreeContainer > .dijitTreeIsRoot > .dijitTreeRow {
+    height: 24px;
+    line-height: 24px;
+    margin-bottom: 4px;
+  }
+
+  .dijitTreeIsRoot > .dijitTreeContainer > .dijitTreeIsRoot {  
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .dijitTreeIsRoot > .dijitTreeContainer > .dijitTreeIsRoot:last-child {  
+    border-bottom: 0;
+  }
+  
+  .CodeMirror-line-numbers {
+    width: 200px;
+    width:2.2em;
+    color:#aaa;
+    text-align:right;
+    padding-right:.3em;
+    font-size:10pt;
+    font-family:monospace;
+    padding-top:0;
+  }
+
+  #editor-container > div {
+    height: 100%;
   }
 }
