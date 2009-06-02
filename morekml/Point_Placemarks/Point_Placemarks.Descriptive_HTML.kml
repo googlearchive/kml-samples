@@ -101,11 +101,6 @@ Simple Tables:<br>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
 <tr><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td></tr>
 </table>
-<br>
-[Did you notice that double-clicking on the placemark doesn't cause the viewer
-to take you anywhere? This is because it is possible to directly author a
-"placeless placemark". If you look at the code for this example, you will see
-that it has neither a point coordinate nor a LookAt element.]
 ]]></description>
     <Point>
       <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
