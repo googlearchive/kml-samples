@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLinkControl>
+    <Update>
+      <targetHref>states.kml</targetHref>
+      <Change>
+        <Placemark targetId="NY">
+          <styleUrl>view-population.kml#value-5</styleUrl>
+          <description><![CDATA[<b>Population</b>: 19,490,297]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="NJ">
+          <styleUrl>view-population.kml#value-3</styleUrl>
+          <description><![CDATA[<b>Population</b>: 8,682,661]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="MA">
+          <styleUrl>view-population.kml#value-2</styleUrl>
+          <description><![CDATA[<b>Population</b>: 6,497,967]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="CT">
+          <styleUrl>view-population.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Population</b>: 3,501,252]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="ME">
+          <styleUrl>view-population.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Population</b>: 1,316,456]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="NH">
+          <styleUrl>view-population.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Population</b>: 1,315,809]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="RI">
+          <styleUrl>view-population.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Population</b>: 1,050,788]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="VT">
+          <styleUrl>view-population.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Population</b>: 621,270]]></description>
+        </Placemark>
+      </Change>
+    </Update>
+  </NetworkLinkControl>
+  <Document>
+    <!-- colors: http://meyerweb.com/eric/tools/color-blend/ -->
+    <Style id="value-1">
+      <PolyStyle>
+        <color>ffff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-2">
+      <PolyStyle>
+        <color>ff4000bf</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-3">
+      <PolyStyle>
+        <color>ff800080</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-4">
+      <PolyStyle>
+        <color>ffbf0040</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-5">
+      <PolyStyle>
+        <color>ff0000ff</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

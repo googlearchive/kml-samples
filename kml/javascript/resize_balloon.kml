@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <!-- NOTE: this sample requires Google Earth 5.0 or higher -->
+  <Placemark>
+    <name>Resize a balloon</name>
+    <snippet>Click the link in the description balloon to resize the balloon!</snippet>
+    <description><![CDATA[
+      <html>
+        <head>
+          <style>
+            #sizer { width: 400px; border: 1px solid red; }
+          </style>
+          <script>
+            function resizeBalloon() {
+              document.getElementById('sizer').style.width = '200px';
+              document.getElementById('dummy').src = "about:blank";
+            }
+          </script>
+        </head>
+        <body>
+          <div id="sizer">
+            <a href="#" onclick="resizeBalloon(); return false;">Resize balloon</a>
+          </div>
+          <iframe style="display: none" id="dummy" src="about:blank"></iframe>
+        </body>
+      </html>
+    ]]></description>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+  </Placemark>
+</kml>

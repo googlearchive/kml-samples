@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLinkControl>
+    <Update>
+      <targetHref>states.kml</targetHref>
+      <Change>
+        <Placemark targetId="NY">
+          <styleUrl>view-area.kml#value-5</styleUrl>
+          <description><![CDATA[<b>Area</b>: 54,556 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="ME">
+          <styleUrl>view-area.kml#value-3</styleUrl>
+          <description><![CDATA[<b>Area</b>: 35,385 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="MA">
+          <styleUrl>view-area.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Area</b>: 10,555 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="VT">
+          <styleUrl>view-area.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Area</b>: 9,614 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="NH">
+          <styleUrl>view-area.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Area</b>: 9,350 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="NJ">
+          <styleUrl>view-area.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Area</b>: 8,721 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="CT">
+          <styleUrl>view-area.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Area</b>: 5,543 sq mi.]]></description>
+        </Placemark>
+      </Change>
+      <Change>
+        <Placemark targetId="RI">
+          <styleUrl>view-area.kml#value-1</styleUrl>
+          <description><![CDATA[<b>Area</b>: 1,545 sq mi.]]></description>
+        </Placemark>
+      </Change>
+    </Update>
+  </NetworkLinkControl>
+  <Document>
+    <!-- colors: http://meyerweb.com/eric/tools/color-blend/ -->
+    <Style id="value-1">
+      <PolyStyle>
+        <color>ff0000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-2">
+      <PolyStyle>
+        <color>ff0040bf</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-3">
+      <PolyStyle>
+        <color>ff008080</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-4">
+      <PolyStyle>
+        <color>ff00bf40</color>
+      </PolyStyle>
+    </Style>
+    <Style id="value-5">
+      <PolyStyle>
+        <color>ff00ff00</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>

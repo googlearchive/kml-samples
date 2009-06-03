@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <!-- NOTE: this sample requires Google Earth 5.0 or higher -->
+  <Placemark>
+    <name>Hello World</name>
+    <snippet>Click the link in the description balloon to run some JavaScript!</snippet>
+    <description><![CDATA[
+    <html>
+      <script>
+        function buttonclick() {
+          document.getElementById('status').innerHTML = 'You clicked the button!';
+        }
+      </script>
+      <a href="#" onclick="buttonclick(); return false;">Click me!</a>
+      <div id="status" style="font-style: italic; color: #0a0;"></div>
+    </html>
+    ]]></description>
+    <Point>
+      <coordinates>-122,37</coordinates>
+    </Point>
+  </Placemark>
+</kml>
