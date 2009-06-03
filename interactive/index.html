@@ -6,6 +6,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <script type="text/javascript" src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22maps%22%2C%22version%22%3A%222%22%7D%2C%7B%22name%22%3A%22earth%22%2C%22version%22%3A%221%22%7D%2C%7B%22name%22%3A%22dojo%22%2C%22version%22%3A%221.2.3%22%7D%5D%7D&key=ABQIAAAAKkfkHb2nXsD0o1OX2TbdkRRaozj48i9kKhnMmF3N7B7M7uPI0BRRfUKwr6fFsCZXrI626zu0YJBiPQ"></script>
   <script type="text/javascript" src="kml-ref.js"></script>
+  <script type="text/javascript" src="lib/base64.js"></script>
   <script type="text/javascript" src="lib/ge-poly-fit-hack.js"></script>
   <script type="text/javascript" src="lib/kmldomwalk.js"></script>
   <script type="text/javascript" src="lib/codemirror/js/codemirror.js"></script>
@@ -39,35 +40,35 @@ google.setOnLoadCallback(function() {
 
   dojo.addOnLoad(function() { 
     // http://www.alexatnet.com/node/69
-  	dojo.declare(
-  		"AutoExpandRootTree",
-  		dijit.Tree,
-  	{
-  		_createTreeNode: function()
-  		{
-  			var node = dijit.Tree.prototype._createTreeNode.apply(this, arguments);
-  			var itemIdentity = this.model.getIdentity(node.item);
-  			if (itemIdentity) {
+    dojo.declare(
+      "AutoExpandRootTree",
+      dijit.Tree,
+    {
+      _createTreeNode: function()
+      {
+        var node = dijit.Tree.prototype._createTreeNode.apply(this, arguments);
+        var itemIdentity = this.model.getIdentity(node.item);
+        if (itemIdentity) {
           // expand sections
-    			if (itemIdentity.match(/^section:/)) {
-    			  this._expandNode(node);
-    			}
-  			
-    			// expand parents of the sample anchor, and select the sample anchor
-    			var anchor = document.location.hash.substr(1); // drop hash character
-    			if (anchor && anchor.substr(0, itemIdentity.length) == itemIdentity) {
-    			  this._expandNode(node);
-    			  
-    			  if (anchor == itemIdentity) {
-      			  g_startNode = node;
-    			  }
-    		  }
-  		  }
-  			
-  		  return node;
-  		}
-  	});
-  	
+          if (itemIdentity.match(/^section:/)) {
+            this._expandNode(node);
+          }
+        
+          // expand parents of the sample anchor, and select the sample anchor
+          var anchor = document.location.hash.substr(1); // drop hash character
+          if (anchor && anchor.substr(0, itemIdentity.length) == itemIdentity) {
+            this._expandNode(node);
+            
+            if (anchor == itemIdentity) {
+              g_startNode = node;
+            }
+          }
+        }
+        
+        return node;
+      }
+    });
+    
     if (dojo.cookie('width-left')) {
       dojo.byId('left').style.width = dojo.cookie('width-left');
     }
@@ -75,11 +76,11 @@ google.setOnLoadCallback(function() {
     if (dojo.cookie('width-right')) {
       dojo.byId('right').style.width = dojo.cookie('width-right');
     }
-  	
+    
     dojo.parser.parse();
     dojo.byId('loading').style.display = 'none';
     dojo.byId('container').style.visibility = 'visible';
-  	
+    
     // build earth
     google.earth.createInstance(
       'map3d',
@@ -118,7 +119,13 @@ google.setOnLoadCallback(function() {
       },
       onChange: onEditorChanged
     });
-    
+
+    // enable or disable download button based on browser's support for data urls
+    if (!dataUrlsSupported()) {
+      dijit.byId('download-button').setDisabled(true);
+      dijit.byId('download-button').setAttribute('title', 'Requires Firefox 3+ or Safari 3.2+');
+    }
+
     // watch splitter resize and set layout cookies
     dojo.connect(dijit.byId('container').getSplitter('left'), '_stopDrag', null, function() {
       dojo.cookie('width-left', dojo.byId('left').style.width);
@@ -154,13 +161,13 @@ function tryOpenStartNode() {
   
   // load start node if its defined
   if (g_startNode) {
-	  // faux select
-	  var tree = dijit.byId('tree');
-		tree._publish("execute", { item: g_startNode.item, node: g_startNode} );
-		tree.onClick(g_startNode.item, g_startNode);
-		tree.focusNode(g_startNode);
-		
-		g_startNode = null;
+    // faux select
+    var tree = dijit.byId('tree');
+    tree._publish("execute", { item: g_startNode.item, node: g_startNode} );
+    tree.onClick(g_startNode.item, g_startNode);
+    tree.focusNode(g_startNode);
+    
+    g_startNode = null;
   }
 }
 
@@ -300,6 +307,35 @@ function reloadKml(kmlString) {
   }
 }
 
+function dataUrlsSupported() {
+  var userAgent = navigator.userAgent;
+
+  if (userAgent.indexOf('Firefox/3') >= 0)
+    return true;
+
+  if (userAgent.indexOf('Safari') >= 0 &&
+      (userAgent.indexOf('Version/3.2') >= 0 ||
+       userAgent.indexOf('Version/4') >= 0))
+    return true;
+
+  return false;
+}
+
+function downloadKmlFile(kmlString) {
+  if (!kmlString)
+    kmlString = g_editor.getCode();
+
+  if (!dataUrlsSupported()) {
+    alert('Downloading the KML locally requires Firefox 3+ or Safari 3.2+');
+    return;
+  }
+
+  var dataUrl = 'data:application/vnd.google-earth.kml+xml;base64,' +
+      Base64.encode(kmlString);
+
+  window.location.href = dataUrl;
+}
+
 function toggleInfoBox() {
   g_infoBoxVisible = !g_infoBoxVisible;
   dojo.cookie('show-info-box', g_infoBoxVisible ? 'true' : 'false');
@@ -400,8 +436,8 @@ var interactiveSampler = {
           </div>
           <div style="clear: both; position: relative;"></div>
         </div>
-        <button id="update-button" dojoType="dijit.form.Button" onclick="reloadKml();">Update Earth!</button>
-        <span>(Ctrl + S)</span>
+        <button id="update-button" dojoType="dijit.form.Button" onclick="reloadKml();" title="Ctrl+S"><span>Update Earth</span></button>
+        <button id="download-button" dojoType="dijit.form.Button" onclick="downloadKmlFile();"><span>Download</span></button>
         <a id="info-box-toggle" href="#" title="Toggle Info" onclick="toggleInfoBox(); return false;"></a>
       </div>
       <div dojoType="dijit.layout.ContentPane" region="center" id="editor-container">

@@ -136,9 +136,15 @@
     background-position: 0 0;
   }
   
-  #update-button {
+  #update-button, #download-button {
     font-size: 150%;
     font-weight: bold;
+    height: 25px;
+  }
+
+  #download-button {
+    background: transparent url(images/download-icon.png) no-repeat scroll 8px 5px;
+    padding-left: 20px;
   }
 
   #editor-loading {
