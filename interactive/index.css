@@ -9,6 +9,17 @@
     background-color: #eee;
   }
   
+  #loading {
+    background: transparent url(images/loading.gif) no-repeat scroll top left;
+    position: absolute;
+    left: 16px;
+    top: 16px;
+    padding: 9px 0 9px 40px;
+    color: #888;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
   #top, #center, #bottom {
     border: 0;
     padding: 0;
@@ -205,10 +216,14 @@
     width:2.2em;
     color:#aaa;
     text-align:right;
-    padding-right:.3em;
+    padding: 4px 0.3em 4px 0;
     font-size:10pt;
     font-family:monospace;
-    padding-top:0;
+    background-color: #eee;
+  }
+
+  #editor-container {
+    padding: 0;
   }
 
   #editor-container > div {

@@ -1,6 +1,6 @@
 .editbox {
   margin: 0;
-  padding: 0;
+  padding: 4px 8px;
   font-family: monospace;
   font-size: 10pt;
   color: black;
@@ -44,6 +44,7 @@ span.xml-entity {
 
 span.xml-error {
   color: #F00;
+  background-color: #fdd;
 }
 
 span.xml-text {

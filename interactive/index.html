@@ -77,6 +77,7 @@ google.setOnLoadCallback(function() {
     }
   	
     dojo.parser.parse();
+    dojo.byId('loading').style.display = 'none';
     dojo.byId('container').style.visibility = 'visible';
   	
     // build earth
@@ -341,6 +342,7 @@ var interactiveSampler = {
 </script>
 </head>
 <body class="nihilo">
+  <div id="loading"><span>Loading KML Interactive Sampler...</span></div>
   <div id="container" dojoType="dijit.layout.BorderContainer" region="center"
     style="visibility: hidden; height: 100%">
   
