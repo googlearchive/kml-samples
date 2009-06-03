@@ -333,7 +333,10 @@ function downloadKmlFile(kmlString) {
   var dataUrl = 'data:application/vnd.google-earth.kml+xml;base64,' +
       Base64.encode(kmlString);
 
+  var oldDirty = g_editorDirty;
+  g_editorDirty = false;
   window.location.href = dataUrl;
+  g_editorDirty = oldDirty;
 }
 
 function toggleInfoBox() {
