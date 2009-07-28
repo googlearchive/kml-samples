@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<NetworkLink>
+  <name>Link to my office</name>
+  <description>This is a network link to my office.</description>
+  <Link>
+    <href>simple-point-placemark.kml</href>
+  </Link>
+</NetworkLink>
+</kml>
