@@ -5,10 +5,9 @@
   <title>KML Interactive Sampler</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <script type="text/javascript" src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22maps%22%2C%22version%22%3A%222%22%7D%2C%7B%22name%22%3A%22earth%22%2C%22version%22%3A%221%22%7D%2C%7B%22name%22%3A%22dojo%22%2C%22version%22%3A%221.2.3%22%7D%5D%7D&key=ABQIAAAAKkfkHb2nXsD0o1OX2TbdkRRaozj48i9kKhnMmF3N7B7M7uPI0BRRfUKwr6fFsCZXrI626zu0YJBiPQ"></script>
+  <script type="text/javascript" src="http://earth-api-utility-library.googlecode.com/svn/tags/extensions-0.2/dist/extensions.pack.js"></script>
   <script type="text/javascript" src="kml-ref.js"></script>
   <script type="text/javascript" src="lib/base64.js"></script>
-  <script type="text/javascript" src="lib/ge-poly-fit-hack.js"></script>
-  <script type="text/javascript" src="lib/kmldomwalk.js"></script>
   <script type="text/javascript" src="lib/codemirror/js/codemirror.js"></script>
   <style type="text/css">
     @import "http://ajax.googleapis.com/ajax/libs/dojo/1.2.3/dijit/themes/nihilo/nihilo.css";
@@ -20,6 +19,7 @@
 /* <![CDATA[ */
 
 var g_ge;
+var g_gex;
 var g_editor;
 var g_editorReady = false;
 var g_earthDisabled = false;
@@ -87,9 +87,12 @@ google.setOnLoadCallback(function() {
       function(ge) {
         g_ge = ge;
         g_ge.getWindow().setVisibility(true);
+
         g_ge.getNavigationControl().setVisibility(ge.VISIBILITY_AUTO);
         g_ge.getLayerRoot().enableLayerById(g_ge.LAYER_BORDERS, true);
         g_ge.getLayerRoot().enableLayerById(g_ge.LAYER_BUILDINGS, true);
+
+        g_gex = new GEarthExtensions(g_ge);
 
         tryOpenStartNode();
       },
@@ -287,12 +290,15 @@ function reloadKml(kmlString) {
       g_ge.getOptions().setMapType(g_ge.MAP_TYPE_EARTH);
 
     // Walk the loaded KML object hierarchy looking for a <gx:Tour>.
-    walkKmlDom(g_kmlObject, function(context) {
-      if (this.getType() == 'KmlTour') {
-        tourFound = true;
-        g_ge.getTourPlayer().setTour(this);
-        g_ge.getTourPlayer().play();
-        return false;
+    g_gex.dom.walk({
+      rootObject: g_kmlObject,
+      visitCallback: function(context) {
+        if (this.getType() == 'KmlTour') {
+          tourFound = true;
+          g_ge.getTourPlayer().setTour(this);
+          g_ge.getTourPlayer().play();
+          return false;
+        }
       }
     });
 
@@ -303,9 +309,7 @@ function reloadKml(kmlString) {
 
   if (!tourFound) {
     var aspectRatio = dojo.coords('right').w * 1.0 / dojo.coords('right').h;
-    var la = computeFitLookAt(g_ge, g_kmlObject, aspectRatio);
-    if (la)
-      g_ge.getView().setAbstractView(la);
+    g_gex.util.flyToObject(g_kmlObject, { aspectRatio: aspectRatio });
   }
 }
 
@@ -451,7 +455,8 @@ var interactiveSampler = {
 </div>
 <textarea id="editor" style="width: 100%; height: 100%">
 &lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;kml xmlns="http://www.opengis.net/kml/2.2"&gt;
+&lt;kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"&gt;
   &lt;Document&gt;
 
   &lt;/Document&gt;
