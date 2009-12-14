@@ -1,0 +1,1541 @@
+<kml>
+  <Document>
+    <name>q020310</name>
+    <Region id="q020310">
+      <LatLonAltBox>
+        <north>34.124477375</north>
+        <south>33.40006309375</south>
+        <east>-111.4862218125</east>
+        <west>-113.146102125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0203100">
+        <LatLonAltBox>
+          <north>34.124477375</north>
+          <south>33.762270234375</south>
+          <east>-112.31616196875</east>
+          <west>-113.146102125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>905.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0203101">
+        <LatLonAltBox>
+          <north>34.124477375</north>
+          <south>33.762270234375</south>
+          <east>-111.4862218125</east>
+          <west>-112.31616196875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>906.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0203102">
+        <LatLonAltBox>
+          <north>33.762270234375</north>
+          <south>33.40006309375</south>
+          <east>-112.31616196875</east>
+          <west>-113.146102125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>907.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0203103">
+        <LatLonAltBox>
+          <north>33.762270234375</north>
+          <south>33.40006309375</south>
+          <east>-111.4862218125</east>
+          <west>-112.31616196875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>909.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["850HH"]]></value>
+          </Data>
+          <Data name="size">
+            <value>0.76</value>
+          </Data>
+          <Data name="arc">
+            <value>1</value>
+          </Data>
+          <Data name="strongest">
+            <value>-16</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-20</value>
+          </Data>
+          <Data name="weakest">
+            <value>-24</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-24</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>6</value>
+          </Data>
+          <Data name="bearing">
+            <value>183</value>
+          </Data>
+          <Data name="signal">
+            <value>-20</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>6</value>
+          </Data>
+          <Data name="bearing">
+            <value>183</value>
+          </Data>
+          <Data name="signal">
+            <value>-19</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>6</value>
+          </Data>
+          <Data name="bearing">
+            <value>183</value>
+          </Data>
+          <Data name="signal">
+            <value>-22</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>5.9</value>
+          </Data>
+          <Data name="bearing">
+            <value>182</value>
+          </Data>
+          <Data name="signal">
+            <value>-16</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>5.9</value>
+          </Data>
+          <Data name="bearing">
+            <value>182</value>
+          </Data>
+          <Data name="signal">
+            <value>-24</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>6</value>
+          </Data>
+          <Data name="bearing">
+            <value>183</value>
+          </Data>
+          <Data name="signal">
+            <value>-21
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -112.057878,33.419444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85201"]]></value>
+          </Data>
+          <Data name="size">
+            <value>8.26</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-24</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-28</value>
+          </Data>
+          <Data name="weakest">
+            <value>-32</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-32</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>14.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>241</value>
+          </Data>
+          <Data name="signal">
+            <value>-28</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>14.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>241</value>
+          </Data>
+          <Data name="signal">
+            <value>-26</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>14.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>241</value>
+          </Data>
+          <Data name="signal">
+            <value>-30</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>14.1</value>
+          </Data>
+          <Data name="bearing">
+            <value>241</value>
+          </Data>
+          <Data name="signal">
+            <value>-24</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>14.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>241</value>
+          </Data>
+          <Data name="signal">
+            <value>-32</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>14.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>241</value>
+          </Data>
+          <Data name="signal">
+            <value>-28
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.847016,33.432177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85203"]]></value>
+          </Data>
+          <Data name="size">
+            <value>9.28</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-25</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-30</value>
+          </Data>
+          <Data name="weakest">
+            <value>-33</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>16.5</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-30</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>16.5</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-28</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>16.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-31</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>16.4</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-25</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>16.5</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>16.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-30
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.806002,33.437493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85204"]]></value>
+          </Data>
+          <Data name="size">
+            <value>9.99</value>
+          </Data>
+          <Data name="arc">
+            <value>1</value>
+          </Data>
+          <Data name="strongest">
+            <value>-25</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-30</value>
+          </Data>
+          <Data name="weakest">
+            <value>-33</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>16.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-30</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>16.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-28</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>16.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-31</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>16.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-25</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>16.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>254</value>
+          </Data>
+          <Data name="signal">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>16.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-30
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.785941,33.400127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85205"]]></value>
+          </Data>
+          <Data name="size">
+            <value>10.37</value>
+          </Data>
+          <Data name="arc">
+            <value>1</value>
+          </Data>
+          <Data name="strongest">
+            <value>-28</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-32</value>
+          </Data>
+          <Data name="weakest">
+            <value>-36</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-36</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>21</value>
+          </Data>
+          <Data name="bearing">
+            <value>251</value>
+          </Data>
+          <Data name="signal">
+            <value>-32</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>21</value>
+          </Data>
+          <Data name="bearing">
+            <value>251</value>
+          </Data>
+          <Data name="signal">
+            <value>-30</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>21.1</value>
+          </Data>
+          <Data name="bearing">
+            <value>252</value>
+          </Data>
+          <Data name="signal">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>20.9</value>
+          </Data>
+          <Data name="bearing">
+            <value>252</value>
+          </Data>
+          <Data name="signal">
+            <value>-28</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>21</value>
+          </Data>
+          <Data name="bearing">
+            <value>252</value>
+          </Data>
+          <Data name="signal">
+            <value>-36</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>21.1</value>
+          </Data>
+          <Data name="bearing">
+            <value>252</value>
+          </Data>
+          <Data name="signal">
+            <value>-32
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.716865,33.426932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85206"]]></value>
+          </Data>
+          <Data name="size">
+            <value>9.87</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-27</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-32</value>
+          </Data>
+          <Data name="weakest">
+            <value>-35</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-35</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>20.1</value>
+          </Data>
+          <Data name="bearing">
+            <value>256</value>
+          </Data>
+          <Data name="signal">
+            <value>-32</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>20.1</value>
+          </Data>
+          <Data name="bearing">
+            <value>256</value>
+          </Data>
+          <Data name="signal">
+            <value>-30</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>20.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>256</value>
+          </Data>
+          <Data name="signal">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>20</value>
+          </Data>
+          <Data name="bearing">
+            <value>256</value>
+          </Data>
+          <Data name="signal">
+            <value>-27</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>20.1</value>
+          </Data>
+          <Data name="bearing">
+            <value>256</value>
+          </Data>
+          <Data name="signal">
+            <value>-35</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>20.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>256</value>
+          </Data>
+          <Data name="signal">
+            <value>-32
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.724526,33.400306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85207"]]></value>
+          </Data>
+          <Data name="size">
+            <value>23.65</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-29</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-34</value>
+          </Data>
+          <Data name="weakest">
+            <value>-37</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-37</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>25.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-34</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>25.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-32</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>25.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-35</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>25.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-29</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>25.2</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-37</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>25.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>253</value>
+          </Data>
+          <Data name="signal">
+            <value>-34
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.643387,33.436767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85213"]]></value>
+          </Data>
+          <Data name="size">
+            <value>9.61</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-26</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-31</value>
+          </Data>
+          <Data name="weakest">
+            <value>-34</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-34</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>18.4</value>
+          </Data>
+          <Data name="bearing">
+            <value>247</value>
+          </Data>
+          <Data name="signal">
+            <value>-31</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>18.4</value>
+          </Data>
+          <Data name="bearing">
+            <value>247</value>
+          </Data>
+          <Data name="signal">
+            <value>-29</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>18.4</value>
+          </Data>
+          <Data name="bearing">
+            <value>247</value>
+          </Data>
+          <Data name="signal">
+            <value>-32</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>18.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>247</value>
+          </Data>
+          <Data name="signal">
+            <value>-26</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>18.3</value>
+          </Data>
+          <Data name="bearing">
+            <value>247</value>
+          </Data>
+          <Data name="signal">
+            <value>-34</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>18.4</value>
+          </Data>
+          <Data name="bearing">
+            <value>247</value>
+          </Data>
+          <Data name="signal">
+            <value>-31
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.76892,33.434192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85215"]]></value>
+          </Data>
+          <Data name="size">
+            <value>133.64</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-29</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-33</value>
+          </Data>
+          <Data name="weakest">
+            <value>-37</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-37</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>23.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>23.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-31</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>23.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-34</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>23.5</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-29</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>23.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-37</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>23.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>244</value>
+          </Data>
+          <Data name="signal">
+            <value>-33
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.693504,33.479868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="zip">
+            <value><![CDATA["85220"]]></value>
+          </Data>
+          <Data name="size">
+            <value>23.83</value>
+          </Data>
+          <Data name="arc">
+            <value>0</value>
+          </Data>
+          <Data name="strongest">
+            <value>-31</value>
+          </Data>
+          <Data name="3rd strongest">
+            <value>-35</value>
+          </Data>
+          <Data name="weakest">
+            <value>-39</value>
+          </Data>
+          <Data name="low VHF flag">
+            <value/>
+          </Data>
+          <Data name="high VHF flag">
+            <value>HIGH VHF</value>
+          </Data>
+          <Data name="weakest VHF">
+            <value>-39</value>
+          </Data>
+          <Data name="network">
+            <value>UNI</value>
+          </Data>
+          <Data name="callsign">
+            <value>KTVW</value>
+          </Data>
+          <Data name="rf channel">
+            <value>33</value>
+          </Data>
+          <Data name="distance">
+            <value>28.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>258</value>
+          </Data>
+          <Data name="signal">
+            <value>-35</value>
+          </Data>
+          <Data name="network">
+            <value>ABC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KNXV</value>
+          </Data>
+          <Data name="rf channel">
+            <value>15</value>
+          </Data>
+          <Data name="distance">
+            <value>28.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>258</value>
+          </Data>
+          <Data name="signal">
+            <value>-33</value>
+          </Data>
+          <Data name="network">
+            <value>NBC</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPNX</value>
+          </Data>
+          <Data name="rf channel">
+            <value>12</value>
+          </Data>
+          <Data name="distance">
+            <value>28.8</value>
+          </Data>
+          <Data name="bearing">
+            <value>258</value>
+          </Data>
+          <Data name="signal">
+            <value>-36</value>
+          </Data>
+          <Data name="network">
+            <value>CBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KPHO</value>
+          </Data>
+          <Data name="rf channel">
+            <value>17</value>
+          </Data>
+          <Data name="distance">
+            <value>28.6</value>
+          </Data>
+          <Data name="bearing">
+            <value>258</value>
+          </Data>
+          <Data name="signal">
+            <value>-31</value>
+          </Data>
+          <Data name="network">
+            <value>FOX</value>
+          </Data>
+          <Data name="callsign">
+            <value>KSAZ</value>
+          </Data>
+          <Data name="rf channel">
+            <value>10</value>
+          </Data>
+          <Data name="distance">
+            <value>28.7</value>
+          </Data>
+          <Data name="bearing">
+            <value>258</value>
+          </Data>
+          <Data name="signal">
+            <value>-39</value>
+          </Data>
+          <Data name="network">
+            <value>PBS</value>
+          </Data>
+          <Data name="callsign">
+            <value>KAET</value>
+          </Data>
+          <Data name="rf channel">
+            <value>8</value>
+          </Data>
+          <Data name="distance">
+            <value>28.8</value>
+          </Data>
+          <Data name="bearing">
+            <value>258</value>
+          </Data>
+          <Data name="signal">
+            <value>-35
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.576204,33.416083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
