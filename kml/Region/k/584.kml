@@ -1,0 +1,383 @@
+<kml>
+  <Document>
+    <name>q02120</name>
+    <Region id="q02120">
+      <LatLonAltBox>
+        <north>-0.8734575</north>
+        <south>-1.50492625</south>
+        <east>36.44102875</east>
+        <west>35.947985</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q021200">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.189191875</south>
+          <east>36.194506875</east>
+          <west>35.947985</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>585.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021201">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.189191875</south>
+          <east>36.44102875</east>
+          <west>36.194506875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>586.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021202">
+        <LatLonAltBox>
+          <north>-1.189191875</north>
+          <south>-1.50492625</south>
+          <east>36.194506875</east>
+          <west>35.947985</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>587.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70216</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAJIADO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MOSIRO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1252,-1.46313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70227</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAJIADO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>OLGUMI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.43586,-1.09842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70547</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAKURU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MAIELLA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.19834,-0.88593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70693</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ENOOSUPUKIA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.23682,-0.98355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70696</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ERRETO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.20125,-1.15326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71574</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ILIASER DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.043592,-0.943479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70701</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KOJONGA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>4
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0485,-0.98747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71578</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MOSIRO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.116316,-1.387863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70709</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NAIREGI ENKARE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1483,-1.03713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70712</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAROK</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NAROK TTC DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.95537,-1.08342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

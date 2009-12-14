@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q021213110</name>
+    <Region id="q021213110">
+      <LatLonAltBox>
+        <north>-1.189191875</north>
+        <south>-1.228658671875</south>
+        <east>36.903257265625</east>
+        <west>36.87244203125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40253</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ST. THERESA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.897404,-1.202511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40254</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>TUJISAIDIE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.883809,-1.206475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

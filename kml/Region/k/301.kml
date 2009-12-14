@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q020101</name>
+    <Region id="q020101">
+      <LatLonAltBox>
+        <north>0.38948</north>
+        <south>0.073745625</south>
+        <east>35.45494125</east>
+        <west>35.208419375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0201010">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>0.2316128125</south>
+          <east>35.3316803125</east>
+          <west>35.208419375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>302.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201011">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>0.2316128125</south>
+          <east>35.45494125</east>
+          <west>35.3316803125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>303.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201012">
+        <LatLonAltBox>
+          <north>0.2316128125</north>
+          <south>0.073745625</south>
+          <east>35.3316803125</east>
+          <west>35.208419375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>304.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201013">
+        <LatLonAltBox>
+          <north>0.2316128125</north>
+          <south>0.073745625</south>
+          <east>35.45494125</east>
+          <west>35.3316803125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>305.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71557</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHEPKUNYUK DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.23023,0.152946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71192</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>HOLY FAMILY DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.28531,0.20669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70616</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KABUNYERIA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>4
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.2259,0.09436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71193</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAPCHORUA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.30045,0.09932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70675</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAPNYEBERAI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.24694,0.22614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70634</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KEBEN DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.3132,0.14847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71194</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIBABET DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.25,0.18,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70637</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KILIBWONY HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>4
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.2239,0.21544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70642</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIPCHOMO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.23361,0.09051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71566</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NANDI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIPKOROR DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.27809,0.152507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

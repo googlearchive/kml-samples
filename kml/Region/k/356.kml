@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q020123</name>
+    <Region id="q020123">
+      <LatLonAltBox>
+        <north>-0.557723125</north>
+        <south>-0.8734575</south>
+        <east>35.45494125</east>
+        <west>35.208419375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0201230">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.7155903125</south>
+          <east>35.3316803125</east>
+          <west>35.208419375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>357.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201231">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.7155903125</south>
+          <east>35.45494125</east>
+          <west>35.3316803125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>361.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201232">
+        <LatLonAltBox>
+          <north>-0.7155903125</north>
+          <south>-0.8734575</south>
+          <east>35.3316803125</east>
+          <west>35.208419375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>362.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201233">
+        <LatLonAltBox>
+          <north>-0.7155903125</north>
+          <south>-0.8734575</south>
+          <east>35.45494125</east>
+          <west>35.3316803125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>363.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70087</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BOMET SUB-HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.33807,-0.78031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70089</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHEBABANGO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.22583,-0.72722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71210</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHEMOIBER DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.322947,-0.697007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70095</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHESOEN DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.28123,-0.70124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70098</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>IRWAGA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.37412,-0.74123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71118</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ITEMBE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MoH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.30111,-0.78583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71211</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KABOEITO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.295338,-0.69631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70101</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KANUSIN DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.21417,-0.77111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70102</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAPKESOSIO HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.31861,-0.84667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70103</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BOMET</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAPKIMOLWA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.39295,-0.86094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

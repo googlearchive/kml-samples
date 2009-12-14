@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q000</name>
+    <Region id="q000">
+      <LatLonAltBox>
+        <north>5.44123</north>
+        <south>2.915355</south>
+        <east>35.947985</east>
+        <west>33.97581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0000">
+        <LatLonAltBox>
+          <north>5.44123</north>
+          <south>4.1782925</south>
+          <east>34.9618975</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>4.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0001">
+        <LatLonAltBox>
+          <north>5.44123</north>
+          <south>4.1782925</south>
+          <east>35.947985</east>
+          <west>34.9618975</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>5.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0002">
+        <LatLonAltBox>
+          <north>4.1782925</north>
+          <south>2.915355</south>
+          <east>34.9618975</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>6.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0003">
+        <LatLonAltBox>
+          <north>4.1782925</north>
+          <south>2.915355</south>
+          <east>35.947985</east>
+          <west>34.9618975</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>9.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70874</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>AIC KIBISH DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.82802,5.35292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70876</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>AP KIBISHI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.6412,5.2123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>71672</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHOKICHOK DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.770382,3.072527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70880</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GK PRISONDISPENSARY(TURKANA)</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.62123,3.15232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70881</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GSU KIBISHI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.5512,5.44123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70882</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ICRC LOKICHOGGIO HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.3078,4.18993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70883</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ILLE SPRING DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.76415,3.42876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70885</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>JULUK DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.5967,3.1236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70886</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAALENG DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.38123,3.90231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70887</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TURKANA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KABLO KORI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.06746,3.12534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

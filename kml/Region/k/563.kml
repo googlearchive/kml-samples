@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q0211302</name>
+    <Region id="q0211302">
+      <LatLonAltBox>
+        <north>-0.3998559375</north>
+        <south>-0.557723125</south>
+        <east>37.5503771875</east>
+        <west>37.42711625</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q02113020">
+        <LatLonAltBox>
+          <north>-0.3998559375</north>
+          <south>-0.47878953125</south>
+          <east>37.48874671875</east>
+          <west>37.42711625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>564.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02113021">
+        <LatLonAltBox>
+          <north>-0.3998559375</north>
+          <south>-0.47878953125</south>
+          <east>37.5503771875</east>
+          <west>37.48874671875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>565.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02113022">
+        <LatLonAltBox>
+          <north>-0.47878953125</north>
+          <south>-0.557723125</south>
+          <east>37.48874671875</east>
+          <west>37.42711625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>566.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02113023">
+        <LatLonAltBox>
+          <north>-0.47878953125</north>
+          <south>-0.557723125</south>
+          <east>37.5503771875</east>
+          <west>37.48874671875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>567.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30078</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAGUMOINI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4763,-0.55586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30079</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAIRURI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4647,-0.43093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>31030</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAMAMA SEC. SCHOOL DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4667,-0.43182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30080</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KANGARU DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.45773,-0.49476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30084</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KATHANGARI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4451,-0.47875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30085</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KATHANGARIRI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.45,-0.41,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30087</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KEVOTE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.5349,-0.44472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30803</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIANJOKOMA TRINITY HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.502932,-0.399952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30089</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIBUGU HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4352,-0.44435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>31034</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIGARI-ST. MARK T.C DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.473724,-0.433846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

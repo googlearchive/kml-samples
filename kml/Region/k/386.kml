@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q02021003</name>
+    <Region id="q02021003">
+      <LatLonAltBox>
+        <north>-0.95239109375</north>
+        <south>-1.0313246875</south>
+        <east>34.5921146875</east>
+        <west>34.53048421875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60662</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>THIM JOPE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.583,-1.02,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60339</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ULANDA MISSION HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.5682,-0.9916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

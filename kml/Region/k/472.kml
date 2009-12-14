@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q0210320</name>
+    <Region id="q0210320">
+      <LatLonAltBox>
+        <north>-0.557723125</north>
+        <south>-0.7155903125</south>
+        <east>36.5642896875</east>
+        <west>36.44102875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70529</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAKURU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KARATE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.47842,-0.68848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>70580</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>RIFT VALLEY</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAKURU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYS NAIVASHA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.48788,-0.64834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

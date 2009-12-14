@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q020</name>
+    <Region id="q020">
+      <LatLonAltBox>
+        <north>0.38948</north>
+        <south>-2.136395</south>
+        <east>35.947985</east>
+        <west>33.97581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0200">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>-0.8734575</south>
+          <east>34.9618975</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>162.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0201">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>-0.8734575</south>
+          <east>35.947985</east>
+          <west>34.9618975</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>294.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0202">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-2.136395</south>
+          <east>34.9618975</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>372.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0203">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-2.136395</south>
+          <east>35.947985</east>
+          <west>34.9618975</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>401.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60001</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ABIDHA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.41064,-0.15902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60002</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ANYUONGI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.27613,-0.17618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60003</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ARO COMMUNITY HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.35579,-0.06953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60004</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BONDO DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.2745,-0.09021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60005</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GOBEI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.2905,-0.09021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60006</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GOT AGULU HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.0248,-0.0341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60007</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GOT MATAR DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1315,-0.0309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60008</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAGWA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.25665,-0.22851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60009</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAGWA SDA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.25637,-0.22469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60735</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BONDO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAMBAJO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.21136,-0.078944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

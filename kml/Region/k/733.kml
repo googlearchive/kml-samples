@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q03</name>
+    <Region id="q03">
+      <LatLonAltBox>
+        <north>0.38948</north>
+        <south>-4.66227</south>
+        <east>41.86451</east>
+        <west>37.92016</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q030">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>-2.136395</south>
+          <east>39.892335</east>
+          <west>37.92016</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>734.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q031">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>-2.136395</south>
+          <east>41.86451</east>
+          <west>39.892335</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>781.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q032">
+        <LatLonAltBox>
+          <north>-2.136395</north>
+          <south>-4.66227</south>
+          <east>39.892335</east>
+          <west>37.92016</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>792.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q033">
+        <LatLonAltBox>
+          <north>-2.136395</north>
+          <south>-4.66227</south>
+          <east>41.86451</east>
+          <west>39.892335</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>841.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20001</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>AL-SULTAN DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.59569,-3.82122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20003</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BAMBA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.5237,-3.54541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20005</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BOMANI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.7494,-3.88427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20006</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BWAGAMOYO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.64452,-3.92021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20007</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHASIMBA/MWELE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.69995,-3.73492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20379</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHONYI-KIZINGO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.677872,-3.795236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20009</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>DIDA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.80541,-3.42881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20423</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>DZIKUNZE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.750794,-3.295589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20010</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GANZE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.67196,-3.54244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20011</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KILIFI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GIRIAMA MISSION DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.58592,-3.81436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

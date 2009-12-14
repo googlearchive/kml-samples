@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q0</name>
+    <Region id="q0">
+      <LatLonAltBox>
+        <north>5.44123</north>
+        <south>-4.66227</south>
+        <east>41.86451</east>
+        <west>33.97581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q00">
+        <LatLonAltBox>
+          <north>5.44123</north>
+          <south>0.38948</south>
+          <east>37.92016</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>2.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q01">
+        <LatLonAltBox>
+          <north>5.44123</north>
+          <south>0.38948</south>
+          <east>41.86451</east>
+          <west>37.92016</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>134.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>-4.66227</south>
+          <east>37.92016</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>160.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>-4.66227</south>
+          <east>41.86451</east>
+          <west>37.92016</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>733.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10574</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ACK ST. JOSEPH KANYARIRI  DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.7,-1.23,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10694</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ALLIANCE GIRLS HIGH SCHOOL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.66236,-1.26361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10001</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ANMER DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.84009,-1.13739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10002</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>APPROVED SCHOOL DISPENSARY (KIRIGITI)</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.83605,-1.17129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10003</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BATHI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.6312,-0.9829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10575</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BETHSAIDA RIARA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.700972,-1.112857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10004</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BIBIRIONI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.6171,-1.08108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10005</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHURA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.6896,-1.21635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10006</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CIANDA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.7613,-1.1328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10007</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>G.K PRISON DISPENSARY(KIAMBU)</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.82432,-1.17568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q01</name>
+    <Region id="q01">
+      <LatLonAltBox>
+        <north>5.44123</north>
+        <south>0.38948</south>
+        <east>41.86451</east>
+        <west>37.92016</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q010">
+        <LatLonAltBox>
+          <north>5.44123</north>
+          <south>2.915355</south>
+          <east>39.892335</east>
+          <west>37.92016</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>135.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q011">
+        <LatLonAltBox>
+          <north>5.44123</north>
+          <south>2.915355</south>
+          <east>41.86451</east>
+          <west>39.892335</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>140.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q012">
+        <LatLonAltBox>
+          <north>2.915355</north>
+          <south>0.38948</south>
+          <east>39.892335</east>
+          <west>37.92016</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>147.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q013">
+        <LatLonAltBox>
+          <north>2.915355</north>
+          <south>0.38948</south>
+          <east>41.86451</east>
+          <west>39.892335</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>154.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30806</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BADANA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.983524,1.114159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30807</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BARABANTE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.15,1.38,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30110</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BILIKO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.33232,0.91232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30809</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BOJI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.98,0.75,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30810</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BULESA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.533212,0.958175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30111</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BUSSELA DISPENSARY - BULESA</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.53881,0.96306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30811</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>DAABA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.35,0.48,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30112</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>DADACHASA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.96933,1.30381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30113</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ELDERA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.83669,0.5955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30114</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>ISIOLO</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GAFARSA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.57213,0.83232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

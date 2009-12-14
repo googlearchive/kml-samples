@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q021132</name>
+    <Region id="q021132">
+      <LatLonAltBox>
+        <north>-0.557723125</north>
+        <south>-0.8734575</south>
+        <east>37.673638125</east>
+        <west>37.42711625</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0211320">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.7155903125</south>
+          <east>37.5503771875</east>
+          <west>37.42711625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>578.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0211321">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.7155903125</south>
+          <east>37.673638125</east>
+          <west>37.5503771875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>579.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0211322">
+        <LatLonAltBox>
+          <north>-0.7155903125</north>
+          <south>-0.8734575</south>
+          <east>37.5503771875</east>
+          <west>37.42711625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>580.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0211323">
+        <LatLonAltBox>
+          <north>-0.7155903125</north>
+          <south>-0.8734575</south>
+          <east>37.673638125</east>
+          <west>37.5503771875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>581.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30096</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>EMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MOTHER NAZZALLERO MISSION HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.4782,-0.5638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30927</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CCS KIRITIRI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.648456,-0.687491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30430</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GACHURIRI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.51782,-0.70965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30432</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>IRIAMURAI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.661,-0.71258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30929</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAMUNYANGE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.562619,-0.70431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30442</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIAMURINGA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.5288,-0.57181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30444</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIRITIRI HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.6411,-0.67895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30445</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KITOLOLONI CATHOLIC DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.51126,-0.75405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30446</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>LIVIERO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.55,-0.64,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30447</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MBEERE</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MACHANGA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.6599,-0.77754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

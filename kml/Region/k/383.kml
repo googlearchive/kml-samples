@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q020210</name>
+    <Region id="q020210">
+      <LatLonAltBox>
+        <north>-0.8734575</north>
+        <south>-1.189191875</south>
+        <east>34.715375625</east>
+        <west>34.46885375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0202100">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.0313246875</south>
+          <east>34.5921146875</east>
+          <west>34.46885375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>384.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0202101">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.0313246875</south>
+          <east>34.715375625</east>
+          <west>34.5921146875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>387.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0202102">
+        <LatLonAltBox>
+          <north>-1.0313246875</north>
+          <south>-1.189191875</south>
+          <east>34.5921146875</east>
+          <west>34.46885375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>388.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0202103">
+        <LatLonAltBox>
+          <north>-1.0313246875</north>
+          <south>-1.189191875</south>
+          <east>34.715375625</east>
+          <west>34.5921146875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>389.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60661</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>SUGUTA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.6488,-0.92291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60269</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KEHANCHA DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.62746,-1.17749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60272</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KOMBE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.55861,-1.10582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60786</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KOMOMANGE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.583986,-1.184645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60275</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MASABA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.5318,-1.11444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60791</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MUCHEBE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.501711,-1.18826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60281</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYABOKARANGE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.53995,-1.17217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60794</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYAMEKONGOROTO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.496752,-1.148174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60283</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYANGOGE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>4
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.4726,-1.16047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60565</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KURIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYANKORE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.49698,-1.17046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

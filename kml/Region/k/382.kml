@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q02021</name>
+    <Region id="q02021">
+      <LatLonAltBox>
+        <north>-0.8734575</north>
+        <south>-1.50492625</south>
+        <east>34.9618975</east>
+        <west>34.46885375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q020210">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.189191875</south>
+          <east>34.715375625</east>
+          <west>34.46885375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>383.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q020211">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.189191875</south>
+          <east>34.9618975</east>
+          <west>34.715375625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>390.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q020212">
+        <LatLonAltBox>
+          <north>-1.189191875</north>
+          <south>-1.50492625</south>
+          <east>34.715375625</east>
+          <west>34.46885375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>395.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q020213">
+        <LatLonAltBox>
+          <north>-1.189191875</north>
+          <south>-1.50492625</south>
+          <east>34.9618975</east>
+          <west>34.715375625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>399.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60051</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MONIANKU HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.6828,-0.967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60052</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MOTICHO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.6315,-0.88662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60752</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYABIOSI  DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.816045,-0.915882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60054</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYACHEKI SUB-DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.8772,-0.89071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60494</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYACHOGOCHOGO H.C.</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.79643,-0.87566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60495</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NYAMOGONCHORO HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.68903,-0.94361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60754</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>OMOBERA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.747903,-0.881893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60530</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>OUR LADY OF LORDS MISSION HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.71941,-0.88645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60063</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>RIOKINDO SDA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.7322,-0.88487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60064</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GUCHA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>RITUMBE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.84671,-0.91962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

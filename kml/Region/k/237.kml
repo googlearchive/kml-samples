@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q020022</name>
+    <Region id="q020022">
+      <LatLonAltBox>
+        <north>-0.557723125</north>
+        <south>-0.8734575</south>
+        <east>34.222331875</east>
+        <west>33.97581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0200220">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.7155903125</south>
+          <east>34.0990709375</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>238.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0200221">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.7155903125</south>
+          <east>34.222331875</east>
+          <west>34.0990709375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>239.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0200222">
+        <LatLonAltBox>
+          <north>-0.7155903125</north>
+          <south>-0.8734575</south>
+          <east>34.0990709375</east>
+          <west>33.97581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>240.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0200223">
+        <LatLonAltBox>
+          <north>-0.7155903125</north>
+          <south>-0.8734575</south>
+          <east>34.222331875</east>
+          <west>34.0990709375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>241.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60293</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KABUTO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.19611,-0.8724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60300</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KARUNGA SUB-DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1796,-0.79535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60304</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>LWANDA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.196711,-0.872471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60594</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>OTATI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.18272,-0.77984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60332</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>RIAT DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1645,-0.79768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60336</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MIGORI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ST. CAMILUS HOSPITAL KARUNGU</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1983,-0.8123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60864</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>SUBA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GWASI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.1,-0.7,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60469</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>SUBA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIGWA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>4
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.21112,-0.63123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60634</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>SUBA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KISAKU DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.10996,-0.66135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>60470</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NYANZA</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>SUBA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KISEGI SUB-DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>4
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.08234,-0.63123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

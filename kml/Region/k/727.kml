@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q0231</name>
+    <Region id="q0231">
+      <LatLonAltBox>
+        <north>-2.136395</north>
+        <south>-3.3993325</south>
+        <east>37.92016</east>
+        <west>36.9340725</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q02310">
+        <LatLonAltBox>
+          <north>-2.136395</north>
+          <south>-2.76786375</south>
+          <east>37.42711625</east>
+          <west>36.9340725</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>728.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02311">
+        <LatLonAltBox>
+          <north>-2.136395</north>
+          <south>-2.76786375</south>
+          <east>37.92016</east>
+          <west>37.42711625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>729.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02312">
+        <LatLonAltBox>
+          <north>-2.76786375</north>
+          <south>-3.3993325</south>
+          <east>37.42711625</east>
+          <west>36.9340725</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>730.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02313">
+        <LatLonAltBox>
+          <north>-2.76786375</north>
+          <south>-3.3993325</south>
+          <east>37.92016</east>
+          <west>37.42711625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>731.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20291</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TAITA TAVETA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>TAVETA SUB-DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.67725,-3.3987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>20386</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>COAST</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>TAITA TAVETA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ZIWANI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.73184,-3.23593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30707</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KATANGINI DISPENSARY - KIBWEZI</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.81811,-2.36933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30327</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIBOKO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.72267,-2.20769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30709</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIIMAKIU DISPENSARY - MAKINDU</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.7,-2.3666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30351</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MAKINDU CATHOLIC DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.82758,-2.26251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30352</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MAKINDU SUB-DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.82413,-2.28127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30749</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MAYIMWAA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.8234,-2.16169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30717</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NDANUNU DISPENSARY - MAKINDU</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.819194,-2.278605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30399</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MAKUENI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>YIMWAA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.82304,-2.16033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

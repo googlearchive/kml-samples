@@ -1,0 +1,50 @@
+<kml>
+  <Document>
+    <name>q0302010</name>
+    <Region id="q0302010">
+      <LatLonAltBox>
+        <north>-0.8734575</north>
+        <south>-1.0313246875</south>
+        <east>38.2899428125</east>
+        <west>38.166681875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>31011</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MWINGI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>YUMBU DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.259907,-0.911212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

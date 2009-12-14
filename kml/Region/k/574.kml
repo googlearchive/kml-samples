@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q02113102</name>
+    <Region id="q02113102">
+      <LatLonAltBox>
+        <north>-0.32092234375</north>
+        <south>-0.3998559375</south>
+        <east>37.73526859375</east>
+        <west>37.673638125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30978</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MERU SOUTH</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>PCEA RUBATE  DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.678195,-0.391542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>30618</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MERU SOUTH</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>WERU DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.7133,-0.36335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

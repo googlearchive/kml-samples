@@ -1,0 +1,50 @@
+<kml>
+  <Document>
+    <name>q0210300</name>
+    <Region id="q0210300">
+      <LatLonAltBox>
+        <north>-0.24198875</north>
+        <south>-0.3998559375</south>
+        <east>36.5642896875</east>
+        <west>36.44102875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10331</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>WANJOHI HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5122,-0.30713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

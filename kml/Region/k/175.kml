@@ -1,0 +1,50 @@
+<kml>
+  <Document>
+    <name>q02000130</name>
+    <Region id="q02000130">
+      <LatLonAltBox>
+        <north>0.2316128125</north>
+        <south>0.15267921875</south>
+        <east>34.40722328125</east>
+        <west>34.3455928125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80111</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUTERE/MUMIAS</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BUNGASI HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.39919,0.19947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q02103</name>
+    <Region id="q02103">
+      <LatLonAltBox>
+        <north>-0.24198875</north>
+        <south>-0.8734575</south>
+        <east>36.9340725</east>
+        <west>36.44102875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q021030">
+        <LatLonAltBox>
+          <north>-0.24198875</north>
+          <south>-0.557723125</south>
+          <east>36.687550625</east>
+          <west>36.44102875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>460.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021031">
+        <LatLonAltBox>
+          <north>-0.24198875</north>
+          <south>-0.557723125</south>
+          <east>36.9340725</east>
+          <west>36.687550625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>464.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021032">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.8734575</south>
+          <east>36.687550625</east>
+          <west>36.44102875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>471.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021033">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.8734575</south>
+          <east>36.9340725</east>
+          <west>36.687550625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>476.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10184</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MARAGUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KANGARI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.85123,-0.78123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10189</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MARAGUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KINYONA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.827,-0.74819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10196</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MARAGUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MARIIRA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.928924,-0.794757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10552</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MARAGUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MUKURIA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.92743,-0.81247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10220</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MARAGUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>TATA HANAH DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.89292,-0.77677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10225</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MURANGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GACHARAGENI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8478,-0.61184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10228</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MURANGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GATANGARA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.93,-0.7,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10229</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MURANGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GATARA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.86,-0.72,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10230</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MURANGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GATHAITHI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8923,-0.74029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10238</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MURANGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ICHICHI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8387,-0.70447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

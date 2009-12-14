@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q02100</name>
+    <Region id="q02100">
+      <LatLonAltBox>
+        <north>0.38948</north>
+        <south>-0.24198875</south>
+        <east>36.44102875</east>
+        <west>35.947985</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q021000">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>0.073745625</south>
+          <east>36.194506875</east>
+          <west>35.947985</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>418.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021001">
+        <LatLonAltBox>
+          <north>0.38948</north>
+          <south>0.073745625</south>
+          <east>36.44102875</east>
+          <west>36.194506875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>419.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021002">
+        <LatLonAltBox>
+          <north>0.073745625</north>
+          <south>-0.24198875</south>
+          <east>36.194506875</east>
+          <west>35.947985</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>423.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021003">
+        <LatLonAltBox>
+          <north>0.073745625</north>
+          <south>-0.24198875</south>
+          <east>36.44102875</east>
+          <west>36.194506875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>428.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10692</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value><![CDATA[ACK RURII MOTHERS' UNION MED CENTRE]]></value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>6</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.392801,-0.187224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10287</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GK PRISON DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.42123,0.03212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10291</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAIMBAGA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.41967,-0.21036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10616</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KASUKU DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.380525,-0.132682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10618</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIRIGIO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.362715,-0.116328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10296</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>LESHAU PONDO HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.42112,-0.09232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10297</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value><![CDATA[MAINA & MWANGI HEALTH CENTRE]]></value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.3269,-0.14453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10298</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MAINA VILLAGE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.43232,0.06232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10301</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MIRANGINE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.254,-0.20632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10309</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NYANDARUA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NGANO HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.2833,-0.09575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q02121</name>
+    <Region id="q02121">
+      <LatLonAltBox>
+        <north>-0.8734575</north>
+        <south>-1.50492625</south>
+        <east>36.9340725</east>
+        <west>36.44102875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q021210">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.189191875</south>
+          <east>36.687550625</east>
+          <west>36.44102875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>589.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021211">
+        <LatLonAltBox>
+          <north>-0.8734575</north>
+          <south>-1.189191875</south>
+          <east>36.9340725</east>
+          <west>36.687550625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>594.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021212">
+        <LatLonAltBox>
+          <north>-1.189191875</north>
+          <south>-1.50492625</south>
+          <east>36.687550625</east>
+          <west>36.44102875</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>606.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021213">
+        <LatLonAltBox>
+          <north>-1.189191875</north>
+          <south>-1.50492625</south>
+          <east>36.9340725</east>
+          <west>36.687550625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>609.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10707</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIAMBU HIGH SCHOOL CLINIC</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.85072,-1.17281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10033</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIAWAROGA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.7027,-1.10046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10034</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIBUBUTI HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.78345,-1.15737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10035</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIENI FOREST DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.64838,-0.92117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10037</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIGUMO HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.82658,-1.03108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10038</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIHARA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.7386,-1.21091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10039</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIJABE MISSION HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.59431,-0.94349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10040</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KIMATHI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.8684,-1.1077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10041</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KINALE FOREST DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.61036,-0.91126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>10042</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>CENTRAL</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KIAMBU</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KINALE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.6157,-0.90824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

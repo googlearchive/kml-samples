@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q002233</name>
+    <Region id="q002233">
+      <LatLonAltBox>
+        <north>0.705214375</north>
+        <south>0.38948</south>
+        <east>34.9618975</east>
+        <west>34.715375625</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0022330">
+        <LatLonAltBox>
+          <north>0.705214375</north>
+          <south>0.5473471875</south>
+          <east>34.8386365625</east>
+          <west>34.715375625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>49.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0022331">
+        <LatLonAltBox>
+          <north>0.705214375</north>
+          <south>0.5473471875</south>
+          <east>34.9618975</east>
+          <west>34.8386365625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>50.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0022332">
+        <LatLonAltBox>
+          <north>0.5473471875</north>
+          <south>0.38948</south>
+          <east>34.8386365625</east>
+          <west>34.715375625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>53.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0022333">
+        <LatLonAltBox>
+          <north>0.5473471875</north>
+          <south>0.38948</south>
+          <east>34.9618975</east>
+          <west>34.8386365625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>54.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80030</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUNGOMA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>LUGULU MISSION HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.75278,0.66131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80040</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUNGOMA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MIHUU DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.78,0.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80201</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUNGOMA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>NZOIA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.75839,0.56543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80315</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUNGOMA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>SINOKO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.78476,0.69281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80063</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUNGOMA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>WEBUYE DISTRICT HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.77196,0.60729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80064</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUNGOMA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>WEBUYE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.7669,0.60365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80166</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAKAMEGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHEBWAYI HEALTH HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.83212,0.49933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80392</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAKAMEGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHEGULO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.788307,0.493803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80168</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAKAMEGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>CHOMBELI DISPENSARY.</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.75151,0.45621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80346</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAKAMEGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value><![CDATA[KIMANG'ETI DISPENSARY]]></value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.90868,0.43404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

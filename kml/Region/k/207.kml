@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q02001103</name>
+    <Region id="q02001103">
+      <LatLonAltBox>
+        <north>0.31054640625</north>
+        <south>0.2316128125</south>
+        <east>34.8386365625</east>
+        <west>34.77700609375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80475</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAKAMEGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>LIRHANDA MISSION HEALTHEALTH CENTRELINIC</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>6</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.800427,0.243875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80203</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>KAKAMEGA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>SHAMAKHUBU HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.82788,0.26468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

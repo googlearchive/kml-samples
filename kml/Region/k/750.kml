@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q03011</name>
+    <Region id="q03011">
+      <LatLonAltBox>
+        <north>0.38948</north>
+        <south>-0.24198875</south>
+        <east>39.892335</east>
+        <west>39.39929125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50094</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>DALLEY DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.428268,-0.183972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50104</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>SHIMBIREY DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.514212,-0.039454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

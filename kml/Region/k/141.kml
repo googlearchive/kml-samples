@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q0110</name>
+    <Region id="q0110">
+      <LatLonAltBox>
+        <north>5.44123</north>
+        <south>4.1782925</south>
+        <east>40.8784225</east>
+        <west>39.892335</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50124</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MANDERA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>HULO DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.798394,4.180672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50052</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>MANDERA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MALKA MARI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.76633,4.27713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

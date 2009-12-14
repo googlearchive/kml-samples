@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q02000101</name>
+    <Region id="q02000101">
+      <LatLonAltBox>
+        <north>0.38948</north>
+        <south>0.31054640625</south>
+        <east>34.3455928125</east>
+        <west>34.28396234375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80417</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUSIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>SAKARIA DISPENSARY (CDF)</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.323036,0.325901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>80105</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>WESTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>BUSIA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ST. CATHERINE SPECIAL SCHOOL DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            34.3325,0.34244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

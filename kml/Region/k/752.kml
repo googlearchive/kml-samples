@@ -1,0 +1,112 @@
+<kml>
+  <Document>
+    <name>q030130</name>
+    <Region id="q030130">
+      <LatLonAltBox>
+        <north>-0.24198875</north>
+        <south>-0.557723125</south>
+        <east>39.645813125</east>
+        <west>39.39929125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50102</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>MEDINA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.638927,-0.427335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50103</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>RAYA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.61006,-0.360913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50039</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>SANKURI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.557,-0.29168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

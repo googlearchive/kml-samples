@@ -1,0 +1,81 @@
+<kml>
+  <Document>
+    <name>q0213020</name>
+    <Region id="q0213020">
+      <LatLonAltBox>
+        <north>-1.189191875</north>
+        <south>-1.3470590625</south>
+        <east>37.0573334375</east>
+        <west>36.9340725</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40259</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>RUAI DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.988735,-1.2613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40220</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ST. BAKHITA UTAWALA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.96188,-1.28374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

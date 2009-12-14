@@ -1,0 +1,383 @@
+<kml>
+  <Document>
+    <name>q03013</name>
+    <Region id="q03013">
+      <LatLonAltBox>
+        <north>-0.24198875</north>
+        <south>-0.8734575</south>
+        <east>39.892335</east>
+        <west>39.39929125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q030130">
+        <LatLonAltBox>
+          <north>-0.24198875</north>
+          <south>-0.557723125</south>
+          <east>39.645813125</east>
+          <west>39.39929125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>752.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q030131">
+        <LatLonAltBox>
+          <north>-0.24198875</north>
+          <south>-0.557723125</south>
+          <east>39.892335</east>
+          <west>39.645813125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>753.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q030133">
+        <LatLonAltBox>
+          <north>-0.557723125</north>
+          <south>-0.8734575</south>
+          <east>39.892335</east>
+          <west>39.645813125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>754.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50005</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>BULLAMEDINA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.64986,-0.42131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50011</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>G K PRISON DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.6757,-0.373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50013</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GARISSA ARMY CAMP DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>3
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.7398,-0.42352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50014</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GARISSA DISPENSARY (MCH/FP)</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.64982,-0.44878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50015</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GARISSA PROVINCIAL GENERAL HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>2</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.64401,-0.42784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50017</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GTTC DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.8241,-0.28842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50022</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>IFTIN SUB-DISTRICT HOSP.</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.65594,-0.47319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50024</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>ISLAMIC AFRICAN RELIEF AGENCY DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.7138,-0.37434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50100</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAMUTHE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.833741,-0.732239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>50025</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NORTH EASTERN</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>GARISSA</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KORA KORA DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.77949,-0.60512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,401 @@
+<kml>
+  <Document>
+    <name>q02121303</name>
+    <Region id="q02121303">
+      <LatLonAltBox>
+        <north>-1.26812546875</north>
+        <south>-1.3470590625</south>
+        <east>36.8108115625</east>
+        <west>36.74918109375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q021213030">
+        <LatLonAltBox>
+          <north>-1.26812546875</north>
+          <south>-1.307592265625</south>
+          <east>36.779996328125</east>
+          <west>36.74918109375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>618.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021213031">
+        <LatLonAltBox>
+          <north>-1.26812546875</north>
+          <south>-1.307592265625</south>
+          <east>36.8108115625</east>
+          <west>36.779996328125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>619.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021213032">
+        <LatLonAltBox>
+          <north>-1.307592265625</north>
+          <south>-1.3470590625</south>
+          <east>36.779996328125</east>
+          <west>36.74918109375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>622.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q021213033">
+        <LatLonAltBox>
+          <north>-1.307592265625</north>
+          <south>-1.3470590625</south>
+          <east>36.8108115625</east>
+          <west>36.779996328125</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>623.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40286</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>EDEN DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.779708,-1.344323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40043</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>FORCES MEMORIAL HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>1</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.80334,-1.30948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40287</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>FREPALS MEDICAL CLINIC</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>2
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.764031,-1.336086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40055</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>GSU KIBERA HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.78916,-1.30333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40069</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>JINNAH AVENUE HEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>LA</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.78108,-1.30821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40077</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KABIRO KAWANGWARE DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.75119,-1.28384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40093</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KATWEKERA PHEALTH CENTRE</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>3</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>NGO</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.77233,-1.30614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40094</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KAWANGWARE CATHOLIC DISPENSARY</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MISS</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.75277,-1.28467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40273</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KEMRI CLINIC</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>4</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>OTHER MIN</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.803626,-1.310922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="UNIQUE ID">
+            <value>40100</value>
+          </Data>
+          <Data name="PROVINCE">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="DISTRICT (OLD)">
+            <value>NAIROBI</value>
+          </Data>
+          <Data name="FACILITY NAME">
+            <value>KENYATTA NATIONAL HOSPITAL</value>
+          </Data>
+          <Data name="F_TYPE">
+            <value>2</value>
+          </Data>
+          <Data name="AGENCY">
+            <value>MOH</value>
+          </Data>
+          <Data name="SOURCE OF COORDINATES">
+            <value>1
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.80639,-1.30088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
