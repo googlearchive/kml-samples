@@ -1,5 +1,77 @@
 <kml>
   <Document>
+    <Style id="d1">
+      <IconStyle>
+        <color>ffff0000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="d2">
+      <IconStyle>
+        <color>ffef0010</color>
+      </IconStyle>
+    </Style>
+    <Style id="d3">
+      <IconStyle>
+        <color>ffdf0020</color>
+      </IconStyle>
+    </Style>
+    <Style id="d4">
+      <IconStyle>
+        <color>ffcf0030</color>
+      </IconStyle>
+    </Style>
+    <Style id="d5">
+      <IconStyle>
+        <color>ffbf0040</color>
+      </IconStyle>
+    </Style>
+    <Style id="d6">
+      <IconStyle>
+        <color>ffaf0050</color>
+      </IconStyle>
+    </Style>
+    <Style id="d7">
+      <IconStyle>
+        <color>ff9f0060</color>
+      </IconStyle>
+    </Style>
+    <Style id="d8">
+      <IconStyle>
+        <color>ff8f0070</color>
+      </IconStyle>
+    </Style>
+    <Style id="d9">
+      <IconStyle>
+        <color>ff7f0080</color>
+      </IconStyle>
+    </Style>
+    <Style id="d10">
+      <IconStyle>
+        <color>ff6f0090</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>d1</name>
+      <description>d1</description>
+      <styleUrl>#d1</styleUrl>
+      <Point>
+        <coordinates>1,1</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>d10</name>
+      <description>d10</description>
+      <styleUrl>#d10</styleUrl>
+      <Point>
+        <coordinates>10,10</coordinates>
+      </Point>
+    </Placemark>
     <name>q0</name>
     <Region id="q0">
       <LatLonAltBox>
@@ -88,7 +160,7 @@
     <Folder>
       <Placemark>
         <description><![CDATA["35959"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["35959"]]></value>
@@ -235,7 +307,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["35967"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["35967"]]></value>
@@ -382,7 +454,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["35984"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["35984"]]></value>
@@ -529,7 +601,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["36262"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["36262"]]></value>
@@ -676,7 +748,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["36269"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["36269"]]></value>
@@ -823,7 +895,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["36273"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["36273"]]></value>
@@ -970,7 +1042,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["36274"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["36274"]]></value>
@@ -1117,7 +1189,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["36852"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["36852"]]></value>
@@ -1264,7 +1336,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["36855"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["36855"]]></value>
@@ -1411,7 +1483,7 @@
       </Placemark>
       <Placemark>
         <description><![CDATA["85003"]]></description>
-        <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Region/ds/style.kml#d1</styleUrl>
+        <styleUrl>#d1</styleUrl>
         <ExtendedData>
           <Data name="zip">
             <value><![CDATA["85003"]]></value>
