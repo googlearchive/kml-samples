@@ -50,5 +50,21 @@
         <color>ff6f0090</color>
       </IconStyle>
     </Style>
+    <Placemark>
+      <name>d1</name>
+      <description>d1</description>
+      <styleUrl>#d1</styleUrl>
+      <Point>
+        <coordinates>1,1</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>d10</name>
+      <description>d10</description>
+      <styleUrl>#d10</styleUrl>
+      <Point>
+        <coordinates>10,10</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
