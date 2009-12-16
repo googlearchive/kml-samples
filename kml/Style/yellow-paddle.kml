@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>yellow paddle</name>
+      <description>This Point Placemark has a yellow paddle icon</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>
+          -103.271484,47.517201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
