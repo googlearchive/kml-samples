@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Lincoln Park GC - no Style</name>
+    <name>Lincoln Park GC - Style</name>
     <Snippet/>
     <description>
       <![CDATA[
@@ -10,6 +10,7 @@
           <li>id=holeN</li>
           <li>name=N</li>
           <li>no description or Snippet</li>
+          <li>styleUrl=#hold-style</li>
           <li>ExtendedData/Data</li>
           <ul>
             <li>edited</li>
@@ -22,10 +23,32 @@
             <li>womenspar</li>
           </ul>
         <ul>
+        The shared Style has:<br/>
+        <ul>
+          <li>IconStyle/Icon/golf.png</li>
+          <li>BalloonStyle/text</li>
+        </ul>
        ]]>
     </description>
+    <Style id="hole-style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/golf.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[
+            Hole $[name]<br/>
+            Par $[menspar]<br/>
+            $[blueyardage] yards
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
     <Placemark id="hole1">
       <name>1</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -60,6 +83,7 @@
     </Placemark>
     <Placemark id="hole2">
       <name>2</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -94,6 +118,7 @@
     </Placemark>
     <Placemark id="hole3">
       <name>3</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -128,6 +153,7 @@
     </Placemark>
     <Placemark id="hole4">
       <name>4</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -162,6 +188,7 @@
     </Placemark>
     <Placemark id="hole5">
       <name>5</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -196,6 +223,7 @@
     </Placemark>
     <Placemark id="hole6">
       <name>6</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -230,6 +258,7 @@
     </Placemark>
     <Placemark id="hole7">
       <name>7</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -264,6 +293,7 @@
     </Placemark>
     <Placemark id="hole8">
       <name>8</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -298,6 +328,7 @@
     </Placemark>
     <Placemark id="hole9">
       <name>9</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -332,6 +363,7 @@
     </Placemark>
     <Placemark id="hole10">
       <name>10</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -366,6 +398,7 @@
     </Placemark>
     <Placemark id="hole11">
       <name>11</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -400,6 +433,7 @@
     </Placemark>
     <Placemark id="hole12">
       <name>12</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -434,6 +468,7 @@
     </Placemark>
     <Placemark id="hole13">
       <name>13</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -468,6 +503,7 @@
     </Placemark>
     <Placemark id="hole14">
       <name>14</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -502,6 +538,7 @@
     </Placemark>
     <Placemark id="hole15">
       <name>15</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -536,6 +573,7 @@
     </Placemark>
     <Placemark id="hole16">
       <name>16</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -570,6 +608,7 @@
     </Placemark>
     <Placemark id="hole17">
       <name>17</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
@@ -604,6 +643,7 @@
     </Placemark>
     <Placemark id="hole18">
       <name>18</name>
+      <styleUrl>#hole-style</styleUrl>
       <ExtendedData>
         <Data name="edited">
           <value>2009-11-25T16:53:48.011Z</value>
