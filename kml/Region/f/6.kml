@@ -1,0 +1,82 @@
+<kml>
+  <Document>
+    <name>q00012</name>
+    <Region id="q00012">
+      <LatLonAltBox>
+        <north>67.2920345</north>
+        <south>64.154847</south>
+        <east>-145.878380875</east>
+        <west>-151.94066125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>T225 T229 T236</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>T225 T229 T236</value>
+          </Data>
+          <Data name="Center">
+            <value>ZAN</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28557
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -149.416694,64.941444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>T225 T229 T242</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>T225 T229 T242</value>
+          </Data>
+          <Data name="Center">
+            <value>ZAN</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28541
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -151.708389,65.140944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V488 V504 V531</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V488 V504 V531</value>
+          </Data>
+          <Data name="Center">
+            <value>ZAN</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>18457
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -149.416739,64.94145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

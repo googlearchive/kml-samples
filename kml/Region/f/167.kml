@@ -1,0 +1,103 @@
+<kml>
+  <Document>
+    <name>q03103032</name>
+    <Region id="q03103032">
+      <LatLonAltBox>
+        <north>41.0180891875</north>
+        <south>40.62594075</south>
+        <east>-82.982221984375</east>
+        <west>-83.74000703125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>V383 V8</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V383 V8</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28786
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.668278,40.949222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V416 V45 V493 V542</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V416 V45 V493 V542</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28840
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.11675,40.812861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V435 V45 V493</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V435 V45 V493</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28757
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.148083,40.851639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V435 V8</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V435 V8</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28756
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.061861,40.905111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

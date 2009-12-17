@@ -1,0 +1,82 @@
+<kml>
+  <Document>
+    <name>q0311032</name>
+    <Region id="q0311032">
+      <LatLonAltBox>
+        <north>42.978831375</north>
+        <south>42.1945345</south>
+        <east>-74.64658646875</east>
+        <west>-76.1621565625</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>V29 V34</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V29 V34</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>16914
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.105361,42.425694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V34 V542</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V34 V542</value>
+          </Data>
+          <Data name="Center">
+            <value>ZBW</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>25012
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.784442,42.279853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V433 V449</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V433 V449</value>
+          </Data>
+          <Data name="Center">
+            <value>ZBW</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>25250
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.744444,42.284722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

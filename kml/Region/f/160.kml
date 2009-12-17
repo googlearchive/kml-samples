@@ -1,0 +1,124 @@
+<kml>
+  <Document>
+    <name>q0310301</name>
+    <Region id="q0310301">
+      <LatLonAltBox>
+        <north>42.1945345</north>
+        <south>41.410237625</south>
+        <east>-82.2244369375</east>
+        <west>-83.74000703125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>V383 V426</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V383 V426</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28828
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.3505,41.866528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V383 V65</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V383 V65</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28963
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.350139,41.85875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V426 V467</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V426 V467</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28829
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.438056,42.015028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V426 V65</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V426 V65</value>
+          </Data>
+          <Data name="Center">
+            <value>ZOB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28961
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.173194,41.5635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V467 V65</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V467 V65</value>
+          </Data>
+          <Data name="Center">
+            <value>ZMP</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>28962
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.438361,42.014222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

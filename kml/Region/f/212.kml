@@ -1,0 +1,82 @@
+<kml>
+  <Document>
+    <name>q03112033</name>
+    <Region id="q03112033">
+      <LatLonAltBox>
+        <north>41.0180891875</north>
+        <south>40.62594075</south>
+        <east>-76.1621565625</east>
+        <west>-76.919941609375</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>V232 V499</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V232 V499</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>20394
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.228128,40.972833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V30 V499</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V30 V499</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>20392
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.249889,40.681672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V499 V6</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V499 V6</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>20393
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.243722,40.764281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

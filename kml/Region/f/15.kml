@@ -1,0 +1,283 @@
+<kml>
+  <Document>
+    <name>q0033</name>
+    <Region id="q0033">
+      <LatLonAltBox>
+        <north>51.606097</north>
+        <south>45.331722</south>
+        <east>-115.566979</east>
+        <west>-127.69153975</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q00331">
+        <LatLonAltBox>
+          <north>51.606097</north>
+          <south>48.4689095</south>
+          <east>-115.566979</east>
+          <west>-121.629259375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>16.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q00332">
+        <LatLonAltBox>
+          <north>48.4689095</north>
+          <south>45.331722</south>
+          <east>-121.629259375</east>
+          <west>-127.69153975</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>17.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q00333">
+        <LatLonAltBox>
+          <north>48.4689095</north>
+          <south>45.331722</south>
+          <east>-115.566979</east>
+          <west>-121.629259375</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>20.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>J126 J523</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J126 J523</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>11751
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.984494,47.694981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J126 J70</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J126 J70</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>11750
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.936033,47.2734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J136 J34 J90</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J136 J34 J90</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>10080
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.749078,47.181533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J136 J5</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J136 J5</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>10072
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.777611,46.067278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J136 J523</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J136 J523</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>14321
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.433389,46.199528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J136 J54</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J136 J54</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>13767
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.181361,46.295333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J136 J65</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J136 J65</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>12382
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.132422,45.929167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J136 J70</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J136 J70</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>10079
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.053986,47.420961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J143 J16</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J143 J16</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>11844
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.051972,45.74125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J143 J20</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J143 J20</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>11846
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -120.006944,46.32175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

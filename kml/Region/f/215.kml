@@ -1,0 +1,103 @@
+<kml>
+  <Document>
+    <name>q03112100</name>
+    <Region id="q03112100">
+      <LatLonAltBox>
+        <north>42.1945345</north>
+        <south>41.8023860625</south>
+        <east>-75.404371515625</east>
+        <west>-76.1621565625</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>V252 V576</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V252 V576</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>24580
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.623417,41.913383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V270 V34</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V270 V34</value>
+          </Data>
+          <Data name="Center">
+            <value>ZBW</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>25013
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.545583,42.169417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V36 V499</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V36 V499</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>20399
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.160472,41.851667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V374 V576</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V374 V576</value>
+          </Data>
+          <Data name="Center">
+            <value>ZNY</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>24961
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587847,41.930803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,103 @@
+<kml>
+  <Document>
+    <name>q0312101</name>
+    <Region id="q0312101">
+      <LatLonAltBox>
+        <north>39.057347</north>
+        <south>38.273050125</south>
+        <east>-82.2244369375</east>
+        <west>-83.74000703125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>J78 J8 J83</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J78 J8 J83</value>
+          </Data>
+          <Data name="Center">
+            <value>ZID</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>13042
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.341092,38.320722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J78 J8 J91</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J78 J8 J91</value>
+          </Data>
+          <Data name="Center">
+            <value>ZID</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>11812
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.320286,38.321833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J83 J91</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J83 J91</value>
+          </Data>
+          <Data name="Center">
+            <value>ZID</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>13041
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.337842,38.295864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V478 V493</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V478 V493</value>
+          </Data>
+          <Data name="Center">
+            <value>ZID</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>16600
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.553611,38.386944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

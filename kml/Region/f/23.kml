@@ -1,0 +1,103 @@
+<kml>
+  <Document>
+    <name>q003333</name>
+    <Region id="q003333">
+      <LatLonAltBox>
+        <north>46.90031575</north>
+        <south>45.331722</south>
+        <east>-115.566979</east>
+        <west>-118.5981191875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>J16 J537</description>
+        <styleUrl>style.kml#d6</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J16 J537</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>12304
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.445669,45.805381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J52 J537</description>
+        <styleUrl>style.kml#d6</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J52 J537</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>12305
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.107667,46.516461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V112 V187</description>
+        <styleUrl>style.kml#d6</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V112 V187</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>18305
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.528036,46.298331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V112 V357</description>
+        <styleUrl>style.kml#d6</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V112 V357</value>
+          </Data>
+          <Data name="Center">
+            <value>ZSE</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>18567
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.507675,46.327692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

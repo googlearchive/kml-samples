@@ -1,0 +1,61 @@
+<kml>
+  <Document>
+    <name>q03112113</name>
+    <Region id="q03112113">
+      <LatLonAltBox>
+        <north>41.8023860625</north>
+        <south>41.410237625</south>
+        <east>-73.131016375</east>
+        <west>-73.888801421875</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>V34 V419</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V34 V419</value>
+          </Data>
+          <Data name="Center">
+            <value>ZBW</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>25141
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.195583,41.568178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>V39 V419 V433 V44</description>
+        <styleUrl>style.kml#d8</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>V39 V419 V433 V44</value>
+          </Data>
+          <Data name="Center">
+            <value>ZBW</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>25142
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.382222,41.429278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

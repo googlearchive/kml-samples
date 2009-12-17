@@ -1,0 +1,61 @@
+<kml>
+  <Document>
+    <name>q0302303</name>
+    <Region id="q0302303">
+      <LatLonAltBox>
+        <north>35.135862625</north>
+        <south>34.35156575</south>
+        <east>-106.4735584375</east>
+        <west>-107.98912853125</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>J231 J57</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J231 J57</value>
+          </Data>
+          <Data name="Center">
+            <value>ZAB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>13649
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.817556,34.832222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>J57 J74</description>
+        <styleUrl>style.kml#d7</styleUrl>
+        <ExtendedData>
+          <Data name="Airways">
+            <value>J57 J74</value>
+          </Data>
+          <Data name="Center">
+            <value>ZAB</value>
+          </Data>
+          <Data name="Numbered Fix">
+            <value>13189
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.820139,34.396667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
