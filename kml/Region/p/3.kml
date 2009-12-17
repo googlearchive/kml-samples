@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q02</name>
+    <Region id="q02">
+      <LatLonAltBox>
+        <north>545608149412.351</north>
+        <south>49.2018126869968</south>
+        <east>-123.121823985731</east>
+        <west>-123.219196615431</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q022">
+        <LatLonAltBox>
+          <north>272804074730.776</north>
+          <south>49.2018126869968</south>
+          <east>-123.170510300581</east>
+          <west>-123.219196615431</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>4.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q023">
+        <LatLonAltBox>
+          <north>272804074730.776</north>
+          <south>49.2018126869968</south>
+          <east>-123.121823985731</east>
+          <west>-123.170510300581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>7.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Balaclava Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Balaclava Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4594 Balaclava St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.157092907213,49.2331853554205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Barclay Heritage Square</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Barclay Heritage Square</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1433 Barclay St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.168698922535,49.2647182072995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bates Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Bates Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>669 Fellowes St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.140048597797,49.2103922442907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cambridge Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cambridge Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2099 Wall St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.208642168872,49.2635361810043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Camosun</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Camosun</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4102 W 16th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.200934268412,49.2571730218038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cardero Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cardero Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1601 Bayshore Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.128373962581,49.2931783445781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Carnarvon Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Carnarvon Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2995 W 19th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.171485977492,49.2565788295164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Chaldecott Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Chaldecott Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4175 Wallace St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.192200628705,49.2489508351806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Charleson Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Charleson Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>999 Charleson
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.124270971689,49.2669334885882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Choklit Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Choklit Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>W 7th Av And Spruce St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.129106163979,49.2653699532137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

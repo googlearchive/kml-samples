@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q0232</name>
+    <Region id="q0232">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.146167143156</east>
+        <west>-123.170510300581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q02322">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.158338721868</east>
+          <west>-123.170510300581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>9.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02323">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.146167143156</east>
+          <west>-123.158338721868</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>10.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Fraser River Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Fraser River Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>8705 Angus Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.151840566964,49.2082761413955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hadden Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Hadden Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1905 Ogden Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.148884125256,49.2788677729735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kerrisdale Centennial Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kerrisdale Centennial Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5898 Yew St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.158432,49.232806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kerrisdale Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kerrisdale Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5670 East Boulevard
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.153463321695,49.2358927402247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kitsilano Beach Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kitsilano Beach Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1499 Arbutus St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.158544850285,49.2733860490354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Maple Grove Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Maple Grove Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6875 Yew St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.160215447357,49.223731700708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Margaret Pigott Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Margaret Pigott Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2743 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.167692254748,49.2720445830063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mccleery Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Mccleery Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6501 Marine Crescent 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.164101209053,49.2268037573308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Park Site On Puget Drive</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Park Site On Puget Drive</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4309 Puget Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.168194740981,49.2477237282272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Park Site On Quesnel Drive</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Park Site On Quesnel Drive</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4301 Quesnel Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.169939636945,49.2476038619505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

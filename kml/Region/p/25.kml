@@ -1,0 +1,127 @@
+<kml>
+  <Document>
+    <name>q03323</name>
+    <Region id="q03323">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.048794513455</east>
+        <west>-123.060966092168</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Nanaimo Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Nanaimo Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2390 E 46th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.057630428196,49.2277249563347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Norquay Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Norquay Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5050 Wales St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.051135284398,49.2372494449842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pandora Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Pandora Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2325 Franklin St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.05818062003,49.2825400375048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Park Site On Trinity Street</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Park Site On Trinity Street</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2303 Wall St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.059460463155,49.2895586380293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Riverfront Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Riverfront Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2750 E Kent Av South
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.050772491402,49.2057241105485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Templeton Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Templeton Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>700 Templeton Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.058837267534,49.2785376941223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q022</name>
+    <Region id="q022">
+      <LatLonAltBox>
+        <north>272804074730.776</north>
+        <south>49.2018126869968</south>
+        <east>-123.170510300581</east>
+        <west>-123.219196615431</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0222">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.194853458006</east>
+          <west>-123.219196615431</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>5.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0223">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.170510300581</east>
+          <west>-123.194853458006</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>6.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Hastings Mill Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Hastings Mill Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1575 Alma St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.186639588464,49.2727765310372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jean Beaty Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Jean Beaty Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3393 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.179257236508,49.2719129142303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jericho Beach Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Jericho Beach Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3941 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.199650393914,49.2697831406323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Locarno Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Locarno Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4445 Nw Marine Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.207105931384,49.2749738344886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Malkin Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Malkin Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6001 Balaclava St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.17693381603,49.2319243410917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mcbride Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Mcbride Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3350 W 4th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.178670451512,49.2680824686344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mccleery Golf Course</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Mccleery Golf Course</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>7188 Macdonald St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.170643413725,49.2187507983739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Memorial West Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Memorial West Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4701 Dunbar St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.188251960704,49.2428154263277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Musqueam Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Musqueam Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4000 Sw Marine Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.195361237002,49.23222027435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Park Site On Blenheim</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Park Site On Blenheim</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3500 Quadra St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.178916179978,49.2555755124354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

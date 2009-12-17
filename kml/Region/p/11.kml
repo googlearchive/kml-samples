@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q0233</name>
+    <Region id="q0233">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.121823985731</east>
+        <west>-123.146167143156</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q02332">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.133995564443</east>
+          <west>-123.146167143156</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>12.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02333">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.121823985731</east>
+          <west>-123.133995564443</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>13.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>English Bay Beach Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>English Bay Beach Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1700 Beach Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.1438279459,49.2862192508987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>George Wainborn Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>George Wainborn Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>450 Beach Crescent 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.129344039829,49.2724892097576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Granville Loop Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Granville Loop Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1435 W 5th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.137336503372,49.2673871453161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Granville Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Granville Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3001 Fir St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.141682069433,49.2583982455136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Harbour Green Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Harbour Green Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1199 W Cordova St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.122873063313,49.2907021246505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Marina Square</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Marina Square</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1675 Bayshore Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.131073351264,49.2924712884492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Marpole Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Marpole Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1410 W 72nd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.138529419389,49.2054370668331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[May & Lorne Brown Park]]></description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value><![CDATA[May & Lorne Brown Park]]></value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>801 Beach Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.132040403894,49.2751730142289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Montgomery Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Montgomery Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1040 W 43rd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.130457900154,49.2308252028941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Morton Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Morton Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1800 Morton Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.142148277174,49.2872413564803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

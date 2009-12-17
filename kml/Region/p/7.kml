@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q023</name>
+    <Region id="q023">
+      <LatLonAltBox>
+        <north>272804074730.776</north>
+        <south>49.2018126869968</south>
+        <east>-123.121823985731</east>
+        <west>-123.170510300581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0232">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.146167143156</east>
+          <west>-123.170510300581</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>8.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0233">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.121823985731</east>
+          <west>-123.146167143156</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>11.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Coal Harbour Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Coal Harbour Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>500 Broughton St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.125885091572,49.2901651976341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Connaught Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Connaught Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2390 W 10th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.160105613733,49.2620553391672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>David Lam Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>David Lam Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1300 Pacific Boulevard 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.124173612194,49.2724251441973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Delamont Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Delamont Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2091 W 7th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.152633871764,49.265814913323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Devonian Harbour Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Devonian Harbour Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1929 W Georgia St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.135756898945,49.2942153689075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Devonshire Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Devonshire Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1250 Devonshire Crescent 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.132881223679,49.2448124056222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Ebisu Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Ebisu Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>8810 Olser St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.131804466248,49.2053807427339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Eburne Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Eburne Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>950 W 71st Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.129182350598,49.2065426804836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Elm Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Elm Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5800 Elm St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.163485697533,49.233745341315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Emery Barnes Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Emery Barnes Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Davie St And Richards St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.124235272408,49.2760508348242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

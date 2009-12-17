@@ -1,0 +1,109 @@
+<kml>
+  <Document>
+    <name>q03333</name>
+    <Region id="q03333">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.02445135603</east>
+        <west>-123.036622934743</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Price Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Price Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3650 Price St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.02445135603,49.240125948322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rupert Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Rupert Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1600 Rupert St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.033207461327,49.2720240421577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sparwood Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Sparwood Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6998 Arlington St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.029322381035,49.2202709749363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sunrise Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Sunrise Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1950 Windermere St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.035185212196,49.2666893191539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Thunderbird Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Thunderbird Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3485 E 2nd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.029075942653,49.2689151226471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

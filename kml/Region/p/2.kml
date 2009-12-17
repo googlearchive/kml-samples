@@ -1,0 +1,37 @@
+<kml>
+  <Document>
+    <name>q00</name>
+    <Region id="q00">
+      <LatLonAltBox>
+        <north>1091216298775.5</north>
+        <south>545608149412.351</south>
+        <east>-123.121823985731</east>
+        <west>-123.219196615431</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Deering Island Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Deering Island Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3530 Deering Island Place
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.185304541443,2182432597371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

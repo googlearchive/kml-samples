@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q0332</name>
+    <Region id="q0332">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.048794513455</east>
+        <west>-123.07313767088</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q03322">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.060966092168</east>
+          <west>-123.07313767088</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>24.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03323">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.048794513455</east>
+          <west>-123.060966092168</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>25.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Fraserview Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Fraserview Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>7595 Victoria Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.067373431906,49.2153662293405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Garden Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Garden Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1851 Garden Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.059027548415,49.2681633681546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>General Brock Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>General Brock Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2301 Brock St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.058590260256,49.2445993809841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gladstone-Riverside Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Gladstone-Riverside Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2500 E Kent Av South
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.061716898085,49.2059666030181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gordon Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Gordon Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6675 Commercial St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.070453975615,49.2234790455431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Grandview Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Grandview Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1657 Charles St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.070538525034,49.2735192173381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Humm Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Humm Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>7250 Humm St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.063308955313,49.2187217355895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>John Hendry (Trout Lake) Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>John Hendry (Trout Lake) Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3300 Victoria Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.062159065575,49.2556195524677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jones Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Jones Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5350 Commercial St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.067129186246,49.2359981915552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mcgill Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Mcgill Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2305 Mcgill St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.057843,49.288486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,127 @@
+<kml>
+  <Document>
+    <name>q02322</name>
+    <Region id="q02322">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.158338721868</east>
+        <west>-123.170510300581</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Park Site On Trafalgar Street</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Park Site On Trafalgar Street</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4600 Trafalgar St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.165144765361,49.2444438828763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Point Grey Park Site At Stephens Street</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Point Grey Park Site At Stephens Street</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2699 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.166262,49.272134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Point Grey Park Site At Trafalgar Street</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Point Grey Park Site At Trafalgar Street</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2601 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.16465130289,49.2732355585892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Tatlow Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Tatlow Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2845 W 3rd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.16961967201,49.2700636577659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Trafalgar Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Trafalgar Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2610 W 23rd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.164625073106,49.2513998775944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Volunteer Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Volunteer Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2855 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.169253700319,49.2716249018094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

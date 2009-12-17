@@ -1,0 +1,127 @@
+<kml>
+  <Document>
+    <name>q02333</name>
+    <Region id="q02333">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.121823985731</east>
+        <west>-123.133995564443</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Nelson Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Nelson Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1030 Bute St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.129617962639,49.2825736114152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Oak Meadows Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Oak Meadows Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>899 W 37th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.125806341035,49.2384352911029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Oak Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Oak Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>900 W 59th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.127481913823,49.2144740996897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Park Site On Shaughnessy Street</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Park Site On Shaughnessy Street</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Shaughnessy St And Fraser River
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.125689029694,49.2018126869968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Stanley Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Stanley Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2000 W Georgia St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.12758467,49.29808542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Willow Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Willow Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>802 W 7th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.122053400295,49.2648327614804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q0323</name>
+    <Region id="q0323">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.07313767088</east>
+        <west>-123.097480828306</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q03232">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.085309249593</east>
+          <west>-123.097480828306</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>20.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03233">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.07313767088</east>
+          <west>-123.085309249593</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>21.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>George Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>George Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>500 E 63rd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.094157805288,49.2124494018771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Glen Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Glen Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3999 Glen Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.08287573387,49.2496122402709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Grays Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Grays Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4850 St. Catherines St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.085052746274,49.2409805689217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Guelph Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Guelph Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2390 Brunswick St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.096413909479,49.2641071267925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kensington Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kensington Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5175 Dumfries St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.075480182997,49.2384815559383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kingcrest Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kingcrest Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4150 Knight St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.074777206853,49.2474874023346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Maclean Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Maclean Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>710 Keefer St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.088445377018,49.2788157120213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Memorial South Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Memorial South Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5950 Prince Albert St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.08569062602,49.2303034781757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Moberly Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Moberly Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>7646 Prince Albert St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.08655973388,49.2155885589819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mosaic Creek Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Mosaic Creek Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1475 Charles St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.074131638534,49.2733141216327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

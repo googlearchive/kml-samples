@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q033</name>
+    <Region id="q033">
+      <LatLonAltBox>
+        <north>272804074730.776</north>
+        <south>49.2018126869968</south>
+        <east>-123.02445135603</east>
+        <west>-123.07313767088</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0332">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.048794513455</east>
+          <west>-123.07313767088</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>23.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0333">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.02445135603</east>
+          <west>-123.048794513455</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>26.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Carleton Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Carleton Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3450 Price St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.030430672024,49.2419790500357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Champlain Heights Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Champlain Heights Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3351 Maquinna Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.032660292809,49.2164912181176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Charles Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Charles Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3400 Charles St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.031233,49.273142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Clark Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Clark Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1500 E 14th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.072744827384,49.2566784951996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Clinton Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Clinton Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2690 Grant St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.050762633653,49.2704664902784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Collingwood Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Collingwood Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5275 Mckinnon St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.037096680491,49.2370722553616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Discovery Square</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Discovery Square</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>625 Burrard St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.057973880672,49.2492866431346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Dusty Greenwell Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Dusty Greenwell Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2799 Wall St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.048718050848,49.2923351936506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Earles Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Earles Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2801 E 41st Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.047680572114,49.2334932167929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Everett Crowley Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Everett Crowley Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>8200 Kerr St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.038076395858,49.2111115319048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

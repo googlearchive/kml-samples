@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q032</name>
+    <Region id="q032">
+      <LatLonAltBox>
+        <north>272804074730.776</north>
+        <south>49.2018126869968</south>
+        <east>-123.07313767088</east>
+        <west>-123.121823985731</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q0322">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.097480828306</east>
+          <west>-123.121823985731</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>16.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q0323">
+        <LatLonAltBox>
+          <north>136402037389.989</north>
+          <south>49.2018126869968</south>
+          <east>-123.07313767088</east>
+          <west>-123.097480828306</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>19.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Carolina Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Carolina Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2100 Carolina St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.091063,49.266158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cartier Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cartier Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>390 E 36th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.097511545727,49.2376051551581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cathedral Square</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cathedral Square</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>566 Richards St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.113689173915,49.2824840344567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cedar Cottage Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cedar Cottage Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2650 Clark Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.076606417167,49.2608092739522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>China Creek North Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>China Creek North Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1001 E 7th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.085185065231,49.2655126441712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>China Creek South Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>China Creek South Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1255 E 10th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.079231140634,49.2618742993934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Columbia Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Columbia Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5908 Alberta St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.112470057461,49.2320007916176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Coopers' Park]]></description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value><![CDATA[Coopers' Park]]></value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1020 Marinaside Crescent 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.113076149221,49.2734927534707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Crab Park At Portside</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Crab Park At Portside</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>101 E Waterfront Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.091607273004,49.2849229461883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Creekside Park</description>
+        <styleUrl>style.kml#d3</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Creekside Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1455 Quebec St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.103651986081,49.2737424936847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

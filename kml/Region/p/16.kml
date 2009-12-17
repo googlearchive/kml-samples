@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q0322</name>
+    <Region id="q0322">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.097480828306</east>
+        <west>-123.121823985731</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q03222">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.109652407018</east>
+          <west>-123.121823985731</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>17.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03223">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.097480828306</east>
+          <west>-123.109652407018</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>18.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Douglas Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Douglas Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>801 W 22nd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.121277422182,49.2529172469768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Grimmett Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Grimmett Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>169 E 19th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.101997287889,49.2539061342289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Heather Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Heather Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>702 W 18th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.121138012535,49.2547691696777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Helmcken Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Helmcken Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1103 Pacific Boulevard 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.11981371987,49.2750647992399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hillcrest Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Hillcrest Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4501 Clancy Loranger Way 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.108197002818,49.2447733767237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jonathan Rogers Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Jonathan Rogers Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>110 W 7th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.108184956492,49.2643344026763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Langara Golf Course</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Langara Golf Course</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6706 Alberta St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.111567244321,49.220945751557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Langara Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Langara Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>W 49th Av And Columbia St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.110750632146,49.2259043200557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Macdonald Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Macdonald Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>300 E 44th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.098437673978,49.2296231506965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Major Matthews Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Major Matthews Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2627 Manitoba St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.10725665946,49.2615499227267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

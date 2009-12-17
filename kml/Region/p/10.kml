@@ -1,0 +1,109 @@
+<kml>
+  <Document>
+    <name>q02323</name>
+    <Region id="q02323">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.146167143156</east>
+        <west>-123.158338721868</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Prince Of Wales Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Prince Of Wales Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4780 Haggart St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.15690721174,49.244037635729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Quilchena Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Quilchena Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4590 Magnolia St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.148906952034,49.2437309686445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Ravine Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Ravine Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2159 W 36th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.155527031876,49.2418484451952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Riverview Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Riverview Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1751 W 66th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.147244920744,49.2123683745846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rosemary Brown Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Rosemary Brown Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>W 11th Av And Yew St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.155366743308,49.2619816779671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

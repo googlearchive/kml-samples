@@ -1,0 +1,127 @@
+<kml>
+  <Document>
+    <name>q03322</name>
+    <Region id="q03322">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.060966092168</east>
+        <west>-123.07313767088</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Mcspadden Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Mcspadden Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2125 Victoria Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.066629277024,49.2662777758283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Oxford Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Oxford Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2050 Wall St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.062202959939,49.2854904186746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Salsbury Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Salsbury Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1806 Adanac St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.067932792892,49.2772702448814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Tecumseh Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Tecumseh Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1751 E 45th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.069920286718,49.2297649688365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Victoria Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Victoria Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1415 Victoria Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.06673021,49.27151611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>W.C. Shelley Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>W.C. Shelley Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1500 E 8th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.072929504287,49.2630265755128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

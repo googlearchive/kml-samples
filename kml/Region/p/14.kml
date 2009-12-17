@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q03</name>
+    <Region id="q03">
+      <LatLonAltBox>
+        <north>545608149412.351</north>
+        <south>49.2018126869968</south>
+        <east>-123.02445135603</east>
+        <west>-123.121823985731</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q032">
+        <LatLonAltBox>
+          <north>272804074730.776</north>
+          <south>49.2018126869968</south>
+          <east>-123.07313767088</east>
+          <west>-123.121823985731</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>15.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q033">
+        <LatLonAltBox>
+          <north>272804074730.776</north>
+          <south>49.2018126869968</south>
+          <east>-123.02445135603</east>
+          <west>-123.07313767088</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>22.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Ash Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Ash Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>8288 Ash St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.075344372131,49.2490716040766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Beaconsfield Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Beaconsfield Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3215 Slocan St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.097582456384,49.2623856120356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bobolink Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Bobolink Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2510 Hoylake Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.117186318925,49.2326967118593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Braemar Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Braemar Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>895 W 27th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.11555622237,49.279698127784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Brewers Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Brewers Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4175 Victoria Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.042958058734,49.2524249068635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Burrard View Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Burrard View Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>650 North Penticton St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.101432658316,49.2496745761709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Callister Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Callister Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2875 Oxford St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.090277877591,49.2295038329774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cambie Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cambie Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>500 W 54th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.091546208357,49.279779792626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Captain Cook Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Captain Cook Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3398 E 54th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.034428821397,49.2182654851195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cariboo Park</description>
+        <styleUrl>style.kml#d2</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Cariboo Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3450 E 29th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.029151472545,49.2440789392136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

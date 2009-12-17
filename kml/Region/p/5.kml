@@ -1,0 +1,73 @@
+<kml>
+  <Document>
+    <name>q0222</name>
+    <Region id="q0222">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.194853458006</east>
+        <west>-123.219196615431</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Spanish Bank Beach Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Spanish Bank Beach Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4801 Nw Marine Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.219196615431,49.277639105244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>West Point Grey Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>West Point Grey Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2250 Trimble St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.205152349074,49.2667615370398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Westmount Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Westmount Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4651 W 2nd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.214421822674,49.2718444762328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

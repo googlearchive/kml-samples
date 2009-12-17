@@ -1,0 +1,235 @@
+<kml>
+  <Document>
+    <name>q0333</name>
+    <Region id="q0333">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.02445135603</east>
+        <west>-123.048794513455</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q03332">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.036622934743</east>
+          <west>-123.048794513455</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>27.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03333">
+        <LatLonAltBox>
+          <north>68201018719.5954</north>
+          <south>49.2018126869968</south>
+          <east>-123.02445135603</east>
+          <west>-123.036622934743</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>28.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Falaise Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Falaise Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3434 Falaise Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.029649285894,49.2550363913572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Foster Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Foster Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>5501 Aberdeen St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.028734010625,49.2338669436817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Fraserview Golf Course</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Fraserview Golf Course</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>7800 Vivian Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.048287252301,49.2118824304811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gaston Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Gaston Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3470 Crowley Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.031189928507,49.2362315737881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hastings Community Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Hastings Community Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3000 E Pender St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.040638892215,49.2798759259672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hastings Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Hastings Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2901 E Hastings St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.04276279983,49.2881817730372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kaslo Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kaslo Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2851 E 7th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.045922375301,49.2641206608553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Killarney Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Killarney Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>6205 Kerr St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.041008,49.227483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kinross Ravine Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Kinross Ravine Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3350 Se Marine Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.036157715356,49.2075666061418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Melbourne Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Melbourne Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3530 Vanness Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.028963734972,49.2364157475643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

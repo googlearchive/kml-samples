@@ -1,0 +1,73 @@
+<kml>
+  <Document>
+    <name>q0223</name>
+    <Region id="q0223">
+      <LatLonAltBox>
+        <north>136402037389.989</north>
+        <south>49.2018126869968</south>
+        <east>-123.170510300581</east>
+        <west>-123.194853458006</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Point Grey Park Site At Trutch Street</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Point Grey Park Site At Trutch Street</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3215 Point Grey Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.176163,49.271652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Quadra West Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Quadra West Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3250 Quadra St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.180634950648,49.2571180211162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Valdez Park</description>
+        <styleUrl>style.kml#d4</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Valdez Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3210 W 22nd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.176474222982,49.2524295974901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

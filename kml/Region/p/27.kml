@@ -1,0 +1,109 @@
+<kml>
+  <Document>
+    <name>q03332</name>
+    <Region id="q03332">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.036622934743</east>
+        <west>-123.048794513455</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>New Brighton Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>New Brighton Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>500 N Windermere St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.03764184,49.2896409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Renfrew Community Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Renfrew Community Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2929 E 22nd Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.042958058734,49.2524249068635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Renfrew Ravine Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Renfrew Ravine Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3900 Renfrew St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.043436731521,49.2491158123339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rosemont Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Rosemont Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3101 Rosemont Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.038988860608,49.2157560608426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Slocan Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Slocan Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2750 E 29th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.046270697895,49.2435582736904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

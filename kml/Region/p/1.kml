@@ -1,0 +1,253 @@
+<kml>
+  <Document>
+    <name>q0</name>
+    <Region id="q0">
+      <LatLonAltBox>
+        <north>1091216298775.5</north>
+        <south>49.2018126869968</south>
+        <east>-123.02445135603</east>
+        <west>-123.219196615431</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q00">
+        <LatLonAltBox>
+          <north>1091216298775.5</north>
+          <south>545608149412.351</south>
+          <east>-123.121823985731</east>
+          <west>-123.219196615431</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>2.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q02">
+        <LatLonAltBox>
+          <north>545608149412.351</north>
+          <south>49.2018126869968</south>
+          <east>-123.121823985731</east>
+          <west>-123.219196615431</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>3.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03">
+        <LatLonAltBox>
+          <north>545608149412.351</north>
+          <south>49.2018126869968</south>
+          <east>-123.02445135603</east>
+          <west>-123.121823985731</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>14.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <description>Aberdeen Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Aberdeen Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3525 Foster Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.073771672447,49.2756486033504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Adanac Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Adanac Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1025 Boundary Road 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.100127212685,49.2810519846146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Alexandra Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Alexandra Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1755 Beach Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.11555622237,49.279698127784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Alice Townley Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Alice Townley Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1775 Woodland Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.040183232883,49.219088065007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Almond Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Almond Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3600 W 12th Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.042638743316,49.2362319717541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Andy Livingstone Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Andy Livingstone Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>89 Expo Boulevard 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.185626746517,49.2459743831748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Angus Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Angus Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>3600 Angus Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.137578980719,49.2628710568171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Arbutus Greenway Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Arbutus Greenway Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>W 11th Av Between Vine St And Arbutus St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.155112862587,49.2620180283761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Arbutus Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Arbutus Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>7601 Arbutus St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.050049277881,49.2808683542579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Arbutus Village Park</description>
+        <styleUrl>style.kml#d1</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Arbutus Village Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4202 Valley Drive 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.136073777706,49.289912961681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

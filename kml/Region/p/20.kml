@@ -1,0 +1,109 @@
+<kml>
+  <Document>
+    <name>q03232</name>
+    <Region id="q03232">
+      <LatLonAltBox>
+        <north>68201018719.5954</north>
+        <south>49.2018126869968</south>
+        <east>-123.085309249593</east>
+        <west>-123.097480828306</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <Folder>
+      <Placemark>
+        <description>Oppenheimer Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Oppenheimer Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>400 Powell St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.094346882948,49.2826400692788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Robson Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Robson Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>599 Kingsway 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.092303101177,49.2577320649568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sahalli Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Sahalli Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>E 7th Av And Fraser St
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.0890901581,49.2643281000246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Strathcona Linear Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Strathcona Linear Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>787 Prior St 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.08768209774,49.2777047624935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sunset Park</description>
+        <styleUrl>style.kml#d5</styleUrl>
+        <ExtendedData>
+          <Data name="PARK_NAME">
+            <value>Sunset Park</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>404 E 51st Av 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.096659993793,49.2227614467884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
