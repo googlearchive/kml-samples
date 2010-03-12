@@ -1,0 +1,45 @@
+<kml>
+  <Document>
+    <Placemark>
+      <name>doc.kml#randomColorIcon</name>
+      <styleUrl>doc.kml#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>style.kmz#randomColorIcon</name>
+      <styleUrl>style.kmz#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>1,1</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>style.kmz/doc.kml#randomColorIcon</name>
+      <styleUrl>style.kmz/doc.kml#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>1,2</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>no style</name>
+      <Point>
+        <coordinates>1,3</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>style.kmz/no-such.kml#randomColorIcon</name>
+      <styleUrl>style.kmz/no-such.kml#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>1,4</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>no-such-style.kmz#randomColorIcon</name>
+      <styleUrl>no-such-style.kmz#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>1,5</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
