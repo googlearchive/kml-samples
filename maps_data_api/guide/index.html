@@ -10,7 +10,6 @@
       var scope = 'http://maps.google.com/maps/feeds';
       var token = google.accounts.user.login(scope);
     }
-    doLogin();
 
     function listMaps() {
       var list = document.createElement('ul');
@@ -51,7 +50,8 @@
 
     function onGoogleDataLoad() {
       // Put your code here
-      alert("put your code here");
+      //alert("put your code here");
+      doLogin();
       listMaps();
     }
 
