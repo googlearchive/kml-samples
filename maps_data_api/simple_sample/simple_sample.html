@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<!--
+  Copyright 2009 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<head>
+  <title>Maps Data API JavaScript Sample</title>
+  <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAsc0UQXoo2BnAJLhtpWCJFBRtpBalue-XiU0nXijyxJOFOqsHnxRGD0o9IFUpzzG944F17kJozXrQzQ"></script>
+  <script type="text/javascript" src="simple_sample.js"></script>
+  <script type="text/javascript">
+    google.load('gdata', '2.x', { packages: ['maps'] });
+    google.setOnLoadCallback(init);
+  </script>
+</head>
+<body>
+  <!-- for JS GData/AuthSub -->
+  <img src="dot_clear.gif" style="display: none"/>
+
+  <div id="errors" style="color: #f00; font-weight: bold; display: none"></div>
+
+  <div id="state-guest" style="display: none">
+    <a href="#" onclick="login(); return false;">Login</a>
+  </div>
+  
+  <div id="state-loggedin" style="display: none">
+    <a href="#" onclick="logout(); return false;">Logout</a>
+  
+    <h3>List of Maps:</h3>
+    <ul id="map-list"></ul>
+  
+    <h3>Features in this map:</h3>
+    <ul id="feature-list"></ul>
+  
+    <h3>KML of this feature:</h3>
+    <textarea id="feature-kml" cols="40" rows="7"
+              style="width: 100%; height: 300px"></textarea>
+  </div>
+
+</body>
+</html>
