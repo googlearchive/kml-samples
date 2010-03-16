@@ -10,6 +10,41 @@
       var scope = 'http://maps.google.com/maps/feeds';
       var token = google.accounts.user.login(scope);
     }
+    doLogin();
+
+    function listMaps() {
+      var list = document.createElement('ul');
+      var mapFeedUrl = 'http://maps.google.com/maps/feeds/maps/default/owned';
+
+      service.getMapFeed(mapFeedUrl, function(feedRoot) {
+        var feed = feedRoot.feed;
+        var entries = feed.getEntries();
+        for (var i = 0; i < entries.length; i++) {
+          var entry = entries[i];
+          var mapTitle = entry.getTitle().getText();
+          var listItem = document.createElement('li');
+          var listText = document.createTextNode(mapTitle);
+          listItem.appendChild(listText);
+          list.appendChild(listItem);
+        }
+        document.body.appendChild(list);
+      }, errorHandler);
+    }
+
+    function errorHandler(e) {
+      var errorDiv = document.createElement('div');
+      document.body.appendChild(errorDiv);
+      if (e instanceof Error) {
+        errorDiv.innerHTML = 'Error on line ' + e.lineNumber + ' in ' + e.fileName
+                       + '\nMessage: ' + e.message;
+    if (e.cause) {
+      errorDiv.innerHTML = errorDiv.innerHTML + '<br />Root cause: HTTP error '
+                         + e.cause.status + ': ' + e.cause.statusText;
+        }
+      } else {
+        alert(e.toString());
+      }
+    }
 
     // Load the latest version of the Google Data JavaScript Client
     google.load('gdata', '2.x', {packages: ['maps']});
@@ -17,7 +52,7 @@
     function onGoogleDataLoad() {
       // Put your code here
       alert("put your code here");
-      doLogin();
+      listMaps();
     }
 
     // Call function once the client has loaded
