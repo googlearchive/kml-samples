@@ -102,15 +102,16 @@ function init() {
       var mapEntryLinkNode = document.createElement('a');
       mapEntryLinkNode.href = '#';
       
+      var mapEntry = mapEntries[i];
       // Use a closure for event handlers.
       eventHandler(mapEntryLinkNode, 'click', (function(featureFeedHref) {
         return function(evt) {
           loadFeatureFeed(featureFeedHref);
         };
-      })(mapEntries[i].content.src)); // content.src is a feature feed href
+      })(mapEntry.content.src)); // content.src is a feature feed href
       
       mapEntryLinkNode.appendChild(
-          document.createTextNode(mapEntries[i].getTitle().$t));
+          document.createTextNode(mapEntry.getTitle().$t));
       
       mapEntryNode.appendChild(mapEntryLinkNode);
       mapListNode.appendChild(mapEntryNode);
@@ -134,6 +135,8 @@ function loadFeatureFeed(featureFeedHref) {
       var featureEntryNode = document.createElement('li');
       var featureEntryLinkNode = document.createElement('a');
       featureEntryLinkNode.href = '#';
+
+      var featureEntry = featureEntries[i];
       
       // Use a closure for event handlers.
       eventHandler(
@@ -141,11 +144,11 @@ function loadFeatureFeed(featureFeedHref) {
           return function(evt) {
             loadFeatureKml(featureKml);
           };
-        })(featureEntries[i].getContent().$t)); // getContent().$t is a KML
+        })(featureEntry.getContent().$t)); // getContent().$t is a KML
                                                 // string.
       
       featureEntryLinkNode.appendChild(
-          document.createTextNode(featureEntries[i].getTitle().$t));
+          document.createTextNode(featureEntry.getTitle().$t));
       
       featureEntryNode.appendChild(featureEntryLinkNode);
       featureListNode.appendChild(featureEntryNode);
