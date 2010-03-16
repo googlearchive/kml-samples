@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- See http://code.google.com/apis/maps/documentation/mapsdata/developers_guide_javascript.html -->
+<head>
+  <title>Hello Maps Data API</title>
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    function doLogin() {
+      var scope = 'http://maps.google.com/maps/feeds';
+      var token = google.accounts.user.login(scope);
+    }
+
+    // Load the latest version of the Google Data JavaScript Client
+    google.load('gdata', '2.x', {packages: ['maps']});
+
+    function onGoogleDataLoad() {
+      // Put your code here
+      alert("put your code here");
+      doLogin();
+    }
+
+    // Call function once the client has loaded
+    google.setOnLoadCallback(onGoogleDataLoad);
+
+  </script>
+</head>
+<body>
+</body>
+</html>
