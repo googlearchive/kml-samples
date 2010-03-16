@@ -6,12 +6,12 @@
   <title>Hello Maps Data API</title>
   <script type="text/javascript" src="http://www.google.com/jsapi"></script>
   <script type="text/javascript">
-    function doLogin() {
+    $("login_button").onclick = function() {
       var scope = 'http://maps.google.com/maps/feeds';
       var token = google.accounts.user.login(scope);
     }
 
-    function listMaps() {
+    $("list_maps_button").onclick = function {
       var list = document.createElement('ul');
       var mapFeedUrl = 'http://maps.google.com/maps/feeds/maps/default/owned';
 
@@ -34,11 +34,12 @@
       var errorDiv = document.createElement('div');
       document.body.appendChild(errorDiv);
       if (e instanceof Error) {
-        errorDiv.innerHTML = 'Error on line ' + e.lineNumber + ' in ' + e.fileName
-                       + '\nMessage: ' + e.message;
-    if (e.cause) {
-      errorDiv.innerHTML = errorDiv.innerHTML + '<br />Root cause: HTTP error '
-                         + e.cause.status + ': ' + e.cause.statusText;
+        errorDiv.innerHTML = 'Error on line ' + e.lineNumber + ' in ' +
+            e.fileName + '\nMessage: ' + e.message;
+      if (e.cause) {
+        errorDiv.innerHTML = errorDiv.innerHTML +
+            '<br />Root cause: HTTP error ' + e.cause.status + ': ' +
+            e.cause.statusText;
         }
       } else {
         alert(e.toString());
@@ -50,9 +51,6 @@
 
     function onGoogleDataLoad() {
       // Put your code here
-      //alert("put your code here");
-      doLogin();
-      listMaps();
     }
 
     // Call function once the client has loaded
@@ -61,6 +59,20 @@
   </script>
 </head>
 <body>
-<h2>h2</h2>
+  <div id="auth">
+    <input id="login_button" type="button" value="Login" />
+  </div>
+
+  <div id="list_maps">
+    <input id="list_maps_button" type="button" value="List Maps" />
+  </div>
+
+
+  <!--
+    For authentication purposes, the GData JavaScript client library requires a
+    local image file to be hosted within the page, so we use a transparent GIF.
+  -->
+  <img id="pixel_image" src="images/transparent.gif" />
+  <p>P is for paragraph</p>
 </body>
 </html>
