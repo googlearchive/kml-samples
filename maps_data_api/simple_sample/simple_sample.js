@@ -100,15 +100,16 @@ function init() {
       // Create the map list item and link.
       var mapEntryNode = document.createElement('li');
       var mapEntryLinkNode = document.createElement('a');
-      mapEntryLinkNode.href = '#';
-      
       var mapEntry = mapEntries[i];
+      //mapEntryLinkNode.href = '#';
+      mapEntryLinkNode.href = mapEntry.getLink('alternate').href;
+      
       // Use a closure for event handlers.
-      eventHandler(mapEntryLinkNode, 'click', (function(featureFeedHref) {
-        return function(evt) {
-          loadFeatureFeed(featureFeedHref);
-        };
-      })(mapEntry.getLink('alternate').href));
+ //     eventHandler(mapEntryLinkNode, 'click', (function(featureFeedHref) {
+//        return function(evt) {
+ //         loadFeatureFeed(featureFeedHref);
+  //      };
+   //   })(mapEntry.getLink('alternate').href));
       
       mapEntryLinkNode.appendChild(
           document.createTextNode(mapEntry.getTitle().$t));
