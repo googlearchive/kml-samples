@@ -102,7 +102,8 @@ function init() {
       var mapEntryLinkNode = document.createElement('a');
       var mapEntry = mapEntries[i];
       //mapEntryLinkNode.href = '#';
-      mapEntryLinkNode.href = mapEntry.getLink('alternate').href;
+      var altLink = mapEntry.getLink('alternate').href;
+      mapEntryLinkNode.href = 'http://maps.google.com/?q=' + altLink + '&output=kml';
       
       // Use a closure for event handlers.
  //     eventHandler(mapEntryLinkNode, 'click', (function(featureFeedHref) {
