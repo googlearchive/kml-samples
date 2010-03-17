@@ -108,7 +108,7 @@ function init() {
         return function(evt) {
           loadFeatureFeed(featureFeedHref);
         };
-      })(mapEntry.content.src)); // content.src is a feature feed href
+      })(featureEntry.getLink('alternate').href.$t));
       
       mapEntryLinkNode.appendChild(
           document.createTextNode(mapEntry.getTitle().$t));
@@ -144,7 +144,7 @@ function loadFeatureFeed(featureFeedHref) {
           return function(evt) {
             loadFeatureKml(featureKml);
           };
-        })(featureEntry.getContent().$t)); // getContent().$t is a KML
+        })(featureEntry.getLink('alternate').href.$t)); // getContent().$t is a KML
                                                 // string.
       
       featureEntryLinkNode.appendChild(
