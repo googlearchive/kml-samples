@@ -108,7 +108,7 @@ function init() {
         return function(evt) {
           loadFeatureFeed(featureFeedHref);
         };
-      })(featureEntry.getLink('alternate').href.$t));
+      })(mapEntry.getLink('alternate').href));
       
       mapEntryLinkNode.appendChild(
           document.createTextNode(mapEntry.getTitle().$t));
