@@ -83,7 +83,7 @@ function init() {
     return;
   }
 
-  google.earth.createInstance('map3d', initCB, failureCB);
+  //google.earth.createInstance('map3d', initCB, failureCB);
 
   $('state-loggedin').style.display = '';
   
