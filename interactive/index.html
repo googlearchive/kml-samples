@@ -27,6 +27,7 @@ var g_editorDirty = false;
 var g_kmlObject;
 var g_infoBoxVisible = true;
 var g_startNode = null;
+var aspectRatio;
 
 google.setOnLoadCallback(function() {
   dojo.require('dijit.layout.BorderContainer');
@@ -280,7 +281,6 @@ function reloadKml(kmlString) {
 
   try {
     g_kmlObject = g_ge.parseKml(kmlString);
-    g_ge.getFeatures().appendChild(g_kmlObject);
 
     // see if we should show sky
     // TODO: better parsing!
@@ -288,6 +288,10 @@ function reloadKml(kmlString) {
       g_ge.getOptions().setMapType(g_ge.MAP_TYPE_SKY);
     else
       g_ge.getOptions().setMapType(g_ge.MAP_TYPE_EARTH);
+
+    //reparse g_kmlObject which gets corrupted after setMapType
+    g_kmlObject = g_ge.parseKml(kmlString);
+    g_ge.getFeatures().appendChild(g_kmlObject);
 
     // Walk the loaded KML object hierarchy looking for a <gx:Tour>.
     g_gex.dom.walk({
@@ -308,8 +312,8 @@ function reloadKml(kmlString) {
   }
 
   if (!tourFound) {
-    var aspectRatio = dojo.coords('right').w * 1.0 / dojo.coords('right').h;
-    g_gex.util.flyToObject(g_kmlObject, { aspectRatio: aspectRatio });
+    aspectRatio = dojo.coords('right').w * 1.0 / dojo.coords('right').h;
+    setTimeout('g_gex.util.flyToObject(g_kmlObject, { aspectRatio: 1 });',0)
   }
 }
 
