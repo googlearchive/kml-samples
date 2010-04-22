@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <!-- This Camera inhibits the Camera on the PhotoOverlay which would
+      fly the user straight into the PhotoOverlay on load of this file.
+    -->
+    <Camera>
+      <longitude>-93.265032</longitude>
+      <latitude>44.976335</latitude>
+      <altitude>1000</altitude>
+      <heading>270</heading>
+      <tilt>0</tilt>
+      <roll>0</roll>
+    </Camera>
+    <Style id="balloon-style">
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+    </Style>
+    <PhotoOverlay id="photo-overlay">
+      <name>PhotoOverlay name</name>
+      <description><![CDATA[
+            $[name]
+            <br/>
+            <a href="#photo-overlay">Enter Panorama</a>]]></description>
+      <Camera>
+        <longitude>-93.265032</longitude>
+        <latitude>44.976335</latitude>
+        <altitude>16</altitude>
+        <heading>270</heading>
+        <tilt>90</tilt>
+        <roll>0</roll>
+      </Camera>
+      <styleUrl>#balloon-style</styleUrl>
+      <Icon>
+        <href>http://www.gigapan.org/get_ge_tile/46074/$[level]/$[y]/$[x]</href>
+      </Icon>
+      <rotation>0</rotation>
+      <ViewVolume>
+        <leftFov>-65</leftFov>
+        <rightFov>65</rightFov>
+        <bottomFov>0</bottomFov>
+        <topFov>62.1131471438</topFov>
+        <near>15</near>
+      </ViewVolume>
+      <ImagePyramid>
+        <tileSize>256</tileSize>
+        <maxWidth>41857</maxWidth>
+        <maxHeight>19999</maxHeight>
+        <gridOrigin>upperLeft</gridOrigin>
+      </ImagePyramid>
+      <Point>
+        <coordinates>
+          -93.265032,44.976335,0
+        </coordinates>
+      </Point>
+      <shape>sphere</shape>
+    </PhotoOverlay>
+  </Document>
+</kml>
