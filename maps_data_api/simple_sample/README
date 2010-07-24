@@ -1,3 +1,16 @@
 Based on:
 
 http://code.google.com/p/gdata-javascript-client/source/browse/#svn/trunk/samples/maps/simple_sample
+
+This is a rel="self" href:
+
+http://maps.google.com/maps/feeds/features/213167034055710844710/0004814e6e45606979552/full
+
+This is a rel="alternate" href:
+
+http://maps.google.com/maps/ms?&msa=0&msid=213167034055710844710.0004814e6e45606979552
+
+Append "output=kml" to get the "KML feed" of features:
+
+http://maps.google.com/maps/ms?&msa=0&msid=213167034055710844710.0004814e6e45606979552&output=kml
+
