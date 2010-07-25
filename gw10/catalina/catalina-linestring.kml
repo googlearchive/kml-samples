@@ -16,12 +16,18 @@
         <color>99ffac59</color>
         <width>6</width>
       </LineStyle>
+      <PolyStyle>
+        <color>59ffac59</color>
+        <outline>0</outline>
+      </PolyStyle>
     </Style>
     <Placemark>
       <name>Path</name>
       <styleUrl>#lineStyle</styleUrl>
       <LineString>
+        <extrude>1</extrude>
         <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
         <coordinates>
           -118.311748,33.336534,6.385864
           -118.311544,33.337004,11.192505
