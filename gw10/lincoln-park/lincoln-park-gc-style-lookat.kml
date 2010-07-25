@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root">
+    <name>Lincoln Park GC - Style + LookAt</name>
+    <open>1</open>
+    <Snippet maxLines="0">
+    </Snippet>
+    <description><![CDATA[Each Placemark has:<br/>
+        <ul>
+          <li>id=holeN</li>
+          <li>name=N</li>
+          <li>no description or Snippet</li>
+          <li>styleUrl=#hold-style</li>
+          <li>LookAt</li>
+          <li>ExtendedData/Data</li>
+          <ul>
+            <li>edited</li>
+            <li>blueyardage</li>
+            <li>whiteyardage</li>
+            <li>menshandicap</li>
+            <li>menspar</li>
+            <li>redyardage</li>
+            <li>womenshandicap</li>
+            <li>womenspar</li>
+          </ul>
+        </ul>
+        The shared Style has:<br/>
+        <ul>
+          <li>IconStyle/Icon/golf.png</li>
+          <li>BalloonStyle/text</li>
+        </ul>]]></description>
+    <Style id="hole-style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/golf.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[Hole $[name]<br/>
+            Par $[menspar]<br/>
+            $[blueyardage] yards]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark id="hole1">
+      <name>1</name>
+      <LookAt>
+        <longitude>-122.495070231158</longitude>
+        <latitude>37.7825816643789</latitude>
+        <altitude>0</altitude>
+        <heading>-52.8250717038758</heading>
+        <tilt>65.9145760614156</tilt>
+        <range>93.1407749306726</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>316</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>299</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>3</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>281</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>3</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.494783,37.782353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole2">
+      <name>2</name>
+      <LookAt>
+        <longitude>-122.497729790581</longitude>
+        <latitude>37.783639910919</latitude>
+        <altitude>0</altitude>
+        <heading>-31.4392439226892</heading>
+        <tilt>68.6220153275653</tilt>
+        <range>102.08536127602</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>257</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>245</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>11</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>231</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>13</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.497593,37.783407,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole3">
+      <name>3</name>
+      <LookAt>
+        <longitude>-122.501636867382</longitude>
+        <latitude>37.786786022982</latitude>
+        <altitude>0</altitude>
+        <heading>-109.86788761429</heading>
+        <tilt>58.5365540379407</tilt>
+        <range>65.9637743499982</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>156</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>140</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>15</value>
+        </Data>
+        <Data name="menspar">
+          <value>3</value>
+        </Data>
+        <Data name="redyardage">
+          <value>133</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>15</value>
+        </Data>
+        <Data name="womenspar">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.501432,37.786807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole4">
+      <name>4</name>
+      <LookAt>
+        <longitude>-122.501840825267</longitude>
+        <latitude>37.7862558539397</latitude>
+        <altitude>0</altitude>
+        <heading>-127.733789928266</heading>
+        <tilt>72.2588442531963</tilt>
+        <range>43.804991623758</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>321</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>313</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>7</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>304</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>11</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.501712,37.786355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole5">
+      <name>5</name>
+      <LookAt>
+        <longitude>-122.503978473655</longitude>
+        <latitude>37.7843703433514</latitude>
+        <altitude>0</altitude>
+        <heading>45.2938493904822</heading>
+        <tilt>72.2758128051874</tilt>
+        <range>39.7886620562236</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>359</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>344</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>1</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>336</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>1</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.504031,37.78434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole6">
+      <name>6</name>
+      <LookAt>
+        <longitude>-122.501436536538</longitude>
+        <latitude>37.7840606032516</latitude>
+        <altitude>0</altitude>
+        <heading>150.670763186022</heading>
+        <tilt>75.3125734821596</tilt>
+        <range>42.9507503076853</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>285</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>267</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>17</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>251</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>7</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.50144,37.784124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole7">
+      <name>7</name>
+      <LookAt>
+        <longitude>-122.500754707345</longitude>
+        <latitude>37.7815700353689</latitude>
+        <altitude>0</altitude>
+        <heading>79.3974902158126</heading>
+        <tilt>72.4342301909936</tilt>
+        <range>50.0743633512806</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>334</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>325</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>9</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>314</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>9</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.500827,37.781563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole8">
+      <name>8</name>
+      <LookAt>
+        <longitude>-122.497250058032</longitude>
+        <latitude>37.7818630021169</latitude>
+        <altitude>0</altitude>
+        <heading>80.5563975239272</heading>
+        <tilt>70.6312212768389</tilt>
+        <range>61.9238179076076</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>170</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>163</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>13</value>
+        </Data>
+        <Data name="menspar">
+          <value>3</value>
+        </Data>
+        <Data name="redyardage">
+          <value>150</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>17</value>
+        </Data>
+        <Data name="womenspar">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.497507,37.781833,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole9">
+      <name>9</name>
+      <LookAt>
+        <longitude>-122.496015715472</longitude>
+        <latitude>37.7824667317893</latitude>
+        <altitude>0</altitude>
+        <heading>-90.70753788706</heading>
+        <tilt>70.3493170549372</tilt>
+        <range>74.827467090988</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>309</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>294</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>5</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>279</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>5</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.49572,37.782458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole10">
+      <name>10</name>
+      <LookAt>
+        <longitude>-122.499419312332</longitude>
+        <latitude>37.7823736324892</latitude>
+        <altitude>0</altitude>
+        <heading>-7.17851334946203</heading>
+        <tilt>69.8758868818602</tilt>
+        <range>37.8573592936787</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>268</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>256</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>18</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>246</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>12</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.499431,37.782269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole11">
+      <name>11</name>
+      <LookAt>
+        <longitude>-122.499694209</longitude>
+        <latitude>37.7843372096421</latitude>
+        <altitude>0</altitude>
+        <heading>143.404588069464</heading>
+        <tilt>67.2887865881846</tilt>
+        <range>35.8396905115475</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>265</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>260</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>14</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>247</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>10</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.499748,37.784402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole12">
+      <name>12</name>
+      <LookAt>
+        <longitude>-122.497566170059</longitude>
+        <latitude>37.7838545487347</latitude>
+        <altitude>0</altitude>
+        <heading>-25.4017640344929</heading>
+        <tilt>72.8331403235097</tilt>
+        <range>44.7317470159811</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>203</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>193</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>6</value>
+        </Data>
+        <Data name="menspar">
+          <value>3</value>
+        </Data>
+        <Data name="redyardage">
+          <value>177</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>14</value>
+        </Data>
+        <Data name="womenspar">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.497511,37.783743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole13">
+      <name>13</name>
+      <LookAt>
+        <longitude>-122.498454187522</longitude>
+        <latitude>37.7853477843579</latitude>
+        <altitude>0</altitude>
+        <heading>128.157148717368</heading>
+        <tilt>71.6890231851682</tilt>
+        <range>69.7193165996678</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>500</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>486</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>8</value>
+        </Data>
+        <Data name="menspar">
+          <value>5</value>
+        </Data>
+        <Data name="redyardage">
+          <value>464</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>2</value>
+        </Data>
+        <Data name="womenspar">
+          <value>5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.498759,37.785548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole14">
+      <name>14</name>
+      <LookAt>
+        <longitude>-122.494676316136</longitude>
+        <latitude>37.7836478260956</latitude>
+        <altitude>0</altitude>
+        <heading>-48.1487696666395</heading>
+        <tilt>71.7452028471897</tilt>
+        <range>64.553499214591</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>259</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>251</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>12</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>242</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>8</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.494481,37.783491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole15">
+      <name>15</name>
+      <LookAt>
+        <longitude>-122.496554380702</longitude>
+        <latitude>37.7850278852367</latitude>
+        <altitude>0</altitude>
+        <heading>-51.5727386861067</heading>
+        <tilt>72.1309211347091</tilt>
+        <range>60.7599060796194</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>282</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>277</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>16</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>272</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>6</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.496357,37.784873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole16">
+      <name>16</name>
+      <LookAt>
+        <longitude>-122.497894644721</longitude>
+        <latitude>37.7860034692502</latitude>
+        <altitude>0</altitude>
+        <heading>112.288208566426</heading>
+        <tilt>70.4341864348438</tilt>
+        <range>65.7641579780955</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>239</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>229</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>4</value>
+        </Data>
+        <Data name="menspar">
+          <value>3</value>
+        </Data>
+        <Data name="redyardage">
+          <value>219</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>16</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.498096,37.786048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole17">
+      <name>17</name>
+      <LookAt>
+        <longitude>-122.496341591494</longitude>
+        <latitude>37.7862911565757</latitude>
+        <altitude>0</altitude>
+        <heading>87.6528213142709</heading>
+        <tilt>70.9138623214746</tilt>
+        <range>87.8657960889579</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>240</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>230</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>10</value>
+        </Data>
+        <Data name="menspar">
+          <value>3</value>
+        </Data>
+        <Data name="redyardage">
+          <value>318</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>18</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.496866,37.786266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="hole18">
+      <name>18</name>
+      <LookAt>
+        <longitude>-122.494157042318</longitude>
+        <latitude>37.7856884805762</latitude>
+        <altitude>0</altitude>
+        <heading>-177.120033242643</heading>
+        <tilt>68.4163589140898</tilt>
+        <range>62.1340914178726</range>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+      <styleUrl>#hole-style</styleUrl>
+      <ExtendedData>
+        <Data name="edited">
+          <value>2009-11-25T16:53:48.011Z</value>
+        </Data>
+        <Data name="blueyardage">
+          <value>383</value>
+        </Data>
+        <Data name="whiteyardage">
+          <value>376</value>
+        </Data>
+        <Data name="menshandicap">
+          <value>2</value>
+        </Data>
+        <Data name="menspar">
+          <value>4</value>
+        </Data>
+        <Data name="redyardage">
+          <value>368</value>
+        </Data>
+        <Data name="womenshandicap">
+          <value>4</value>
+        </Data>
+        <Data name="womenspar">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.494135,37.785832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

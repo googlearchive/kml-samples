@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lincoln Park GC radio NetworkLinks</name>
+    <open>1</open>
+    <styleUrl>#radio-folder</styleUrl>
+    <Style id="radio-folder">
+      <ListStyle>
+        <listItemType>radioFolder</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <name>No style</name>
+      <!-- radioFolder defaults to last one visible -->
+      <visibility>1</visibility>
+      <Link>
+        <href>lincoln-park-gc.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Style</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>lincoln-park-gc-remote-style.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Style + LookAt</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>lincoln-park-gc-style-lookat.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
