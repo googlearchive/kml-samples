@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <NetworkLink>
+      <name>Lincoln Park</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>lincoln-park/0lincoln-radio.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Catalina</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>catalina/0catalina.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
