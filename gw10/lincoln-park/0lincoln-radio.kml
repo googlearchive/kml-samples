@@ -10,7 +10,7 @@
       </ListStyle>
     </Style>
     <NetworkLink>
-      <name>No style</name>
+      <name>Basic</name>
       <!-- radioFolder defaults to last one visible -->
       <visibility>1</visibility>
       <Link>
@@ -18,17 +18,24 @@
       </Link>
     </NetworkLink>
     <NetworkLink>
-      <name>Style</name>
+      <name>+ Style</name>
       <visibility>0</visibility>
       <Link>
         <href>lincoln-park-gc-remote-style.kml</href>
       </Link>
     </NetworkLink>
     <NetworkLink>
-      <name>Style + LookAt</name>
+      <name>+ LookAt</name>
       <visibility>0</visibility>
       <Link>
         <href>lincoln-park-gc-style-lookat.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>+ Rollover</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>lincoln-park-gc-style-lookat-roll.kml</href>
       </Link>
     </NetworkLink>
   </Document>

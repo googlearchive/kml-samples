@@ -119,6 +119,7 @@
       </LineString>
       </MultiGeometry>
     </Placemark>
+<!--
     <Placemark id="hole2">
       <name>2</name>
       <LookAt>
@@ -157,11 +158,20 @@
           <value>4</value>
         </Data>
       </ExtendedData>
+<MultiGeometry>
       <Point>
         <coordinates>
           -122.497593,37.783407,0
         </coordinates>
       </Point>
+<LineString>
+        <coordinates>
+          -122.497593,37.783407,0
+-122.498873152816,37.78440290264321,0 -122.4989596700426,37.78502678284897,0
+        </coordinates>
+</LineString>
+</MultiGeometry>
+
     </Placemark>
     <Placemark id="hole3">
       <name>3</name>
@@ -201,12 +211,15 @@
           <value>3</value>
         </Data>
       </ExtendedData>
+<MultiGeometry>
       <Point>
         <coordinates>
           -122.501432,37.786807,0
         </coordinates>
       </Point>
+</MultiGeometry>
     </Placemark>
+-->
     <Placemark id="hole4">
       <name>4</name>
       <LookAt>
@@ -878,15 +891,6 @@
     </Placemark>
   </Document>
 <!--
-
-			<Data name="womenspar">
-				<value>4</value>
-			</Data>
-		</ExtendedData>
-		<Point>
-			<coordinates>-122.497593,37.783407,0</coordinates>
-		</Point>
-	</Placemark>
 	<Placemark id="hole3">
 		<name>3</name>
 		<LookAt>
@@ -1559,6 +1563,7 @@
 			<coordinates>-122.494135,37.785832,0</coordinates>
 		</Point>
 	</Placemark>
+<!--
 	<Placemark>
 		<name>2</name>
 		<styleUrl>#msn_ylw-pushpin3</styleUrl>
@@ -1729,7 +1734,5 @@
 			</coordinates>
 		</LineString>
 	</Placemark>
-</Document>
-</kml>
 -->
 </kml>
