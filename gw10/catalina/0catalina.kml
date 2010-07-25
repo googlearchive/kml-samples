@@ -55,6 +55,14 @@
     </NetworkLink>
     <Folder>
       <name><![CDATA[LookAt's]]></name>
+      <LookAt>
+        <longitude>-118.310591303384</longitude>
+        <latitude>33.3393722013568</latitude>
+        <altitude>0</altitude>
+        <heading>13.2460318491023</heading>
+        <tilt>71.9758225487918</tilt>
+        <range>420.162399988227</range>
+      </LookAt>
       <Placemark>
         <name>First loop</name>
         <visibility>0</visibility>
@@ -65,6 +73,36 @@
           <heading>7.95352662839525</heading>
           <tilt>66.6585773707256</tilt>
           <range>1347.87470238565</range>
+        </LookAt>
+        <styleUrl>#lookat</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Second loop</name>
+        <visibility>0</visibility>
+        <LookAt>
+          <longitude>-118.290894715767</longitude>
+          <latitude>33.3762183954783</latitude>
+          <altitude>0</altitude>
+          <heading>-129.638027209965</heading>
+          <tilt>73.1779020311871</tilt>
+          <range>2322.35601304782</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#lookat</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Third loop</name>
+        <visibility>0</visibility>
+        <LookAt>
+          <longitude>-118.226239128221</longitude>
+          <latitude>33.5709594489721</latitude>
+          <altitude>0</altitude>
+          <heading>25.8348202477764</heading>
+          <tilt>72.747733453722</tilt>
+          <range>1541.53734237249</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
         </LookAt>
         <styleUrl>#lookat</styleUrl>
       </Placemark>
