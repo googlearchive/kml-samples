@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <open>1</open>
+    <NetworkLink>
+      <name>Catalina LineString</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>catalina-linestring.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Catalina Points</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>catalina-points.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Catalina Tour</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>catalina-tour.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Catalina Track</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>catalina-track.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
