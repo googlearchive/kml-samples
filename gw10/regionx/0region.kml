@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Region</name>
+    <NetworkLink>
+      <name>Region - GroundOverlay</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>usa-ca-sf.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Region - ScreenOverlay</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>continents.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
