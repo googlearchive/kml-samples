@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+    <name>Catalina Helicopter</name>
     <open>1</open>
+    <LookAt>
+      <longitude>-118.310591303384</longitude>
+      <latitude>33.3393722013568</latitude>
+      <altitude>0</altitude>
+      <heading>13.2460318491023</heading>
+      <tilt>71.9758225487918</tilt>
+      <range>420.162399988227</range>
+    </LookAt>
+    <Style id="lookat">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <NetworkLink>
+      <name>Catalina 2d LineString</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>catalina-line2d.kml</href>
+      </Link>
+    </NetworkLink>
     <NetworkLink>
       <name>Catalina LineString</name>
       <visibility>0</visibility>
@@ -30,5 +53,34 @@
         <href>catalina-track.kml</href>
       </Link>
     </NetworkLink>
+    <Folder>
+      <name><![CDATA[LookAt's]]></name>
+      <Placemark>
+        <name>First loop</name>
+        <visibility>0</visibility>
+        <LookAt>
+          <longitude>-118.297349347016</longitude>
+          <latitude>33.3621907060922</latitude>
+          <altitude>0</altitude>
+          <heading>7.95352662839525</heading>
+          <tilt>66.6585773707256</tilt>
+          <range>1347.87470238565</range>
+        </LookAt>
+        <styleUrl>#lookat</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Landing</name>
+        <visibility>0</visibility>
+        <LookAt>
+          <longitude>-118.189643274275</longitude>
+          <latitude>33.7480924822976</latitude>
+          <altitude>0</altitude>
+          <heading>141.720304014028</heading>
+          <tilt>63.98793143229</tilt>
+          <range>272.205132278542</range>
+        </LookAt>
+        <styleUrl>#lookat</styleUrl>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
