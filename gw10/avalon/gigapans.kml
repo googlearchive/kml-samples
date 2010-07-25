@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>avalon-gigapans.kmz</name>
+    <Style id="panoramaStyle0">
+      <IconStyle>
+        <Icon>
+          <href>http://www.gigapan.org/images/ge_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="panoramaStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://www.gigapan.org/images/ge_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="panoramaStyle1">
+      <IconStyle>
+        <Icon>
+          <href>http://www.gigapan.org/images/ge_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>avalon-gigapans</name>
+      <visibility>0</visibility>
+      <open>1</open>
+      <PhotoOverlay id="gigapan_30736">
+        <name>Avalon Bay 1</name>
+        <visibility>0</visibility>
+        <Snippet maxLines="1">
+<![CDATA[<a href="#gigapan_30736">Enter panorama</a>]]>        </Snippet>
+        <description><![CDATA[<div align="center">
+
+          <table width="500"><tr><td>
+          <a href="http://www.gigapan.org/">
+            <img src="http://www.gigapan.org/images/gigapan.png">
+          </a>
+          </td><td>
+            <font size="10">$[name]</font>
+            <hr>
+            <a href="#gigapan_30736">Enter Panorama</a> |
+            <a href="http://www.gigapan.org/gigapans/30736">Panorama at gigapan.org</a>
+          </td>
+          </tr>
+          <tr><td colspan="2" align="center">
+          <a href="#gigapan_30736">
+            <img src="http://www.gigapan.org/gigapans/30736-500x335.jpg">
+          </a>
+          </td></tr>
+          <tr><td colspan="2">
+
+          <p>Avalon Bay, Catalina Island, California</p>
+          <p>Explore Score: $[score]</p>
+          <p align="right">
+          <b>Author</b>: <a href="http://www.gigapan.org/profiles/20704">  (oobie)</a>
+           </p>
+			
+          </td></tr></table>
+          </div>]]></description>
+        <Camera>
+          <longitude>-118.328606</longitude>
+          <latitude>33.347164</latitude>
+          <altitude>20</altitude>
+          <heading>108</heading>
+          <tilt>73</tilt>
+          <roll>0</roll>
+        </Camera>
+        <styleUrl>#panoramaStyle0</styleUrl>
+        <ExtendedData>
+          <Data name="score">
+            <value>30.45</value>
+          </Data>
+        </ExtendedData>
+        <color>feffffff</color>
+        <Icon>
+          <href>http://www.gigapan.org/get_ge_tile/30736/$[level]/$[y]/$[x]</href>
+        </Icon>
+        <ViewVolume>
+          <leftFov>-80</leftFov>
+          <rightFov>80</rightFov>
+          <bottomFov>-17.4046</bottomFov>
+          <topFov>90</topFov>
+          <near>120</near>
+        </ViewVolume>
+        <ImagePyramid>
+          <maxWidth>33390</maxWidth>
+          <maxHeight>22414</maxHeight>
+          <gridOrigin>upperLeft</gridOrigin>
+        </ImagePyramid>
+        <Point>
+          <coordinates>
+            -118.328606,33.347164,0
+          </coordinates>
+        </Point>
+        <shape>sphere</shape>
+      </PhotoOverlay>
+      <PhotoOverlay id="gigapan_30764">
+        <name>Avalon Bay 2</name>
+        <visibility>0</visibility>
+        <Snippet maxLines="1">
+<![CDATA[<a href="#gigapan_30764">Enter panorama</a>]]>        </Snippet>
+        <description><![CDATA[<div align="center">
+
+          <table width="500"><tr><td>
+          <a href="http://www.gigapan.org/">
+            <img src="http://www.gigapan.org/images/gigapan.png">
+          </a>
+          </td><td>
+            <font size="10">$[name]</font>
+            <hr>
+            <a href="#gigapan_30764">Enter Panorama</a> |
+            <a href="http://www.gigapan.org/gigapans/30764">Panorama at gigapan.org</a>
+          </td>
+          </tr>
+          <tr><td colspan="2" align="center">
+          <a href="#gigapan_30764">
+            <img src="http://www.gigapan.org/gigapans/30764-500x668.jpg">
+          </a>
+          </td></tr>
+          <tr><td colspan="2">
+
+          <p>Avalon Bay, Catalina Island, California.
+
+Unfortunately the batteries gave out partway through.  Too bad given the
+great lighting.</p>
+          <p>Explore Score: $[score]</p>
+          <p align="right">
+          <b>Author</b>: <a href="http://www.gigapan.org/profiles/20704">  (oobie)</a>
+           </p>
+			
+          </td></tr></table>
+          </div>]]></description>
+        <Camera>
+          <longitude>-118.327713</longitude>
+          <latitude>33.346382</latitude>
+          <altitude>20</altitude>
+          <heading>37</heading>
+          <tilt>84</tilt>
+          <roll>0</roll>
+        </Camera>
+        <styleUrl>#panoramaStyle1</styleUrl>
+        <ExtendedData>
+          <Data name="score">
+            <value>22.0</value>
+          </Data>
+        </ExtendedData>
+        <color>feffffff</color>
+        <Icon>
+          <href>http://www.gigapan.org/get_ge_tile/30764/$[level]/$[y]/$[x]</href>
+        </Icon>
+        <ViewVolume>
+          <leftFov>-31</leftFov>
+          <rightFov>31</rightFov>
+          <bottomFov>-28.6475</bottomFov>
+          <topFov>54.2027</topFov>
+          <near>120</near>
+        </ViewVolume>
+        <ImagePyramid>
+          <maxWidth>17452</maxWidth>
+          <maxHeight>23321</maxHeight>
+          <gridOrigin>upperLeft</gridOrigin>
+        </ImagePyramid>
+        <Point>
+          <coordinates>
+            -118.327713,33.346382,0
+          </coordinates>
+        </Point>
+        <shape>sphere</shape>
+      </PhotoOverlay>
+      <PhotoOverlay id="gigapan_30759">
+        <name>Avalon Bay 3</name>
+        <visibility>0</visibility>
+        <Snippet maxLines="1">
+<![CDATA[<a href="#gigapan_30759">Enter panorama</a>]]>        </Snippet>
+        <description><![CDATA[<div align="center">
+
+          <table width="500"><tr><td>
+          <a href="http://www.gigapan.org/">
+            <img src="http://www.gigapan.org/images/gigapan.png">
+          </a>
+          </td><td>
+            <font size="10">$[name]</font>
+            <hr>
+            <a href="#gigapan_30759">Enter Panorama</a> |
+            <a href="http://www.gigapan.org/gigapans/30759">Panorama at gigapan.org</a>
+          </td>
+          </tr>
+          <tr><td colspan="2" align="center">
+          <a href="#gigapan_30759">
+            <img src="http://www.gigapan.org/gigapans/30759-500x229.jpg">
+          </a>
+          </td></tr>
+          <tr><td colspan="2">
+
+          <p>Avalon Bay, Catalina Island</p>
+          <p>Explore Score: $[score]</p>
+          <p align="right">
+          <b>Author</b>: <a href="http://www.gigapan.org/profiles/20704">  (oobie)</a>
+           </p>
+			
+          </td></tr></table>
+          </div>]]></description>
+        <Camera>
+          <longitude>-118.322006</longitude>
+          <latitude>33.343277</latitude>
+          <altitude>20</altitude>
+          <heading>309</heading>
+          <tilt>75</tilt>
+          <roll>0</roll>
+        </Camera>
+        <styleUrl>#panoramaStyle</styleUrl>
+        <ExtendedData>
+          <Data name="score">
+            <value>30.85</value>
+          </Data>
+        </ExtendedData>
+        <color>feffffff</color>
+        <Icon>
+          <href>http://www.gigapan.org/get_ge_tile/30759/$[level]/$[y]/$[x]</href>
+        </Icon>
+        <ViewVolume>
+          <leftFov>-62.5</leftFov>
+          <rightFov>62.5</rightFov>
+          <bottomFov>-27.6412</bottomFov>
+          <topFov>29.817</topFov>
+          <near>120</near>
+        </ViewVolume>
+        <ImagePyramid>
+          <maxWidth>33731</maxWidth>
+          <maxHeight>15505</maxHeight>
+          <gridOrigin>upperLeft</gridOrigin>
+        </ImagePyramid>
+        <Point>
+          <coordinates>
+            -118.322006,33.343277,0
+          </coordinates>
+        </Point>
+        <shape>sphere</shape>
+      </PhotoOverlay>
+    </Folder>
+  </Document>
+</kml>
