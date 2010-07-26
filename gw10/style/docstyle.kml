@@ -6,5 +6,10 @@
         <listItemType>checkOffOnly</listItemType>
       </ListStyle>
     </Style>
+    <Style id="radio-folder">
+      <ListStyle>
+        <listItemType>radioFolder</listItemType>
+      </ListStyle>
+    </Style>
   </Document>
 </kml>
