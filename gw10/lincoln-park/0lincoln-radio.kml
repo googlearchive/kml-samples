@@ -3,12 +3,7 @@
   <Document>
     <name>Lincoln Park GC radio NetworkLinks</name>
     <open>1</open>
-    <styleUrl>#radio-folder</styleUrl>
-    <Style id="radio-folder">
-      <ListStyle>
-        <listItemType>radioFolder</listItemType>
-      </ListStyle>
-    </Style>
+    <styleUrl>../style/docstyle.kml#radio-folder</styleUrl>
     <NetworkLink>
       <name>Basic</name>
       <!-- radioFolder defaults to last one visible -->
