@@ -17,5 +17,33 @@
         <href>continents.kml</href>
       </Link>
     </NetworkLink>
+    <NetworkLink>
+      <name>Region - Lod demo</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>simple-lod-demo.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Region - Polygon</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>0polygon.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Region - more Polygon</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>1polygon.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Region - still more Polygon</name>
+      <visibility>0</visibility>
+      <Link>
+        <href>2polygon.kml</href>
+      </Link>
+    </NetworkLink>
   </Document>
 </kml>
