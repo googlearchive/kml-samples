@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Feature - basic</name>
+    <open>1</open>
+    <Placemark id="pm0">
+      <name>PM</name>
+      <visibility>0</visibility>
+      <description>Placemark</description>
+    </Placemark>
+    <NetworkLink id="nl0">
+      <name>NL</name>
+      <visibility>0</visibility>
+      <description>NetworkLink</description>
+    </NetworkLink>
+    <Folder id="f0">
+      <name>F</name>
+      <visibility>0</visibility>
+      <description>Folder</description>
+    </Folder>
+    <Document id="d0">
+      <name>D</name>
+      <visibility>0</visibility>
+      <description>Document</description>
+    </Document>
+    <GroundOverlay id="go0">
+      <name>GO</name>
+      <visibility>0</visibility>
+      <description>GroundOverlay</description>
+    </GroundOverlay>
+    <ScreenOverlay id="so0">
+      <name>SO</name>
+      <visibility>0</visibility>
+      <description>ScreenOverlay</description>
+    </ScreenOverlay>
+    <PhotoOverlay id="po0">
+      <name>PO</name>
+      <visibility>0</visibility>
+      <description>PhotoOverlay</description>
+    </PhotoOverlay>
+    <gx:Tour id="po0">
+      <name>TR</name>
+      <visibility>0</visibility>
+      <description>gx:Tour</description>
+    </gx:Tour>
+  </Document>
+</kml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Feature - styled</name>
+    <open>1</open>
+    <Style id="shared-style">
+      <BalloonStyle>
+        <bgColor>ff82fff3</bgColor>
+        <text>
+          <![CDATA[<b>$[name]</b><br/>$[description]<br/><i>$[id]</i>]]>
+        </text>
+      </BalloonStyle>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+        <bgColor>ffffb20b</bgColor>
+        <ItemIcon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </ItemIcon>
+      </ListStyle>
+    </Style>
+    <Placemark id="pm0">
+      <name>PM</name>
+      <visibility>0</visibility>
+      <description>Placemark</description>
+      <styleUrl>#shared-style</styleUrl>
+    </Placemark>
+    <NetworkLink id="nl0">
+      <name>NL</name>
+      <visibility>0</visibility>
+      <description>NetworkLink</description>
+      <styleUrl>#shared-style</styleUrl>
+    </NetworkLink>
+    <Folder id="f0">
+      <name>F</name>
+      <visibility>0</visibility>
+      <description>Folder</description>
+      <styleUrl>#shared-style</styleUrl>
+    </Folder>
+    <Document id="d0">
+      <name>D</name>
+      <visibility>0</visibility>
+      <description>Document</description>
+      <styleUrl>#shared-style</styleUrl>
+    </Document>
+    <GroundOverlay id="go0">
+      <name>GO</name>
+      <visibility>0</visibility>
+      <description>GroundOverlay</description>
+      <styleUrl>#shared-style</styleUrl>
+    </GroundOverlay>
+    <ScreenOverlay id="so0">
+      <name>SO</name>
+      <visibility>0</visibility>
+      <description>ScreenOverlay</description>
+      <styleUrl>#shared-style</styleUrl>
+    </ScreenOverlay>
+    <PhotoOverlay id="po0">
+      <name>PO</name>
+      <visibility>0</visibility>
+      <description>PhotoOverlay</description>
+      <styleUrl>#shared-style</styleUrl>
+    </PhotoOverlay>
+    <gx:Tour id="po0">
+      <name>TR</name>
+      <visibility>0</visibility>
+      <description>gx:Tour</description>
+      <styleUrl>#shared-style</styleUrl>
+    </gx:Tour>
+  </Document>
+</kml>

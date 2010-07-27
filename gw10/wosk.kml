@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Wosk Center</name>
+    <Snippet maxLines="0">
+    </Snippet>
+    <description>
+      Welcome to this talk about KML at GeoWeb 2010!
+    </description>
+    <Style>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+    </Style>
+    <Point>
+      <coordinates>
+        -123.112897,49.28446,0
+      </coordinates>
+    </Point>
+  </Placemark>
+</kml>
