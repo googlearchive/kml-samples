@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>Catalina - Points</name>
-          <altitudeMode>absolute</altitudeMode>
     <description>Catalina Island to Long Beach by helicopter.</description>
     <LookAt>
       <gx:TimeSpan>
@@ -23,7 +22,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-7.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -36,7 +34,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-8.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <StyleMap id="track-none">
@@ -66,7 +63,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-9.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -85,7 +81,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-14_n">
@@ -95,7 +90,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-14.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -138,7 +132,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-6.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-0_n">
@@ -148,7 +141,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -171,7 +163,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-15.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-3_h">
@@ -181,7 +172,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-3.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="waypoint_h">
@@ -209,7 +199,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-1.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-none_h">
@@ -219,7 +208,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-8_n">
@@ -229,7 +217,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-8.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -252,7 +239,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-5.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <StyleMap id="track-1">
@@ -272,7 +258,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-13.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -343,7 +328,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-6.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -356,7 +340,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-4.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-none_n">
@@ -366,7 +349,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -379,7 +361,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-10.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-2_h">
@@ -389,7 +370,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-2.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <StyleMap id="track-3">
@@ -409,7 +389,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-12.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <StyleMap id="track-0">
@@ -439,7 +418,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-13.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-14_h">
@@ -449,7 +427,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-14.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <StyleMap id="track-5">
@@ -469,7 +446,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-11.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-3_n">
@@ -479,7 +455,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-3.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -492,7 +467,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-4.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -505,7 +479,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-2.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -530,7 +503,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-12.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -543,7 +515,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-11.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -576,7 +547,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-15.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -589,7 +559,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-10.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -602,7 +571,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-7.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Style id="track-1_n">
@@ -612,7 +580,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-1.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -625,7 +592,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-5.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
       <LabelStyle>
         <scale>0</scale>
@@ -638,7 +604,6 @@
         <Icon>
           <href>http://earth.google.com/images/kml-icons/track-directional/track-9.png</href>
         </Icon>
-        <gx:headingMode>worldNorth</gx:headingMode>
       </IconStyle>
     </Style>
     <Folder>
