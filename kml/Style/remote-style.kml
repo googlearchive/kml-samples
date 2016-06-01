@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 This file contains styleUrls to:
-http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml
+http://googlemaps.github.io/kml-samples/kml/Style/styles.kml
 -->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
@@ -49,7 +49,7 @@ http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml
     <Folder id="radio-absolute">
       <name>another radio folder</name>
       <description>styleUrl is absolute</description>
-      <styleUrl>http://kml-samples.googlecode.com/svn/trunk/kml/Style/styles.kml#radioFolder</styleUrl>
+      <styleUrl>http://googlemaps.github.io/kml-samples/kml/Style/styles.kml#radioFolder</styleUrl>
       <Placemark>
         <name>a</name>
       </Placemark>

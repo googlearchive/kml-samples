@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <NetworkLinkControl>
     <Update>
-      <targetHref>http://kml-samples.googlecode.com/svn/trunk/kml/Update/Change/target.kml</targetHref>
+      <targetHref>http://googlemaps.github.io/kml-samples/kml/Update/Change/target.kml</targetHref>
       <Change>
         <Placemark targetId="targetPlacemark">
           <name>changed name</name>

@@ -11,7 +11,7 @@
           <longitude>-120</longitude>
         </Location>
         <Link>
-          <href>http://kml-samples.googlecode.com/svn/trunk/kml/Model/ResourceMap/shared-textures/geometry/bldg.dae</href>
+          <href>http://googlemaps.github.io/kml-samples/kml/Model/ResourceMap/shared-textures/geometry/bldg.dae</href>
           <viewRefreshMode>never</viewRefreshMode>
         </Link>
       </Model>
@@ -19,14 +19,14 @@
     <NetworkLink>
       <name>NetworkLink Url</name>
       <Link>
-        <href>http://kml-samples.googlecode.com/svn/trunk/kml/feature-anchor/eat-at-google.kml</href>
+        <href>http://googlemaps.github.io/kml-samples/kml/feature-anchor/eat-at-google.kml</href>
         <viewRefreshMode>never</viewRefreshMode>
       </Link>
     </NetworkLink>
     <GroundOverlay>
       <name>GroundOverlay Icon</name>
       <Icon>
-        <href>http://kml-samples.googlecode.com/svn/trunk/kml/Model/ResourceMap/photos/bh-flowers.jpg</href>
+        <href>http://googlemaps.github.io/kml-samples/kml/Model/ResourceMap/photos/bh-flowers.jpg</href>
         <viewRefreshMode>never</viewRefreshMode>
       </Icon>
       <LatLonBox>
